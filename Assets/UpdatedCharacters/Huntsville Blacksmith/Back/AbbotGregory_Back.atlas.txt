@@ -1,0 +1,69 @@
+
+AbbotGregory_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hammer copy 2
+  rotate: false
+  xy: 436, 54
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 190, 220
+  orig: 190, 220
+  offset: 0, 0
+  index: -1
+l_lowerArm
+  rotate: false
+  xy: 456, 136
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+l_upperArm
+  rotate: true
+  xy: 344, 54
+  size: 57, 90
+  orig: 57, 90
+  offset: 0, 0
+  index: -1
+lft leg copy
+  rotate: false
+  xy: 344, 113
+  size: 54, 109
+  orig: 54, 109
+  offset: 0, 0
+  index: -1
+r_lowerArm
+  rotate: true
+  xy: 340, 2
+  size: 50, 84
+  orig: 50, 84
+  offset: 0, 0
+  index: -1
+r_upperArm
+  rotate: true
+  xy: 194, 8
+  size: 57, 144
+  orig: 57, 144
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 400, 113
+  size: 54, 109
+  orig: 54, 109
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 194, 67
+  size: 148, 155
+  orig: 148, 155
+  offset: 0, 0
+  index: -1

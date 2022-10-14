@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef310dd68ee1e64a85b005b709c484a, type: 3}
+  m_Name: JohnAttackLibrary
+  m_EditorClassIdentifier: 
+  AttackEntityLibrary:
+  - {fileID: 11400000, guid: aa0d888edadc0e94e929f4a1ebc9f0b9, type: 2}
+  - {fileID: 11400000, guid: 22cd968b7bf51cc45b7b710b89b7e636, type: 2}
+  - {fileID: 11400000, guid: 13c15551161b45b449f601671cde1662, type: 2}
+  - {fileID: 11400000, guid: 0a0892f98d8c26f4ab56d57294d096be, type: 2}
+  - {fileID: 11400000, guid: aef1e97f75146d54998c72582b350008, type: 2}
+  - {fileID: 11400000, guid: 4391948b93c5724458677903abdf0a65, type: 2}
+  - {fileID: 11400000, guid: 51ec5edd90a3c4b47affac892b0a3efb, type: 2}
+  - {fileID: 11400000, guid: ec8571368960f3846976da3d51f604c4, type: 2}

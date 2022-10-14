@@ -1,0 +1,97 @@
+
+Barghast_Prep.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dead
+  rotate: false
+  xy: 2, 55
+  size: 536, 199
+  orig: 549, 302
+  offset: 6, 26
+  index: -1
+back lft leg persp 
+  rotate: true
+  xy: 1497, 166
+  size: 88, 161
+  orig: 88, 161
+  offset: 0, 0
+  index: -1
+back ryt leg persp 
+  rotate: true
+  xy: 982, 155
+  size: 99, 187
+  orig: 99, 187
+  offset: 0, 0
+  index: -1
+front lft leg persp 
+  rotate: true
+  xy: 1660, 165
+  size: 89, 159
+  orig: 89, 159
+  offset: 0, 0
+  index: -1
+front ryt leg persp 
+  rotate: true
+  xy: 1171, 154
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+haead skin persp
+  rotate: false
+  xy: 799, 110
+  size: 181, 144
+  orig: 181, 144
+  offset: 0, 0
+  index: -1
+jaw persp 
+  rotate: false
+  xy: 1821, 194
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+left eyebrow persp 
+  rotate: false
+  xy: 799, 80
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+lft pupil persp 
+  rotate: true
+  xy: 540, 55
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+ryt eyebrow persp 
+  rotate: true
+  xy: 2, 2
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+ryt pupil persp 
+  rotate: false
+  xy: 982, 136
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+tail persp 
+  rotate: true
+  xy: 1341, 132
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1
+torso persp 
+  rotate: false
+  xy: 540, 70
+  size: 257, 184
+  orig: 257, 184
+  offset: 0, 0
+  index: -1

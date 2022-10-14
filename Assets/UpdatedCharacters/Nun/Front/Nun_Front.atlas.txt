@@ -1,0 +1,118 @@
+
+Nun_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back cloth
+  rotate: false
+  xy: 173, 67
+  size: 157, 177
+  orig: 157, 177
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 53
+  size: 169, 191
+  orig: 169, 191
+  offset: 0, 0
+  index: -1
+lft eye copy
+  rotate: true
+  xy: 422, 71
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 2, 2
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+lft foot copy
+  rotate: false
+  xy: 218, 35
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+lft lwr arm copy
+  rotate: false
+  xy: 422, 178
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+lft pupil copy
+  rotate: false
+  xy: 284, 41
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 284, 41
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lft upr arm copy
+  rotate: false
+  xy: 422, 116
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 173, 27
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: true
+  xy: 498, 206
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+ryt foot
+  rotate: false
+  xy: 251, 35
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: true
+  xy: 99, 14
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: false
+  xy: 461, 184
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 2, 14
+  size: 95, 37
+  orig: 95, 37
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 332, 75
+  size: 88, 169
+  orig: 88, 169
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+BaronMessenger_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cape frnt
+  rotate: false
+  xy: 281, 114
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 67
+  size: 176, 187
+  orig: 176, 187
+  offset: 0, 0
+  index: -1
+lft  lowr arm copy
+  rotate: true
+  xy: 180, 72
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+lft  lowr arm copy 2
+  rotate: false
+  xy: 190, 2
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+lft eyesocket copy
+  rotate: false
+  xy: 336, 81
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+lft eyesocket copy 2
+  rotate: false
+  xy: 439, 76
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+lft hd hair
+  rotate: true
+  xy: 2, 4
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 478, 208
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+lft pupil copy
+  rotate: false
+  xy: 488, 86
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+lft pupil copy 2
+  rotate: false
+  xy: 488, 63
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+lft upr arm copy 2
+  rotate: false
+  xy: 220, 18
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+lft upr arm copy 3
+  rotate: true
+  xy: 385, 81
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+lips
+  rotate: false
+  xy: 281, 91
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+neck cloth
+  rotate: false
+  xy: 389, 109
+  size: 99, 49
+  orig: 99, 49
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: true
+  xy: 490, 115
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+ryt eyebrow copy
+  rotate: true
+  xy: 248, 27
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+ryt hd hair
+  rotate: true
+  xy: 96, 4
+  size: 61, 92
+  orig: 61, 92
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 478, 160
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+side pouch
+  rotate: false
+  xy: 389, 160
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+torso1
+  rotate: false
+  xy: 180, 102
+  size: 99, 152
+  orig: 99, 152
+  offset: 0, 0
+  index: -1

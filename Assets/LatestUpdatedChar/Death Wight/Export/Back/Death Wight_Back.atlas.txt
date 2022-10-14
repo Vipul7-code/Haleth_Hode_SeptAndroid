@@ -1,0 +1,83 @@
+
+Death Wight_Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_back body
+  rotate: false
+  xy: 197, 17
+  size: 175, 123
+  orig: 175, 123
+  offset: 0, 0
+  index: -1
+Back_back head
+  rotate: false
+  xy: 2, 2
+  size: 193, 245
+  orig: 193, 245
+  offset: 0, 0
+  index: -1
+Back_back pelvis
+  rotate: false
+  xy: 578, 150
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+Back_floating shadow back
+  rotate: false
+  xy: 197, 142
+  size: 197, 105
+  orig: 199, 107
+  offset: 1, 1
+  index: -1
+Back_lft hand back
+  rotate: false
+  xy: 453, 151
+  size: 26, 37
+  orig: 28, 39
+  offset: 1, 1
+  index: -1
+Back_lft lwr arm back
+  rotate: true
+  xy: 396, 145
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Back_lft upr arm back
+  rotate: false
+  xy: 692, 174
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+Back_ryt hand back
+  rotate: false
+  xy: 837, 210
+  size: 26, 37
+  orig: 28, 39
+  offset: 1, 1
+  index: -1
+Back_ryt lwr arm back
+  rotate: false
+  xy: 792, 192
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+Back_ryt upr arm back
+  rotate: false
+  xy: 742, 174
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: true
+  xy: 396, 190
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1

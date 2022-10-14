@@ -1,0 +1,97 @@
+
+Reevs General_1_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin
+  rotate: false
+  xy: 2, 54
+  size: 150, 195
+  orig: 150, 195
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 408, 228
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: true
+  xy: 126, 9
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 316, 195
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+lft lwr arm copy 2
+  rotate: false
+  xy: 270, 104
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+lft upr arm copy 2
+  rotate: true
+  xy: 154, 58
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 408, 205
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 316, 173
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 362, 195
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: true
+  xy: 233, 66
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: false
+  xy: 270, 172
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 2, 2
+  size: 50, 122
+  orig: 50, 122
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 154, 104
+  size: 114, 145
+  orig: 114, 145
+  offset: 0, 0
+  index: -1

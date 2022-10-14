@@ -1,0 +1,125 @@
+
+Sargent at Arms_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head persp
+  rotate: false
+  xy: 2, 85
+  size: 172, 169
+  orig: 172, 169
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 351, 80
+  size: 174, 136
+  orig: 174, 136
+  offset: 0, 0
+  index: -1
+lft eye socket
+  rotate: false
+  xy: 244, 6
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: true
+  xy: 220, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 449, 21
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+lft lwr arm persp
+  rotate: true
+  xy: 2, 6
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+lft pupil persp
+  rotate: false
+  xy: 489, 211
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+lft upr arm persp
+  rotate: true
+  xy: 276, 4
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+medium round shield side
+  rotate: true
+  xy: 176, 34
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+ryt eye socket
+  rotate: true
+  xy: 137, 8
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 166, 9
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 74, 5
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+ryt lwr arm persp
+  rotate: true
+  xy: 276, 63
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+ryt pupil persp
+  rotate: true
+  xy: 489, 232
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+ryt upr arm persp
+  rotate: true
+  xy: 363, 21
+  size: 57, 84
+  orig: 57, 84
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 176, 110
+  size: 144, 173
+  orig: 144, 173
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 2, 52
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - upside
+  - downside
+  - side
+  - Companion
+  - RSide
+  - LSide
+  - Inn
+  - checkPoint
+  - ChurchToVillage
+  - Part1
+  - completeRound
+  - monestry
+  - Church
+  - LeftMonestry
+  - LeftCampsite
+  - LeftWagon
+  - fadeIn
+  - DownToChurch
+  - LeftChurch
+  - LeftHunsville
+  - LeaveSacredDengeon
+  - Treasure
+  - Shrine
+  - CellarInt
+  - CellarTucker
+  - LeftTucker
+  - getTresure
+  - LeaveDeath
+  - SecludedArea
+  - SecondSoldierCaravan
+  - SacredPlaceDengeon
+  - BarghestVillage
+  - TheDeathWeight
+  - LeaveBarghest
+  - BarghestCave
+  - LeaveCave
+  - BackToBarghest
+  - LeaveDeathVill
+  - BackToDeath
+  - LeaveBrigand
+  - BackToBrigand
+  - InnSecond
+  - LeaveChurch
+  - EnterInn
+  - door
+  - SecondInn
+  - EnterShop
+  - EnteringSacredDeng
+  - EnterDengeon
+  - EnterMayor
+  - EnterBlackSmit
+  - EnterFarmhouse
+  - startConversationSacret
+  - gate
+  - FightInMonestry
+  - BackToTrail
+  - obstacle
+  - CastleEscape
+  - castleTunnel
+  - ThroneRoom
+  - leavingThrone
+  - huntingtonCourtyard
+  - randomConversation
+  - RandomAttack
+  - exitDengeon
+  - ChurchGate
+  - Caravan1
+  - EnterArmorer
+  - ShopCounter
+  - BarghestShop
+  - MotteyBattle
+  - Door1
+  - Door2
+  - DamageHuns
+  - ShopOpen
+  - nun1
+  - nun2
+  - nun3
+  - nun4
+  - nun5
+  - nun6
+  - monk1
+  - monk2
+  - monk3
+  - monk4
+  - monk5
+  - monk6
+  - leftCellar
+  - ChurchConvo
+  - Huntsville
+  - Hunsville
+  - Soldier Campsite
+  - Wagon Caravan
+  - Atwater Village
+  - Sacred Place
+  - Campsite
+  - Monastery
+  - Motte and Bailey Castle
+  - Brigand Village
+  - Huntington
+  - nun7
+  - monk7
+  - nun8
+  - monk8
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacles
+  - FogOfWar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Effects
+    uniqueID: 3388203113
+    locked: 0

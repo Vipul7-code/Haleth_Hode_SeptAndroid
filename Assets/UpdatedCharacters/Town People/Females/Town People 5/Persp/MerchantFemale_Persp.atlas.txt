@@ -1,0 +1,111 @@
+
+MerchantFemale_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair
+  rotate: false
+  xy: 206, 41
+  size: 163, 212
+  orig: 163, 212
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 37
+  size: 216, 202
+  orig: 216, 202
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 471, 55
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+lft eyesocket
+  rotate: false
+  xy: 370, 6
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+lft foot
+  rotate: false
+  xy: 452, 11
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 447, 45
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+lwr arm
+  rotate: true
+  xy: 76, 9
+  size: 26, 76
+  orig: 26, 76
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: true
+  xy: 154, 9
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 2, 3
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 371, 54
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+ryt eyesocket
+  rotate: false
+  xy: 304, 2
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+ryt foot
+  rotate: false
+  xy: 421, 7
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 420, 42
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 371, 69
+  size: 109, 184
+  orig: 109, 184
+  offset: 0, 0
+  index: -1
+upr am
+  rotate: true
+  xy: 228, 4
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1

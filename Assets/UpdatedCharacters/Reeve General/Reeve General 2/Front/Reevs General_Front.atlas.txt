@@ -1,0 +1,132 @@
+
+Reevs General_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cape copy 2
+  rotate: false
+  xy: 300, 119
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 21
+  size: 175, 233
+  orig: 175, 233
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 303, 31
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 179, 2
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 430, 96
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 357, 94
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 472, 167
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+lwr ryt arm copy
+  rotate: true
+  xy: 248, 30
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 430, 222
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+ryt eye copy
+  rotate: false
+  xy: 351, 31
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+ryt eyebrw copy
+  rotate: false
+  xy: 233, 2
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 300, 74
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: true
+  xy: 287, 3
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 179, 68
+  size: 42, 104
+  orig: 42, 104
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 179, 112
+  size: 119, 142
+  orig: 119, 142
+  offset: 0, 0
+  index: -1
+upr left arm
+  rotate: true
+  xy: 179, 26
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+upr ryt arm copy
+  rotate: false
+  xy: 430, 153
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: true
+  xy: 397, 97
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

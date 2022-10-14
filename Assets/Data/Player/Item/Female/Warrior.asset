@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe02bd1047c09548993b11a8e55782c, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 3541331682135007856, guid: d2ffbfa622da9e84aa3af4a46b541f01,
+    type: 3}
+  damageValue: 10
+  characterName: Warrior
+  shield: 0
+  health: 20
+  armour: 0
+  helmet: 0
+  defence: 10
+  weapon: 0
+  level: 1
+  xpPoints: 0
+  HealthFactor: 0
+  Type: 0
+  gender: 1
+  weaponId: 0
+  defenceId: 0
+  icon: {fileID: 21300000, guid: 8958ac067e9e6614b9532b868284fae1, type: 3}
+  weaponIcon: {fileID: 21300000, guid: 3743524d68994684f88396d36aee4786, type: 3}
+  stringId: WarriorFemale
+  weapon1: 0
+  weapon2: 0
+  weapon3: 0
+  weapon4: 0
+  weapon5: 0
+  weapon6: 0
+  playerItemPrefab: {fileID: 5123245336752291936, guid: 2d8a94f6fe202324bbeab0d2feaa9e0d,
+    type: 3}

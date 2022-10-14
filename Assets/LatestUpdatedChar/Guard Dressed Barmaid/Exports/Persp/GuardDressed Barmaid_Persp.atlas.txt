@@ -1,0 +1,153 @@
+
+GuardDressed Barmaid_Persp.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chainmail armor
+  rotate: false
+  xy: 472, 181
+  size: 152, 73
+  orig: 152, 73
+  offset: 0, 0
+  index: -1
+hairs
+  rotate: false
+  xy: 2, 37
+  size: 185, 217
+  orig: 185, 217
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 189, 37
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: false
+  xy: 986, 233
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 626, 206
+  size: 48, 94
+  orig: 48, 94
+  offset: 0, 0
+  index: -1
+lft pupil copy 3
+  rotate: false
+  xy: 662, 160
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+lft shldr cloth
+  rotate: false
+  xy: 866, 213
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 572, 105
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 795, 212
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 189, 70
+  size: 154, 184
+  orig: 154, 184
+  offset: 0, 0
+  index: -1
+mustache copy
+  rotate: false
+  xy: 626, 181
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 614, 144
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 614, 122
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 472, 82
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+ryt pupil copy 2
+  rotate: false
+  xy: 694, 182
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+ryt shldr cloth
+  rotate: false
+  xy: 926, 213
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 345, 78
+  size: 125, 176
+  orig: 125, 176
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: true
+  xy: 722, 209
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 522, 99
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+waist wallet
+  rotate: false
+  xy: 161, 2
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 2, 4
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

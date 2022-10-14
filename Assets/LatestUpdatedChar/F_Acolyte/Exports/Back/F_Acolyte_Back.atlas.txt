@@ -1,0 +1,272 @@
+
+F_Acolyte_Back.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hammer
+  rotate: false
+  xy: 995, 101
+  size: 84, 153
+  orig: 84, 153
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: true
+  xy: 1081, 197
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+chain mail lft shldr aarmor
+  rotate: true
+  xy: 2007, 221
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+chain mail lryt shldr aarmor
+  rotate: true
+  xy: 261, 2
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+chainmail helmet back
+  rotate: false
+  xy: 200, 36
+  size: 187, 218
+  orig: 187, 218
+  offset: 0, 0
+  index: -1
+chainmail torso armor copy 4
+  rotate: true
+  xy: 1530, 155
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+chainmail wristwrist armor lft
+  rotate: false
+  xy: 1052, 69
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+chainmail wristwrist armor ryt
+  rotate: true
+  xy: 108, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+guard armr
+  rotate: true
+  xy: 1659, 156
+  size: 98, 126
+  orig: 98, 126
+  offset: 0, 0
+  index: -1
+head  back  guard armr
+  rotate: false
+  xy: 2, 32
+  size: 196, 222
+  orig: 196, 222
+  offset: 0, 0
+  index: -1
+head back
+  rotate: true
+  xy: 791, 63
+  size: 191, 202
+  orig: 191, 202
+  offset: 0, 0
+  index: -1
+leather cap with hair
+  rotate: false
+  xy: 389, 48
+  size: 191, 206
+  orig: 191, 206
+  offset: 0, 0
+  index: -1
+leather lft armor  back
+  rotate: true
+  xy: 140, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+leather lft shldr aarmor back
+  rotate: true
+  xy: 1999, 185
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+leather ryt armor  back
+  rotate: true
+  xy: 340, 6
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+leather ryt shldr aarmor back
+  rotate: true
+  xy: 1081, 60
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+leather torso back
+  rotate: true
+  xy: 1081, 96
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+lft leg back
+  rotate: false
+  xy: 301, 9
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+lft leg back  guard armr
+  rotate: true
+  xy: 1787, 176
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+lft lwr arm  back  guard armr
+  rotate: true
+  xy: 1946, 223
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+lft lwr arm back
+  rotate: true
+  xy: 2, 2
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+lft upr arm  back  guard armr
+  rotate: true
+  xy: 1870, 183
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+lft upr arm back
+  rotate: true
+  xy: 1344, 149
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+metal helmet with hair
+  rotate: true
+  xy: 582, 65
+  size: 189, 207
+  orig: 189, 207
+  offset: 0, 0
+  index: -1
+padded lft shldr aarmor
+  rotate: false
+  xy: 1927, 183
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+padded lryt shldr aarmor
+  rotate: false
+  xy: 1963, 183
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+padded torso armor
+  rotate: true
+  xy: 1400, 153
+  size: 101, 128
+  orig: 101, 128
+  offset: 0, 0
+  index: -1
+ryt leg back
+  rotate: false
+  xy: 1120, 69
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+ryt leg back  guard armr
+  rotate: true
+  xy: 1261, 130
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+ryt lwr arm back
+  rotate: true
+  xy: 55, 2
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+ryt lwr arm back  guard armr
+  rotate: true
+  xy: 200, 2
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+ryt upr arm back
+  rotate: true
+  xy: 1261, 103
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+ryt upr arm back  guard armr
+  rotate: true
+  xy: 995, 61
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+shoulder cloth back
+  rotate: true
+  xy: 1211, 97
+  size: 98, 48
+  orig: 98, 48
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 1263, 177
+  size: 77, 135
+  orig: 77, 135
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 1787, 223
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1
+wrist armor lft  paded
+  rotate: true
+  xy: 1159, 66
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+wrist armor ryt  padded
+  rotate: true
+  xy: 1787, 146
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

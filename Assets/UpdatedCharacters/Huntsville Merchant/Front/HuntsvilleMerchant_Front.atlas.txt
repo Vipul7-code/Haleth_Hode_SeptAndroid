@@ -1,0 +1,111 @@
+
+HuntsvilleMerchant_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front body
+  rotate: false
+  xy: 193, 144
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 2
+  size: 189, 251
+  orig: 189, 251
+  offset: 0, 0
+  index: -1
+lft eye pupil
+  rotate: false
+  xy: 341, 143
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ryt eye pupil
+  rotate: false
+  xy: 341, 143
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: true
+  xy: 232, 13
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+lft eyesocket
+  rotate: false
+  xy: 193, 13
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+lft leg front
+  rotate: false
+  xy: 193, 51
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+lft lower front arm copy
+  rotate: false
+  xy: 353, 173
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+lft upper front arm copy
+  rotate: false
+  xy: 423, 183
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+pelvis front
+  rotate: true
+  xy: 244, 62
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: true
+  xy: 257, 24
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+ryt eyesocket copy
+  rotate: false
+  xy: 302, 124
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+ryt leg front
+  rotate: false
+  xy: 302, 162
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+ryt lower front arm
+  rotate: false
+  xy: 388, 173
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+ryt upper front arm
+  rotate: false
+  xy: 467, 183
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1

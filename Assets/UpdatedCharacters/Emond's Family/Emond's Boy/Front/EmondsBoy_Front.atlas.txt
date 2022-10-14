@@ -1,0 +1,97 @@
+
+EmondsBoy_Front.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair emond boy f
+  rotate: false
+  xy: 2, 4
+  size: 135, 103
+  orig: 135, 103
+  offset: 0, 0
+  index: -1
+headskin emond boy f
+  rotate: false
+  xy: 2, 109
+  size: 150, 138
+  orig: 150, 138
+  offset: 0, 0
+  index: -1
+lft eye emond boy f
+  rotate: true
+  xy: 139, 2
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+lft eyebrows emond boy f
+  rotate: false
+  xy: 219, 123
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+lft leg emond boy f
+  rotate: true
+  xy: 154, 111
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+lwr lft arm emond boy f
+  rotate: false
+  xy: 172, 55
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+lwr ryt arm emond boy f
+  rotate: false
+  xy: 196, 55
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+ryt eye emond boy f
+  rotate: true
+  xy: 220, 81
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+ryt eyebrows  emond boy f
+  rotate: true
+  xy: 220, 44
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+ryt leg emond boy f
+  rotate: false
+  xy: 139, 44
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+torso emond boy f
+  rotate: false
+  xy: 154, 144
+  size: 82, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+upr lft arm emond boy f
+  rotate: true
+  xy: 172, 30
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+upr ryt arm emond boy f
+  rotate: true
+  xy: 167, 5
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1

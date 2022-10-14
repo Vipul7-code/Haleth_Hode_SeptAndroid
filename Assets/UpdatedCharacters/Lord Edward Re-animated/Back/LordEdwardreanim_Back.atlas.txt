@@ -1,0 +1,76 @@
+
+LordEdwardreanim_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 59
+  size: 162, 195
+  orig: 162, 195
+  offset: 0, 0
+  index: -1
+lft lwr arm copy
+  rotate: false
+  xy: 427, 172
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+lft shoe
+  rotate: false
+  xy: 427, 143
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+lft upr arm copy
+  rotate: true
+  xy: 2, 2
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+lower waist cloth
+  rotate: false
+  xy: 328, 143
+  size: 97, 111
+  orig: 97, 111
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: true
+  xy: 328, 96
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+ryt shoe
+  rotate: true
+  xy: 474, 217
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: true
+  xy: 94, 2
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+waist band
+  rotate: false
+  xy: 166, 111
+  size: 160, 143
+  orig: 160, 143
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 166, 78
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

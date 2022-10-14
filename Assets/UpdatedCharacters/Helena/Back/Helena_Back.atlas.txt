@@ -1,0 +1,76 @@
+
+Helena_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 2, 35
+  size: 217, 253
+  orig: 217, 253
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 386, 208
+  size: 44, 98
+  orig: 44, 98
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 257, 47
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+L_upperhand
+  rotate: false
+  xy: 316, 96
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: false
+  xy: 257, 72
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: true
+  xy: 386, 163
+  size: 43, 98
+  orig: 43, 98
+  offset: 0, 0
+  index: -1
+R_Upperhand
+  rotate: false
+  xy: 486, 203
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: true
+  xy: 161, 5
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 316, 162
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+warriorSword
+  rotate: false
+  xy: 2, 2
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

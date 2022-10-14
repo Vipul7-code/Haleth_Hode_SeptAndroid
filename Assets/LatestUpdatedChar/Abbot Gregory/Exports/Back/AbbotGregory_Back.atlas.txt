@@ -1,0 +1,83 @@
+
+AbbotGregory_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hat
+  rotate: false
+  xy: 338, 143
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+cape back
+  rotate: true
+  xy: 159, 127
+  size: 113, 177
+  orig: 113, 177
+  offset: 0, 0
+  index: -1
+head back
+  rotate: false
+  xy: 2, 76
+  size: 155, 164
+  orig: 155, 164
+  offset: 0, 0
+  index: -1
+lft lwr arm back copy
+  rotate: false
+  xy: 86, 10
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+lft shoe back
+  rotate: true
+  xy: 480, 205
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+lft upr arm back copy
+  rotate: false
+  xy: 2, 2
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+pelvis back
+  rotate: true
+  xy: 284, 31
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+ryt lwr arm back
+  rotate: false
+  xy: 379, 77
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+ryt shoe back
+  rotate: true
+  xy: 123, 39
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+ryt upr arm back
+  rotate: false
+  xy: 44, 2
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+torso back
+  rotate: false
+  xy: 159, 28
+  size: 123, 97
+  orig: 123, 97
+  offset: 0, 0
+  index: -1

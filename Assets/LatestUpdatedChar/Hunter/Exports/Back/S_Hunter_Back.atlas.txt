@@ -1,0 +1,83 @@
+
+S_Hunter_Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair
+  rotate: true
+  xy: 205, 61
+  size: 184, 201
+  orig: 184, 201
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 45
+  size: 201, 200
+  orig: 201, 200
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 2, 2
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: true
+  xy: 88, 5
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+lwr rytt arm copy
+  rotate: false
+  xy: 831, 185
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+quiver
+  rotate: false
+  xy: 520, 134
+  size: 116, 111
+  orig: 116, 111
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 408, 70
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+side pouch
+  rotate: false
+  xy: 638, 150
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 408, 113
+  size: 110, 132
+  orig: 110, 132
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: false
+  xy: 733, 173
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+upr rytt arm copy
+  rotate: false
+  xy: 782, 173
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1

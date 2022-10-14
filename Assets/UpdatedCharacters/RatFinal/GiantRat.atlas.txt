@@ -1,0 +1,69 @@
+
+GiantRat.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back 2nd leg Giant rat
+  rotate: true
+  xy: 210, 89
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+body Giant rat
+  rotate: false
+  xy: 2, 2
+  size: 156, 100
+  orig: 156, 100
+  offset: 0, 0
+  index: -1
+dead Giant rat
+  rotate: false
+  xy: 2, 104
+  size: 206, 137
+  orig: 206, 137
+  offset: 0, 0
+  index: -1
+frnt 1st leg Giant rat
+  rotate: false
+  xy: 245, 28
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+frnt 1st leg copy Giant rat
+  rotate: false
+  xy: 300, 27
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+frnt 2nd leg Giant rat
+  rotate: true
+  xy: 342, 163
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+lwr jaw Giant rat
+  rotate: true
+  xy: 465, 191
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+tail  Giant rat
+  rotate: false
+  xy: 210, 157
+  size: 130, 84
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+upper jaw11 Giant rat
+  rotate: false
+  xy: 160, 27
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1

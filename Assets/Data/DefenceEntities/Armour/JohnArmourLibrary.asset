@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0721fa99f62a5cc42b8d1dea46cf1c9b, type: 3}
+  m_Name: JohnArmourLibrary
+  m_EditorClassIdentifier: 
+  DefenceEntityLibrary:
+  - {fileID: 11400000, guid: 210c8c0cb20750b41b80dd91d60ce94e, type: 2}
+  - {fileID: 11400000, guid: 3272b86e5fbd2db4482239c43a3f3dc1, type: 2}
+  - {fileID: 11400000, guid: 4c5ef7c8412a0b544853191e80599221, type: 2}
+  - {fileID: 11400000, guid: d72a7ef2e7194b54495a631250ed30aa, type: 2}
+  - {fileID: 11400000, guid: 30fa35bf4b49b7247ba307446b490cff, type: 2}
+  - {fileID: 11400000, guid: 2f03c718c9d430145bbf19ffcd882d24, type: 2}
+  - {fileID: 11400000, guid: 238a13450e2371f46bf57aa94cf1378a, type: 2}

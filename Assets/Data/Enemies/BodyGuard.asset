@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fe02bd1047c09548993b11a8e55782c, type: 3}
+  m_Name: BodyGuard
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 3541951095840504144, guid: 56ec7f63fd7e0ce4c9db041e05046101,
+    type: 3}
+  damageValue: 2
+  characterName: 
+  shield: 0
+  health: 70
+  armour: 1
+  helmet: 1
+  defence: 160
+  level: 7
+  xpPoints: 0
+  HealthFactor: 0
+  Type: 1
+  gender: 0
+  weaponId: 0
+  defenceId: 0
+  icon: {fileID: 0}
+  weaponIcon: {fileID: 0}
+  stringId: 
+  playerItemPrefab: {fileID: 5089964221336746093, guid: 38ff86bc8e4224a438c4767301f8113b,
+    type: 3}

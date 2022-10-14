@@ -1,0 +1,160 @@
+
+SoldierBasic_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HAIR
+  rotate: false
+  xy: 394, 69
+  size: 177, 126
+  orig: 177, 126
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: true
+  xy: 403, 197
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+Spear
+  rotate: true
+  xy: 2, 223
+  size: 31, 399
+  orig: 31, 399
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: true
+  xy: 744, 143
+  size: 111, 124
+  orig: 111, 124
+  offset: 0, 0
+  index: -1
+Warrior Sword
+  rotate: false
+  xy: 585, 223
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 585, 201
+  size: 68, 20
+  orig: 68, 20
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 199, 23
+  size: 193, 198
+  orig: 193, 198
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 870, 142
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: true
+  xy: 994, 214
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 394, 26
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+lwr lft  arm copy
+  rotate: true
+  xy: 474, 31
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 912, 185
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+metal helmet copy
+  rotate: false
+  xy: 2, 20
+  size: 195, 201
+  orig: 195, 201
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 76, 7
+  size: 36, 11
+  orig: 36, 11
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 2, 2
+  size: 72, 16
+  orig: 72, 16
+  offset: 0, 0
+  index: -1
+pupil copy
+  rotate: false
+  xy: 921, 158
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: true
+  xy: 545, 17
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: true
+  xy: 718, 181
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 870, 176
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+side pouch
+  rotate: true
+  xy: 199, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: false
+  xy: 950, 193
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 655, 179
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1

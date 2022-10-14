@@ -1,0 +1,118 @@
+
+Injured Monk.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blood
+  rotate: false
+  xy: 2, 126
+  size: 218, 123
+  orig: 218, 123
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 407, 99
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+key
+  rotate: true
+  xy: 710, 200
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+left_eyeLid
+  rotate: false
+  xy: 622, 103
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 834, 216
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 114, 2
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+lft_lowerArm
+  rotate: false
+  xy: 114, 25
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+lft_upperArm
+  rotate: false
+  xy: 782, 201
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+ryt eye1
+  rotate: false
+  xy: 665, 140
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+ryt eyeLid
+  rotate: false
+  xy: 710, 166
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: true
+  xy: 184, 78
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+ryt_lowerArm
+  rotate: false
+  xy: 579, 99
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+ryt_upperArm
+  rotate: false
+  xy: 622, 121
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 579, 185
+  size: 129, 64
+  orig: 129, 64
+  offset: 0, 0
+  index: -1
+spear
+  rotate: false
+  xy: 2, 2
+  size: 110, 122
+  orig: 110, 122
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 222, 97
+  size: 183, 152
+  orig: 183, 152
+  offset: 0, 0
+  index: -1

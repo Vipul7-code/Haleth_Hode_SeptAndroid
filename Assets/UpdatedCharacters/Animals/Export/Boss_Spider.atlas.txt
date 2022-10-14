@@ -1,0 +1,90 @@
+
+Boss_Spider.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abdomen boss spider
+  rotate: true
+  xy: 137, 200
+  size: 133, 113
+  orig: 133, 113
+  offset: 0, 0
+  index: -1
+Back boss spider
+  rotate: false
+  xy: 2, 335
+  size: 189, 166
+  orig: 189, 166
+  offset: 0, 0
+  index: -1
+Eye 01 boss spider
+  rotate: false
+  xy: 214, 49
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Eye 03 boss spider
+  rotate: false
+  xy: 22, 7
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+Eye 04 boss spider
+  rotate: false
+  xy: 2, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+Leg 01 boss spider
+  rotate: false
+  xy: 2, 171
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+Leg 02 boss spider
+  rotate: false
+  xy: 2, 22
+  size: 137, 147
+  orig: 137, 147
+  offset: 0, 0
+  index: -1
+Teeth1 boss spider
+  rotate: false
+  xy: 193, 335
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+Teeth2 boss spider
+  rotate: true
+  xy: 193, 379
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+Tent2 boss spider
+  rotate: false
+  xy: 193, 443
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+head boss spider
+  rotate: true
+  xy: 141, 65
+  size: 133, 113
+  orig: 133, 113
+  offset: 0, 0
+  index: -1
+tent_1 boss spider
+  rotate: true
+  xy: 141, 24
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1

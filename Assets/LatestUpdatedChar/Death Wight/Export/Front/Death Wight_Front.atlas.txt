@@ -1,0 +1,76 @@
+
+Death Wight_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body front
+  rotate: false
+  xy: 488, 108
+  size: 174, 121
+  orig: 174, 121
+  offset: 0, 0
+  index: -1
+floating shadow front
+  rotate: false
+  xy: 280, 116
+  size: 206, 113
+  orig: 206, 113
+  offset: 0, 0
+  index: -1
+front hood
+  rotate: true
+  xy: 2, 18
+  size: 211, 276
+  orig: 211, 278
+  offset: 0, 2
+  index: -1
+lft eye front
+  rotate: false
+  xy: 2, 2
+  size: 16, 14
+  orig: 18, 16
+  offset: 1, 1
+  index: -1
+lft lwr arm frnt
+  rotate: false
+  xy: 280, 22
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+lft upr arm front
+  rotate: false
+  xy: 328, 41
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+pelvis cloth front
+  rotate: false
+  xy: 664, 113
+  size: 118, 116
+  orig: 118, 116
+  offset: 0, 0
+  index: -1
+ryt eyee front
+  rotate: false
+  xy: 784, 121
+  size: 16, 14
+  orig: 18, 16
+  offset: 1, 1
+  index: -1
+ryt lwr arm frnt copy
+  rotate: false
+  xy: 784, 137
+  size: 46, 92
+  orig: 46, 92
+  offset: 0, 0
+  index: -1
+rytt upr arm front copy
+  rotate: false
+  xy: 832, 156
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1

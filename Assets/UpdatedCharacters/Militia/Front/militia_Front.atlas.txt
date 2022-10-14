@@ -1,0 +1,111 @@
+
+militia_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Torso
+  rotate: false
+  xy: 395, 96
+  size: 122, 158
+  orig: 122, 158
+  offset: 0, 0
+  index: -1
+cowl
+  rotate: false
+  xy: 2, 26
+  size: 220, 228
+  orig: 220, 228
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 224, 42
+  size: 169, 212
+  orig: 169, 212
+  offset: 0, 0
+  index: -1
+lft eye pupil
+  rotate: true
+  xy: 372, 16
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: false
+  xy: 813, 229
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 395, 50
+  size: 44, 86
+  orig: 44, 86
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: true
+  xy: 224, 2
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 298, 2
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+neck cloth
+  rotate: false
+  xy: 519, 198
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 863, 229
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 519, 110
+  size: 44, 86
+  orig: 44, 86
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 2, 2
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: false
+  xy: 565, 128
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 614, 128
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 654, 223
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

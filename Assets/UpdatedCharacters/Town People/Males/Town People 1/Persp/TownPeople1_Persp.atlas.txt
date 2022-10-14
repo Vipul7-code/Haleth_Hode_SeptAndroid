@@ -1,0 +1,139 @@
+
+TownPeople1_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin
+  rotate: false
+  xy: 2, 58
+  size: 163, 196
+  orig: 163, 196
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: true
+  xy: 438, 183
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+lft eye closed
+  rotate: true
+  xy: 289, 130
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: true
+  xy: 148, 21
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 289, 164
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: false
+  xy: 257, 58
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 290, 64
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 290, 64
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: false
+  xy: 393, 188
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 2, 21
+  size: 98, 35
+  orig: 98, 35
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: true
+  xy: 290, 86
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+ryt eye closed
+  rotate: false
+  xy: 102, 18
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 2, 2
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 167, 61
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: true
+  xy: 438, 216
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: false
+  xy: 347, 188
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+spit 1 persp
+  rotate: false
+  xy: 347, 165
+  size: 69, 21
+  orig: 69, 21
+  offset: 0, 0
+  index: -1
+spit 2 persp
+  rotate: false
+  xy: 55, 8
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 167, 127
+  size: 120, 127
+  orig: 120, 127
+  offset: 0, 0
+  index: -1

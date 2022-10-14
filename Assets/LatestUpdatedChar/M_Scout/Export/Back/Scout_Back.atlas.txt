@@ -1,0 +1,370 @@
+
+Scout_Back.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hammer
+  rotate: true
+  xy: 1414, 170
+  size: 84, 153
+  orig: 84, 153
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 1859, 118
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1378, 60
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 1427, 47
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1276, 58
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 120, 11
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+belt back
+  rotate: false
+  xy: 980, 2
+  size: 83, 21
+  orig: 83, 21
+  offset: 0, 0
+  index: -1
+chainmail helmet helmet copy
+  rotate: false
+  xy: 574, 76
+  size: 181, 178
+  orig: 181, 178
+  offset: 0, 0
+  index: -1
+guard_belt1
+  rotate: false
+  xy: 1873, 202
+  size: 79, 19
+  orig: 79, 19
+  offset: 0, 0
+  index: -1
+guard_head
+  rotate: false
+  xy: 2, 32
+  size: 196, 222
+  orig: 196, 222
+  offset: 0, 0
+  index: -1
+guard_lft leg
+  rotate: true
+  xy: 1569, 142
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+guard_lwr lft arm
+  rotate: true
+  xy: 1859, 157
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+guard_lwr ryt arm
+  rotate: true
+  xy: 1652, 143
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+guard_ryt leg
+  rotate: true
+  xy: 1564, 95
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+guard_torso
+  rotate: true
+  xy: 1125, 118
+  size: 136, 149
+  orig: 136, 149
+  offset: 0, 0
+  index: -1
+guard_upr lft arm
+  rotate: false
+  xy: 1327, 60
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+guard_upr ryt arm
+  rotate: false
+  xy: 1427, 86
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+guard_waist wallet
+  rotate: false
+  xy: 410, 2
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+hairs  back
+  rotate: false
+  xy: 394, 72
+  size: 178, 182
+  orig: 178, 182
+  offset: 0, 0
+  index: -1
+helmet back
+  rotate: false
+  xy: 200, 58
+  size: 192, 196
+  orig: 192, 196
+  offset: 0, 0
+  index: -1
+leather cap
+  rotate: false
+  xy: 757, 124
+  size: 182, 130
+  orig: 182, 130
+  offset: 0, 0
+  index: -1
+lft arm armor back
+  rotate: false
+  xy: 2, 2
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+lft leg   back
+  rotate: true
+  xy: 1477, 125
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+lft leg armor  back
+  rotate: true
+  xy: 2032, 209
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+lft metal wrist armor front copy 4
+  rotate: false
+  xy: 1477, 46
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+lft shoulder padded armor back
+  rotate: true
+  xy: 1723, 158
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+lft shoulder padded armor copy 4
+  rotate: true
+  xy: 1791, 158
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+lft shoulder padded armor copy 6
+  rotate: true
+  xy: 1954, 173
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+lft wrist armor front copy
+  rotate: false
+  xy: 1518, 46
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+lft wrist band back
+  rotate: false
+  xy: 1276, 26
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+metal belt copy
+  rotate: false
+  xy: 42, 7
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+metal helmet
+  rotate: false
+  xy: 941, 124
+  size: 182, 130
+  orig: 182, 130
+  offset: 0, 0
+  index: -1
+neck scarf  back
+  rotate: false
+  xy: 1569, 189
+  size: 152, 65
+  orig: 152, 65
+  offset: 0, 0
+  index: -1
+pelvis chainmail armor back copy 2
+  rotate: true
+  xy: 1228, 29
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
+pelvis leather armor back copy
+  rotate: false
+  xy: 200, 10
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
+pelvis padded armor back
+  rotate: false
+  xy: 289, 10
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
+quiver back
+  rotate: false
+  xy: 1276, 144
+  size: 136, 110
+  orig: 136, 110
+  offset: 0, 0
+  index: -1
+ryt  leg  armor  back
+  rotate: false
+  xy: 1065, 2
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+ryt arm armor back
+  rotate: true
+  xy: 1909, 117
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+ryt leg  back
+  rotate: true
+  xy: 1477, 80
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+ryt metal wrist armor front copy 4
+  rotate: false
+  xy: 410, 38
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+ryt shoulder chainmailarmor copy 6
+  rotate: true
+  xy: 1564, 45
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+ryt shoulder leather armor copy 4
+  rotate: true
+  xy: 1723, 108
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+ryt shoulder padded armor back
+  rotate: true
+  xy: 1791, 108
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+ryt wrist armor front copy
+  rotate: false
+  xy: 451, 38
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+ryt wrist band back
+  rotate: true
+  xy: 378, 16
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+single side axe
+  rotate: true
+  xy: 1723, 208
+  size: 46, 148
+  orig: 46, 148
+  offset: 0, 0
+  index: -1
+torso chainmail armor back copy
+  rotate: false
+  xy: 980, 25
+  size: 123, 97
+  orig: 123, 97
+  offset: 0, 0
+  index: -1
+torso cloth  back
+  rotate: false
+  xy: 857, 16
+  size: 121, 106
+  orig: 121, 106
+  offset: 0, 0
+  index: -1
+torso leather armor back
+  rotate: true
+  xy: 757, 2
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+torso padded armor front copy 3
+  rotate: false
+  xy: 1105, 18
+  size: 121, 98
+  orig: 121, 98
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 1873, 223
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

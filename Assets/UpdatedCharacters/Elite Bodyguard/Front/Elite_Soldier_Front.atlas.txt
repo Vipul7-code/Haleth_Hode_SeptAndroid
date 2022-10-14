@@ -1,0 +1,90 @@
+
+Elite_Soldier_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt elite front
+  rotate: false
+  xy: 444, 163
+  size: 139, 91
+  orig: 139, 91
+  offset: 0, 0
+  index: -1
+Belt elite front2
+  rotate: false
+  xy: 196, 55
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1
+Helmet elite front
+  rotate: false
+  xy: 2, 30
+  size: 192, 224
+  orig: 192, 224
+  offset: 0, 0
+  index: -1
+LeftLeg elite front
+  rotate: true
+  xy: 196, 2
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Right Leg elite front
+  rotate: false
+  xy: 525, 106
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+Shield elite front
+  rotate: false
+  xy: 339, 96
+  size: 103, 158
+  orig: 103, 158
+  offset: 0, 0
+  index: -1
+Sword elite front
+  rotate: false
+  xy: 585, 179
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+Torso elite front
+  rotate: false
+  xy: 196, 94
+  size: 141, 160
+  orig: 141, 160
+  offset: 0, 0
+  index: -1
+lft lwr arm elite front
+  rotate: true
+  xy: 793, 215
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+lft upr arm elite front
+  rotate: true
+  xy: 444, 102
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+ryt lwr arm elite front
+  rotate: true
+  xy: 870, 215
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+ryt upr arm elite front
+  rotate: true
+  xy: 712, 195
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1

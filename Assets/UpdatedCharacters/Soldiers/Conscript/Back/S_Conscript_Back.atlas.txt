@@ -1,0 +1,83 @@
+
+S_Conscript_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mace
+  rotate: false
+  xy: 206, 31
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+Spear
+  rotate: true
+  xy: 2, 213
+  size: 31, 399
+  orig: 31, 399
+  offset: 0, 0
+  index: -1
+Warrior Sword
+  rotate: true
+  xy: 370, 54
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 202, 209
+  orig: 202, 209
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 403, 165
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: true
+  xy: 265, 56
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 444, 97
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 403, 84
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 265, 91
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+upr lftt arm copy
+  rotate: true
+  xy: 444, 202
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 444, 158
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0722079419e72d940bebeb4174a40783, type: 3}
+  m_Name: HuntingtonTownAlley
+  m_EditorClassIdentifier: 
+  PlayerCharacterLibrary:
+  - {fileID: 11400000, guid: 0d5b27bf95389ec4f93c1c2278f9ff32, type: 2}
+  - {fileID: 11400000, guid: 47ef5a5e4d5ca874ea635a506e888d0d, type: 2}
+  - {fileID: 11400000, guid: 3ab87ff28d0e42045babc580a431b50a, type: 2}

@@ -1,0 +1,125 @@
+
+TownPeople 3_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 554
+  rotate: false
+  xy: 463, 193
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+back hair
+  rotate: false
+  xy: 177, 63
+  size: 165, 191
+  orig: 165, 191
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 59
+  size: 173, 195
+  orig: 173, 195
+  offset: 0, 0
+  index: -1
+lft eye pupil
+  rotate: false
+  xy: 436, 158
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lft eye socket
+  rotate: false
+  xy: 463, 219
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 29, 15
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 2, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+ryt  leg
+  rotate: false
+  xy: 2, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+lips
+  rotate: false
+  xy: 185, 40
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: true
+  xy: 2, 30
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+lwr ryrt arm
+  rotate: false
+  xy: 436, 184
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 344, 144
+  size: 90, 110
+  orig: 90, 110
+  offset: 0, 0
+  index: -1
+ryt eye socket
+  rotate: false
+  xy: 72, 22
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 344, 64
+  size: 51, 14
+  orig: 51, 14
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 344, 80
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: false
+  xy: 414, 92
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 133, 34
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1

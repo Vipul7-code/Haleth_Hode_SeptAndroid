@@ -1,0 +1,76 @@
+
+skeleton_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front shield
+  rotate: true
+  xy: 2, 8
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+front sword
+  rotate: false
+  xy: 295, 134
+  size: 119, 117
+  orig: 119, 117
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 79
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 416, 143
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+lowr lft arm copy
+  rotate: false
+  xy: 103, 3
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+lowr ryt arm
+  rotate: false
+  xy: 388, 58
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 176, 66
+  size: 55, 105
+  orig: 55, 105
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 176, 123
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: true
+  xy: 150, 2
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 295, 70
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1

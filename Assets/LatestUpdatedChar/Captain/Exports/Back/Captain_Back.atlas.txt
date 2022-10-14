@@ -1,0 +1,83 @@
+
+Captain_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Helmet
+  rotate: false
+  xy: 2, 52
+  size: 173, 184
+  orig: 173, 184
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 301, 84
+  size: 67, 152
+  orig: 67, 152
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 177, 68
+  size: 122, 168
+  orig: 122, 168
+  offset: 0, 0
+  index: -1
+lft Leg
+  rotate: false
+  xy: 420, 175
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+lft shldr amr
+  rotate: false
+  xy: 156, 3
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: true
+  xy: 2, 2
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 370, 159
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+ryt Leg
+  rotate: false
+  xy: 464, 175
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+ryt shldr amr
+  rotate: false
+  xy: 202, 19
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: true
+  xy: 81, 6
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 370, 84
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1

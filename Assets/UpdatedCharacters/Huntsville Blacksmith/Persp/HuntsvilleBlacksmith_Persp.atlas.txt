@@ -1,0 +1,111 @@
+
+HuntsvilleBlacksmith_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hammer copy
+  rotate: false
+  xy: 466, 193
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 33
+  size: 170, 217
+  orig: 170, 217
+  offset: 0, 0
+  index: -1
+l_lowerArm
+  rotate: false
+  xy: 464, 5
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+l_upperArm
+  rotate: false
+  xy: 331, 95
+  size: 68, 155
+  orig: 68, 155
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 466, 102
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 331, 79
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+lft legs
+  rotate: true
+  xy: 292, 20
+  size: 57, 112
+  orig: 57, 112
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 91, 6
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+r_lowerArm
+  rotate: false
+  xy: 406, 2
+  size: 56, 89
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+r_upperArm
+  rotate: false
+  xy: 401, 93
+  size: 63, 157
+  orig: 63, 157
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: true
+  xy: 466, 138
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 2, 13
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+ryt legs
+  rotate: true
+  xy: 174, 17
+  size: 60, 116
+  orig: 60, 116
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 62, 4
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 174, 79
+  size: 155, 171
+  orig: 155, 171
+  offset: 0, 0
+  index: -1

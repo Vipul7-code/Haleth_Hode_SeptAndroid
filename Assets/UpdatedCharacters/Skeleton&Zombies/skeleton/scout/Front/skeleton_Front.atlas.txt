@@ -1,0 +1,69 @@
+
+skeleton_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 78
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 2, 23
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+lowr lft arm copy
+  rotate: false
+  xy: 427, 83
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+lowr ryt arm
+  rotate: false
+  xy: 112, 2
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+quiver
+  rotate: false
+  xy: 176, 153
+  size: 229, 97
+  orig: 229, 97
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 306, 46
+  size: 55, 105
+  orig: 55, 105
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 176, 34
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: false
+  xy: 407, 159
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 363, 60
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1

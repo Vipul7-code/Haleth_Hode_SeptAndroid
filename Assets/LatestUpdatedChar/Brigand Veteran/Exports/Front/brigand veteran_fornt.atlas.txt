@@ -1,0 +1,97 @@
+
+brigand veteran_fornt.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dblheaded axe
+  rotate: false
+  xy: 298, 94
+  size: 77, 152
+  orig: 77, 152
+  offset: 0, 0
+  index: -1
+eye mask frnt BV
+  rotate: true
+  xy: 377, 93
+  size: 153, 69
+  orig: 153, 69
+  offset: 0, 0
+  index: -1
+head skin frnt BV
+  rotate: false
+  xy: 2, 56
+  size: 148, 190
+  orig: 148, 190
+  offset: 0, 0
+  index: -1
+lft leg frnt BV frnt BV
+  rotate: true
+  xy: 2, 2
+  size: 52, 114
+  orig: 52, 114
+  offset: 0, 0
+  index: -1
+lwr lft arm copy frnt BV
+  rotate: false
+  xy: 268, 12
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+lwr ryt arm frnt BV
+  rotate: true
+  xy: 355, 5
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+ryt eye frnt BV
+  rotate: true
+  xy: 118, 7
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+ryt eyebrw frnt BV
+  rotate: false
+  xy: 310, 24
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+ryt leg frnt BV
+  rotate: true
+  xy: 152, 27
+  size: 52, 114
+  orig: 52, 114
+  offset: 0, 0
+  index: -1
+shldr cloth frnt BV
+  rotate: true
+  xy: 448, 96
+  size: 150, 59
+  orig: 150, 59
+  offset: 0, 0
+  index: -1
+torso frnt BV
+  rotate: false
+  xy: 152, 81
+  size: 144, 165
+  orig: 144, 165
+  offset: 0, 0
+  index: -1
+uppr lft arm frnt BV
+  rotate: true
+  xy: 310, 48
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+uppr ryt arm frnt BV
+  rotate: true
+  xy: 377, 47
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1

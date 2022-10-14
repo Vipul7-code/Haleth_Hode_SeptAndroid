@@ -1,0 +1,125 @@
+
+AbbotGregory_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cape back copy
+  rotate: true
+  xy: 159, 141
+  size: 113, 173
+  orig: 113, 173
+  offset: 0, 0
+  index: -1
+hat front
+  rotate: false
+  xy: 334, 157
+  size: 139, 97
+  orig: 139, 97
+  offset: 0, 0
+  index: -1
+head skin front
+  rotate: false
+  xy: 2, 88
+  size: 155, 166
+  orig: 155, 166
+  offset: 0, 0
+  index: -1
+lft eye front
+  rotate: true
+  xy: 126, 59
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+lft eyebrow front
+  rotate: false
+  xy: 86, 2
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: false
+  xy: 2, 10
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+lft shoe front
+  rotate: false
+  xy: 86, 58
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: false
+  xy: 475, 194
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+pelvis front
+  rotate: true
+  xy: 284, 45
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+pupil lft front
+  rotate: false
+  xy: 284, 28
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+pupil ryt front
+  rotate: false
+  xy: 301, 28
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ryt eye front
+  rotate: true
+  xy: 126, 30
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+ryt eyebrow front
+  rotate: false
+  xy: 125, 2
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: false
+  xy: 44, 10
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+ryt shoe front
+  rotate: false
+  xy: 86, 28
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: false
+  xy: 475, 132
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+torso front
+  rotate: false
+  xy: 159, 42
+  size: 123, 97
+  orig: 123, 97
+  offset: 0, 0
+  index: -1

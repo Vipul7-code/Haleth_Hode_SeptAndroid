@@ -1,0 +1,62 @@
+
+S_Conscript_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 43
+  size: 202, 209
+  orig: 202, 209
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 2, 2
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: true
+  xy: 83, 8
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 355, 193
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 206, 51
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 206, 132
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+upr lftt arm copy
+  rotate: false
+  xy: 311, 186
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 247, 64
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1

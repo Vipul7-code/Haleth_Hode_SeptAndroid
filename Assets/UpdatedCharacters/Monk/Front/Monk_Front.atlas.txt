@@ -1,0 +1,97 @@
+
+Monk_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 56
+  size: 154, 184
+  orig: 154, 184
+  offset: 0, 0
+  index: -1
+frnt scarf
+  rotate: false
+  xy: 2, 2
+  size: 142, 52
+  orig: 142, 52
+  offset: 0, 0
+  index: -1
+lft arm
+  rotate: false
+  xy: 286, 118
+  size: 58, 122
+  orig: 58, 122
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 286, 78
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+lft eyebrow copy
+  rotate: false
+  xy: 455, 214
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+lft foot copy
+  rotate: false
+  xy: 406, 209
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 370, 95
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ryt pupil copy
+  rotate: false
+  xy: 370, 95
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ryt arm  copy
+  rotate: false
+  xy: 346, 118
+  size: 58, 122
+  orig: 58, 122
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 328, 78
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 406, 148
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+ryt foot
+  rotate: false
+  xy: 406, 176
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 158, 63
+  size: 126, 177
+  orig: 126, 177
+  offset: 0, 0
+  index: -1

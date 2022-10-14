@@ -1,0 +1,104 @@
+
+HuntsvilleMerchant_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin persp
+  rotate: true
+  xy: 2, 68
+  size: 176, 257
+  orig: 176, 257
+  offset: 0, 0
+  index: -1
+lft eye pupil persp
+  rotate: false
+  xy: 339, 99
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+lft eyebrow persp
+  rotate: false
+  xy: 107, 7
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+lft eyesocket persp
+  rotate: true
+  xy: 459, 175
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+lft leg persp
+  rotate: false
+  xy: 362, 146
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+lwr arm lft persp
+  rotate: true
+  xy: 180, 37
+  size: 29, 70
+  orig: 29, 70
+  offset: 0, 0
+  index: -1
+ryt eye pupil pesp
+  rotate: false
+  xy: 424, 155
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ryt eyebrow persp
+  rotate: false
+  xy: 362, 121
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+ryt eyesocket persp
+  rotate: false
+  xy: 459, 208
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+ryt leg persp
+  rotate: true
+  xy: 2, 2
+  size: 64, 103
+  orig: 64, 103
+  offset: 0, 0
+  index: -1
+ryt lwr arm persp
+  rotate: true
+  xy: 261, 83
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+ryt upr arm persp
+  rotate: true
+  xy: 107, 32
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+torso persp
+  rotate: false
+  xy: 261, 118
+  size: 99, 126
+  orig: 99, 126
+  offset: 0, 0
+  index: -1
+upr arm lft persp
+  rotate: false
+  xy: 424, 174
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1

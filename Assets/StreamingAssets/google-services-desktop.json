@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "737322276501",
+    "firebase_url": "https://haleth-hode.firebaseio.com",
+    "project_id": "haleth-hode",
+    "storage_bucket": "haleth-hode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737322276501:android:e5ba7649a7767f79e3ed9c",
+        "android_client_info": {
+          "package_name": "com.meros.halethhode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737322276501-0s9k1kvere24efa76b28e5bro819drp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8Onl6S2SFtN9RZCGfp6Fkcd590aYNNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737322276501-0s9k1kvere24efa76b28e5bro819drp6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737322276501-u662gpeevvdjjhd295plnuligfug6540.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meros.halethhode"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737322276501:android:9320eee2e6be7a01e3ed9c",
+        "android_client_info": {
+          "package_name": "com.meross.halethhode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737322276501-0s9k1kvere24efa76b28e5bro819drp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-8Onl6S2SFtN9RZCGfp6Fkcd590aYNNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737322276501-0s9k1kvere24efa76b28e5bro819drp6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737322276501-u662gpeevvdjjhd295plnuligfug6540.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meros.halethhode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

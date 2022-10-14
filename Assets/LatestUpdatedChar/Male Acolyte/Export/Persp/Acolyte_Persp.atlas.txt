@@ -1,0 +1,363 @@
+
+Acolyte_Persp.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hammer
+  rotate: true
+  xy: 1651, 170
+  size: 84, 153
+  orig: 84, 153
+  offset: 0, 0
+  index: -1
+L shldr armor leather
+  rotate: true
+  xy: 1709, 18
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+L shldr armor padded
+  rotate: true
+  xy: 1797, 82
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+L wrist leather
+  rotate: false
+  xy: 1299, 68
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+L wrist padded
+  rotate: false
+  xy: 1247, 68
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+Layer 80
+  rotate: true
+  xy: 454, 61
+  size: 193, 215
+  orig: 193, 215
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: true
+  xy: 1806, 197
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+R shldr armor leather
+  rotate: true
+  xy: 1981, 111
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+R shldr armor padded
+  rotate: false
+  xy: 1865, 78
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+R wrist armor leather
+  rotate: true
+  xy: 1826, 24
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+R wrist armor padded
+  rotate: false
+  xy: 1865, 39
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+back lower arm persp
+  rotate: true
+  xy: 798, 29
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+back shoe persp
+  rotate: true
+  xy: 449, 2
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+back upper arm persp
+  rotate: false
+  xy: 1988, 171
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 360, 2
+  size: 87, 26
+  orig: 87, 26
+  offset: 0, 0
+  index: -1
+eye pupil lft  persp
+  rotate: false
+  xy: 1826, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+eye pupil ryt persp
+  rotate: false
+  xy: 1826, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+eye socket lft persp
+  rotate: false
+  xy: 161, 2
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+eye socket ryt persp
+  rotate: false
+  xy: 1865, 2
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+front ear persp
+  rotate: true
+  xy: 919, 52
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+front lower arm persp
+  rotate: false
+  xy: 1654, 19
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+front shoe persp
+  rotate: true
+  xy: 360, 30
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+front upper arm persp
+  rotate: false
+  xy: 1654, 84
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+hairs persp
+  rotate: false
+  xy: 1062, 93
+  size: 183, 161
+  orig: 183, 161
+  offset: 0, 0
+  index: -1
+head skin persp
+  rotate: true
+  xy: 874, 87
+  size: 167, 186
+  orig: 167, 186
+  offset: 0, 0
+  index: -1
+leather belt
+  rotate: false
+  xy: 1711, 81
+  size: 84, 35
+  orig: 84, 35
+  offset: 0, 0
+  index: -1
+leather cap with hair
+  rotate: false
+  xy: 671, 79
+  size: 201, 175
+  orig: 201, 175
+  offset: 0, 0
+  index: -1
+left eyebrow persp
+  rotate: false
+  xy: 714, 3
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 1806, 145
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: false
+  xy: 671, 2
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+lft pelvis leather armor persp
+  rotate: false
+  xy: 629, 17
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+lft pelvis padeed armor persp
+  rotate: true
+  xy: 874, 47
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: true
+  xy: 1905, 147
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+lower ryt arm
+  rotate: true
+  xy: 1974, 65
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+medium round shield side
+  rotate: false
+  xy: 1508, 38
+  size: 74, 98
+  orig: 74, 98
+  offset: 0, 0
+  index: -1
+metal helmet wit hair
+  rotate: false
+  xy: 2, 43
+  size: 201, 211
+  orig: 201, 211
+  offset: 0, 0
+  index: -1
+mouth line persp
+  rotate: false
+  xy: 629, 2
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+pelvis persp
+  rotate: true
+  xy: 1584, 38
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+rope persp
+  rotate: false
+  xy: 1711, 118
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+ryt eyebrow persp
+  rotate: false
+  xy: 203, 6
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 527, 10
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+ryt pelvis leather armor persp
+  rotate: true
+  xy: 1925, 79
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+ryt pelvis padeed armor persp
+  rotate: true
+  xy: 1777, 13
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+scarf persp
+  rotate: false
+  xy: 205, 25
+  size: 153, 64
+  orig: 153, 64
+  offset: 0, 0
+  index: -1
+small round shield persp
+  rotate: true
+  xy: 205, 91
+  size: 163, 247
+  orig: 163, 247
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 1247, 106
+  size: 129, 148
+  orig: 129, 148
+  offset: 0, 0
+  index: -1
+torso leather armor
+  rotate: false
+  xy: 1378, 139
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: -1
+torso padeed armor
+  rotate: false
+  xy: 1515, 138
+  size: 134, 116
+  orig: 134, 116
+  offset: 0, 0
+  index: -1
+torso persp
+  rotate: false
+  xy: 1378, 34
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 714, 28
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 2, 10
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

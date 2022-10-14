@@ -1,0 +1,97 @@
+
+LordAlfred_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 51
+  size: 197, 202
+  orig: 197, 202
+  offset: 0, 0
+  index: -1
+l_eyebrow
+  rotate: true
+  xy: 339, 67
+  size: 56, 17
+  orig: 56, 17
+  offset: 0, 0
+  index: -1
+l_lower_arm
+  rotate: true
+  xy: 84, 2
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+l_upper_arm
+  rotate: false
+  xy: 295, 6
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+left_eye
+  rotate: true
+  xy: 164, 8
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 201, 72
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+r_eyebrow
+  rotate: true
+  xy: 339, 9
+  size: 56, 17
+  orig: 56, 17
+  offset: 0, 0
+  index: -1
+r_lower_arm
+  rotate: true
+  xy: 2, 2
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+r_upper_arm
+  rotate: false
+  xy: 295, 65
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+right_eye
+  rotate: false
+  xy: 358, 56
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: true
+  xy: 201, 19
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 201, 125
+  size: 169, 128
+  orig: 169, 128
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 372, 84
+  size: 169, 126
+  orig: 169, 126
+  offset: 0, 0
+  index: -1

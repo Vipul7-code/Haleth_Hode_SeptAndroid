@@ -1,0 +1,125 @@
+
+LordEdward_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mace
+  rotate: true
+  xy: 592, 192
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+body front
+  rotate: false
+  xy: 418, 129
+  size: 172, 120
+  orig: 172, 120
+  offset: 0, 0
+  index: -1
+front hood
+  rotate: true
+  xy: 2, 41
+  size: 208, 260
+  orig: 208, 260
+  offset: 0, 0
+  index: -1
+head skin front
+  rotate: false
+  xy: 264, 63
+  size: 152, 186
+  orig: 152, 186
+  offset: 0, 0
+  index: -1
+lft eye pupil front
+  rotate: false
+  xy: 516, 36
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+lft eyebrow front
+  rotate: false
+  xy: 264, 41
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+lft eyesocket front
+  rotate: true
+  xy: 564, 81
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+lft foot front
+  rotate: false
+  xy: 2, 2
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+lft lwr arm frnt
+  rotate: true
+  xy: 592, 142
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+lft upr arm front
+  rotate: false
+  xy: 516, 55
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+pelvis cloth front
+  rotate: false
+  xy: 418, 34
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+ryt eyebrow front
+  rotate: true
+  xy: 745, 147
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+ryt eyepupil front
+  rotate: false
+  xy: 47, 22
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ryt eyesocket front
+  rotate: false
+  xy: 592, 115
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+ryt foot front
+  rotate: false
+  xy: 853, 212
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+ryt lwr arm frnt copy
+  rotate: true
+  xy: 774, 201
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+rytt upr arm front copy
+  rotate: true
+  xy: 671, 144
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1

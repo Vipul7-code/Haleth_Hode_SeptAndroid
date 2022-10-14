@@ -1,0 +1,104 @@
+
+GuardDressed Barmaid_Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blonde
+  rotate: false
+  xy: 198, 4
+  size: 192, 237
+  orig: 192, 237
+  offset: 0, 0
+  index: -1
+Dark
+  rotate: false
+  xy: 392, 4
+  size: 192, 237
+  orig: 192, 237
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 2, 2
+  size: 194, 239
+  orig: 194, 239
+  offset: 0, 0
+  index: -1
+lft arm lwr copy
+  rotate: false
+  xy: 721, 61
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+lft arm upr copy
+  rotate: true
+  xy: 586, 12
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+lft leg copy 3
+  rotate: true
+  xy: 774, 164
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+lft shldr cloth
+  rotate: false
+  xy: 960, 200
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+ryt arm lwr
+  rotate: true
+  xy: 774, 119
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+ryt arm upr
+  rotate: false
+  xy: 721, 131
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+ryt leg copy 2
+  rotate: true
+  xy: 880, 197
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+ryt shldr cloth
+  rotate: false
+  xy: 665, 22
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 586, 65
+  size: 133, 176
+  orig: 133, 176
+  offset: 0, 0
+  index: -1
+waist pouch
+  rotate: false
+  xy: 715, 26
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 721, 210
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

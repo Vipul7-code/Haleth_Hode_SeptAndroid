@@ -1,0 +1,83 @@
+
+GiantBoar.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_RightLeg
+  rotate: true
+  xy: 1311, 199
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+Dead_boar
+  rotate: false
+  xy: 2, 42
+  size: 439, 212
+  orig: 439, 212
+  offset: 0, 0
+  index: -1
+Ear_Left
+  rotate: true
+  xy: 2, 2
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+Ear_right
+  rotate: true
+  xy: 689, 40
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+F_RightLeg
+  rotate: true
+  xy: 1207, 206
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+Jaw
+  rotate: false
+  xy: 1062, 100
+  size: 136, 73
+  orig: 136, 73
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 1062, 175
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 443, 36
+  size: 244, 218
+  orig: 244, 218
+  offset: 0, 0
+  index: -1
+Upper jaw
+  rotate: false
+  xy: 689, 69
+  size: 196, 185
+  orig: 196, 185
+  offset: 0, 0
+  index: -1
+b_LeftLeg
+  rotate: false
+  xy: 887, 86
+  size: 84, 168
+  orig: 84, 168
+  offset: 0, 0
+  index: -1
+f_LeftLeg
+  rotate: false
+  xy: 973, 95
+  size: 87, 159
+  orig: 87, 159
+  offset: 0, 0
+  index: -1

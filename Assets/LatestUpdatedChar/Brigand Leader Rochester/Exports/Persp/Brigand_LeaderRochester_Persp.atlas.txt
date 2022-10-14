@@ -1,0 +1,153 @@
+
+Brigand_LeaderRochester_Persp.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: true
+  xy: 1863, 232
+  size: 22, 138
+  orig: 22, 138
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 2, 12
+  size: 40, 202
+  orig: 40, 202
+  offset: 0, 0
+  index: -1
+head skin persp
+  rotate: false
+  xy: 258, 54
+  size: 161, 200
+  orig: 161, 200
+  offset: 0, 0
+  index: -1
+lft eyebrow persp
+  rotate: false
+  xy: 611, 127
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+lft eyepupil  persp
+  rotate: false
+  xy: 1004, 153
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+lft eyesocket persp
+  rotate: true
+  xy: 206, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+lft leg persp
+  rotate: true
+  xy: 421, 64
+  size: 88, 188
+  orig: 88, 188
+  offset: 0, 0
+  index: -1
+lft lwr arm persp
+  rotate: true
+  xy: 1607, 153
+  size: 101, 121
+  orig: 101, 121
+  offset: 0, 0
+  index: -1
+lft upr arm persp
+  rotate: true
+  xy: 1175, 159
+  size: 95, 160
+  orig: 95, 163
+  offset: 0, 3
+  index: -1
+pelvis persp
+  rotate: false
+  xy: 1730, 191
+  size: 131, 63
+  orig: 131, 63
+  offset: 0, 0
+  index: -1
+quiver persp
+  rotate: false
+  xy: 1337, 138
+  size: 143, 116
+  orig: 143, 116
+  offset: 0, 0
+  index: -1
+ryt eyebrow persp
+  rotate: false
+  xy: 1730, 162
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+ryt eyepupil persp
+  rotate: false
+  xy: 1863, 216
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ryt eyesocket persp
+  rotate: false
+  xy: 365, 27
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+ryt leg persp
+  rotate: true
+  xy: 636, 146
+  size: 108, 194
+  orig: 108, 194
+  offset: 0, 0
+  index: -1
+ryt lwr arm perap
+  rotate: true
+  xy: 1482, 150
+  size: 104, 123
+  orig: 104, 123
+  offset: 0, 0
+  index: -1
+ryt upr arm perap
+  rotate: true
+  xy: 832, 152
+  size: 102, 170
+  orig: 102, 170
+  offset: 0, 0
+  index: -1
+sword copy
+  rotate: true
+  xy: 421, 154
+  size: 100, 213
+  orig: 100, 213
+  offset: 0, 0
+  index: -1
+torso perap
+  rotate: false
+  xy: 2, 54
+  size: 254, 200
+  orig: 254, 200
+  offset: 0, 0
+  index: -1
+waist cloth persp
+  rotate: false
+  xy: 1004, 167
+  size: 169, 87
+  orig: 169, 87
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 206, 21
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

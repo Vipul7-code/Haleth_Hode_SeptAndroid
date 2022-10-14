@@ -1,0 +1,62 @@
+
+EmondsBoy_Back.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head emond boy b
+  rotate: false
+  xy: 2, 107
+  size: 150, 147
+  orig: 150, 147
+  offset: 0, 0
+  index: -1
+lft leg copy emond boy b
+  rotate: false
+  xy: 154, 194
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+lwr lft arm emond boy b
+  rotate: false
+  xy: 154, 139
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+lwr ryt arm emond boy b
+  rotate: false
+  xy: 183, 201
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+ryt leg emond boy b
+  rotate: false
+  xy: 86, 45
+  size: 27, 60
+  orig: 27, 60
+  offset: 0, 0
+  index: -1
+torso emond boy b
+  rotate: false
+  xy: 2, 2
+  size: 82, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+upr lft arm emond boy b
+  rotate: false
+  xy: 115, 60
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+upr ryt arm emond boy b
+  rotate: false
+  xy: 207, 209
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1

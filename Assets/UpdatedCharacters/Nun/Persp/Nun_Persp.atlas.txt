@@ -1,0 +1,118 @@
+
+Nun_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back cloth
+  rotate: false
+  xy: 162, 58
+  size: 158, 196
+  orig: 158, 196
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 55
+  size: 158, 199
+  orig: 158, 199
+  offset: 0, 0
+  index: -1
+lft eye copy 2
+  rotate: false
+  xy: 454, 220
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+lft eyebrw copy
+  rotate: true
+  xy: 393, 63
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+lft foot copy 3
+  rotate: false
+  xy: 224, 26
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+lft pupil copy 3
+  rotate: true
+  xy: 224, 2
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 415, 183
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 322, 59
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+ryt eye copy
+  rotate: true
+  xy: 415, 139
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+ryt eyebrw  copy
+  rotate: false
+  xy: 256, 44
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+ryt foot copy 2
+  rotate: false
+  xy: 415, 107
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ryt pupil copy 2
+  rotate: false
+  xy: 454, 193
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 2, 13
+  size: 93, 40
+  orig: 93, 40
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 322, 95
+  size: 91, 159
+  orig: 91, 159
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: true
+  xy: 162, 20
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 97, 18
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1

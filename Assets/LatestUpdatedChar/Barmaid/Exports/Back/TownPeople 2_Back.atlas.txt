@@ -1,0 +1,83 @@
+
+TownPeople 2_Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hair brown barmaid
+  rotate: false
+  xy: 2, 15
+  size: 200, 239
+  orig: 200, 239
+  offset: 0, 0
+  index: -1
+back hair red barmaid
+  rotate: false
+  xy: 204, 15
+  size: 200, 239
+  orig: 200, 239
+  offset: 0, 0
+  index: -1
+back hair yellow barmaid
+  rotate: false
+  xy: 406, 15
+  size: 200, 239
+  orig: 200, 239
+  offset: 0, 0
+  index: -1
+head barmaid
+  rotate: false
+  xy: 608, 72
+  size: 156, 182
+  orig: 156, 182
+  offset: 0, 0
+  index: -1
+lft lwr arm  barmaid
+  rotate: true
+  xy: 608, 42
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+lft shoe barmaid
+  rotate: false
+  xy: 858, 197
+  size: 34, 57
+  orig: 34, 58
+  offset: 0, 1
+  index: -1
+lft upr arm barmaid
+  rotate: true
+  xy: 674, 2
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+ryt lwr arm barmaid
+  rotate: true
+  xy: 685, 42
+  size: 28, 71
+  orig: 28, 71
+  offset: 0, 0
+  index: -1
+ryt shoe barmaid
+  rotate: false
+  xy: 858, 138
+  size: 34, 57
+  orig: 34, 58
+  offset: 0, 1
+  index: -1
+ryt upr arm barmaid
+  rotate: true
+  xy: 608, 2
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+torso barmaid
+  rotate: false
+  xy: 766, 93
+  size: 90, 161
+  orig: 90, 161
+  offset: 0, 0
+  index: -1

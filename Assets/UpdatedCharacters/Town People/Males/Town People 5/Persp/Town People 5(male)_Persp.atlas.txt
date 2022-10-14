@@ -1,0 +1,111 @@
+
+Town People 5(male)_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin
+  rotate: false
+  xy: 2, 40
+  size: 184, 202
+  orig: 184, 202
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: true
+  xy: 80, 2
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+lft eyebro
+  rotate: false
+  xy: 294, 147
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 294, 161
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: false
+  xy: 242, 72
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 120, 17
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 120, 17
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: false
+  xy: 345, 178
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 2, 12
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 380, 169
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 188, 44
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 188, 59
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: true
+  xy: 380, 210
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: true
+  xy: 447, 208
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 188, 142
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1

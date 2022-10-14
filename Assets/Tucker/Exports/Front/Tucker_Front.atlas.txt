@@ -1,0 +1,258 @@
+
+Tucker_Front.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hammer
+  rotate: true
+  xy: 702, 170
+  size: 84, 153
+  orig: 84, 153
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: true
+  xy: 2, 13
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+belt padded
+  rotate: false
+  xy: 702, 133
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 1276, 150
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 72
+  size: 192, 182
+  orig: 192, 182
+  offset: 0, 0
+  index: -1
+leather cap with hairs
+  rotate: false
+  xy: 387, 131
+  size: 182, 123
+  orig: 182, 123
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 1503, 148
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 352, 2
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+lft leg front
+  rotate: false
+  xy: 1881, 217
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+lft pelvis leather armor
+  rotate: false
+  xy: 1665, 208
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+lft pelvis padded  armor
+  rotate: false
+  xy: 1719, 208
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 546, 108
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+lft shoulder leather armor front
+  rotate: false
+  xy: 1400, 184
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+lft shoulder padded armor
+  rotate: true
+  xy: 280, 15
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+lft wrist leather armor front
+  rotate: false
+  xy: 781, 134
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+lft wrist padded armr froont
+  rotate: false
+  xy: 1400, 150
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+lwr lft arm front
+  rotate: false
+  xy: 184, 2
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+lwr ryt arm front
+  rotate: false
+  xy: 232, 2
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+metal helmet with hairs
+  rotate: true
+  xy: 196, 72
+  size: 182, 189
+  orig: 182, 189
+  offset: 0, 0
+  index: -1
+ryt eye copy
+  rotate: false
+  xy: 1456, 148
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+ryt eyebrw copy
+  rotate: false
+  xy: 857, 170
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1
+ryt leg front
+  rotate: false
+  xy: 1934, 217
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+ryt pelvis leather armor
+  rotate: false
+  xy: 1773, 208
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+ryt pelvis padded  armor
+  rotate: false
+  xy: 1827, 208
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+ryt pupil copy
+  rotate: false
+  xy: 836, 147
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+ryt shoulder leather armor copy 2
+  rotate: false
+  xy: 1457, 184
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+ryt shoulder padded armor
+  rotate: false
+  xy: 1514, 184
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+ryt wrist leather armor front copy
+  rotate: false
+  xy: 1987, 220
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+ryt wrist padede armr frnt
+  rotate: true
+  xy: 352, 16
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+scarf front
+  rotate: false
+  xy: 857, 184
+  size: 155, 70
+  orig: 155, 70
+  offset: 0, 0
+  index: -1
+torso front
+  rotate: true
+  xy: 571, 128
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+torso leather armor
+  rotate: false
+  xy: 1014, 155
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+torso padded  armor
+  rotate: false
+  xy: 1145, 155
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+upr lft arm front
+  rotate: false
+  xy: 1571, 192
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+upr ryt arm front
+  rotate: false
+  xy: 1618, 192
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 387, 98
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

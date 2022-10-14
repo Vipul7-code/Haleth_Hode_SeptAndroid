@@ -1,0 +1,125 @@
+
+barmaid_Persp.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brown hair persp barmaid
+  rotate: false
+  xy: 2, 30
+  size: 192, 224
+  orig: 192, 224
+  offset: 0, 0
+  index: -1
+lft eye persp barmaid
+  rotate: false
+  xy: 584, 2
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+lft eye pupil persp barmaid
+  rotate: false
+  xy: 844, 119
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+lft eyebrow persp barmaid
+  rotate: false
+  xy: 711, 63
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+lft lowr arm persp barmaid
+  rotate: true
+  xy: 2, 2
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+lft shoe persp barmaid
+  rotate: true
+  xy: 654, 35
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+lft upr arm persp barmaid
+  rotate: false
+  xy: 844, 187
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+persp head persp barmaid
+  rotate: false
+  xy: 584, 76
+  size: 158, 178
+  orig: 158, 178
+  offset: 0, 0
+  index: -1
+red hair persp barmaid
+  rotate: false
+  xy: 196, 30
+  size: 192, 224
+  orig: 192, 224
+  offset: 0, 0
+  index: -1
+ryt eye persp barmaid
+  rotate: true
+  xy: 844, 139
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+ryt eye pupil persp barmaid
+  rotate: false
+  xy: 927, 233
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+ryt lwr arm persp barmaid
+  rotate: true
+  xy: 76, 2
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+ryt shoe shoe barmaid
+  rotate: false
+  xy: 885, 194
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+ryt upr arm persp barmaid
+  rotate: true
+  xy: 584, 35
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+rytt eyebrow persp barmaid
+  rotate: false
+  xy: 744, 79
+  size: 44, 10
+  orig: 44, 10
+  offset: 0, 0
+  index: -1
+torso barmaid
+  rotate: false
+  xy: 744, 91
+  size: 98, 163
+  orig: 98, 163
+  offset: 0, 0
+  index: -1
+yellow hair persp barmaid
+  rotate: false
+  xy: 390, 30
+  size: 192, 224
+  orig: 192, 224
+  offset: 0, 0
+  index: -1

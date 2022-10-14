@@ -1,0 +1,104 @@
+
+Tucker_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hair emond gl p
+  rotate: false
+  xy: 327, 135
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+body emond gl p
+  rotate: true
+  xy: 2, 29
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+front hair emond gl p
+  rotate: false
+  xy: 2, 97
+  size: 209, 151
+  orig: 209, 151
+  offset: 0, 0
+  index: -1
+head skin emond gl p
+  rotate: false
+  xy: 213, 127
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+lft eye emond gl p
+  rotate: false
+  xy: 42, 4
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+lft eyebrw emond gl p
+  rotate: false
+  xy: 265, 115
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+lft foot emond gl p
+  rotate: false
+  xy: 146, 72
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+ryt foot emond gl p
+  rotate: false
+  xy: 146, 72
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+lwr lft arm emond gl p
+  rotate: true
+  xy: 213, 107
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+lwr ryt arm emond gl p
+  rotate: false
+  xy: 443, 198
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+ryt eye emond gl p
+  rotate: false
+  xy: 2, 2
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+ryt eyebrow emond gl p
+  rotate: true
+  xy: 443, 163
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+upr lft arm emond gl p
+  rotate: false
+  xy: 463, 209
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+upr ryt arm emond gl p
+  rotate: false
+  xy: 123, 55
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1

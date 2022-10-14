@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3de65f917de4ddd449baa7601c1b8f19, type: 3}
+  m_Name: PlayerConfigurationLibrary
+  m_EditorClassIdentifier: 
+  playerConfigurations: {fileID: 11400000, guid: 4891af0d27c3c4e4197f0d36e34a5b5b,
+    type: 2}
+  enemyConfigurations: {fileID: 11400000, guid: 70ef371347261de4ab3af98bc791ca87,
+    type: 2}
+  soldierCampsiteConfigurations: {fileID: 11400000, guid: 43b2a052e15165642af2564b97f5f7a6,
+    type: 2}
+  wagonCaravanConfigurations: {fileID: 11400000, guid: ac080c84b4e97ea4dbc867822e916e1b,
+    type: 2}
+  secondSoldierConfigurations: {fileID: 11400000, guid: 0f5a0a7b5690ead45bbea99d54cb96c3,
+    type: 2}
+  atwaterConfigurations: {fileID: 11400000, guid: eb9576f6d6ebb8f4783b0cc42c86a037,
+    type: 2}
+  monestryCellarConfigurations: {fileID: 11400000, guid: 170436b5149d43946b985f95f6a219c7,
+    type: 2}
+  monestryTuckerConfigurations: {fileID: 11400000, guid: 229f261d2aacaf64a85a78edd0f8e1a8,
+    type: 2}
+  motteyAndBailey1Configurations: {fileID: 11400000, guid: 1f4a6ac8e0038f04abfff79871d5d5a1,
+    type: 2}
+  motteyAndBailey2Configurations: {fileID: 11400000, guid: 2ec13977abe966c4c992ec039d6c8b3c,
+    type: 2}
+  barghestConfigurations: {fileID: 11400000, guid: 1cb4c1212f1126d49b11e174205ea7ce,
+    type: 2}
+  deathWightConfigurations: {fileID: 11400000, guid: b7e072163ee3e864dbd91efa7fd91cf3,
+    type: 2}
+  brigandConfigurations: {fileID: 11400000, guid: a7d164d7e5c09734b920651f4bb9ed72,
+    type: 2}
+  sargentConfiguration: {fileID: 11400000, guid: 26269e143f7692c4a91aef52486b3b1b,
+    type: 2}
+  captainConfiguration: {fileID: 11400000, guid: 0e3b6835998306f48899d3babad6c1c2,
+    type: 2}
+  npcConfigurations: {fileID: 11400000, guid: 99583134805da464a953760c5b714432, type: 2}
+  CompanionAI: {fileID: 11400000, guid: 57218749efeac7c449ca994febe74bbc, type: 2}

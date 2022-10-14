@@ -1,0 +1,132 @@
+
+S_Conscript_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Torso
+  rotate: false
+  xy: 386, 129
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 201, 53
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 201, 115
+  size: 183, 128
+  orig: 183, 128
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 44
+  size: 197, 199
+  orig: 197, 199
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 343, 81
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: false
+  xy: 454, 107
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 2, 3
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 79, 9
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 324, 55
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+lft uppr arm
+  rotate: true
+  xy: 144, 2
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 494, 206
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 393, 103
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 393, 69
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 278, 58
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 201, 74
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+ryt lwr arm copy
+  rotate: true
+  xy: 278, 80
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 349, 56
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+ryt uppr arm copy
+  rotate: true
+  xy: 202, 11
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1

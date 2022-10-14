@@ -1,0 +1,104 @@
+
+Helena_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Foot
+  rotate: false
+  xy: 2, 2
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+LeftArm
+  rotate: true
+  xy: 82, 7
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+Left_UpperArm
+  rotate: true
+  xy: 257, 44
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+Left_leg
+  rotate: false
+  xy: 316, 49
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: false
+  xy: 257, 74
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: false
+  xy: 42, 2
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+RightArm
+  rotate: false
+  xy: 356, 72
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+Right_leg
+  rotate: false
+  xy: 397, 136
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+Right_upperArm
+  rotate: true
+  xy: 213, 6
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+braid
+  rotate: true
+  xy: 150, 16
+  size: 15, 61
+  orig: 15, 61
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 33
+  size: 221, 253
+  orig: 221, 253
+  offset: 0, 0
+  index: -1
+lbraid
+  rotate: false
+  xy: 465, 165
+  size: 15, 56
+  orig: 15, 56
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 316, 137
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 316, 223
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

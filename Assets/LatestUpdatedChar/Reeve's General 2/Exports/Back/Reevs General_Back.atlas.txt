@@ -1,0 +1,83 @@
+
+Reevs General_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cape
+  rotate: false
+  xy: 300, 106
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 8
+  size: 175, 233
+  orig: 175, 233
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 247, 2
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 430, 113
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+lwr ryt arm copy
+  rotate: false
+  xy: 472, 181
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+ryt leg  copy
+  rotate: false
+  xy: 430, 60
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 179, 55
+  size: 42, 104
+  orig: 42, 104
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 179, 99
+  size: 119, 142
+  orig: 119, 142
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: false
+  xy: 430, 175
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+upr ryt arm copy
+  rotate: true
+  xy: 179, 13
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: true
+  xy: 397, 84
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

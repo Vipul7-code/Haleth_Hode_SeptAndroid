@@ -1,0 +1,62 @@
+
+Merchant_Female_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 270, 67
+  size: 103, 186
+  orig: 103, 186
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 40
+  size: 213, 266
+  orig: 213, 266
+  offset: 0, 0
+  index: -1
+lft foot
+  rotate: false
+  xy: 375, 79
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: true
+  xy: 2, 2
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+lwr ryt arm copy
+  rotate: false
+  xy: 415, 179
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+ryt foot
+  rotate: false
+  xy: 270, 40
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: false
+  xy: 375, 180
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+upr ryt arm copy 2
+  rotate: false
+  xy: 375, 105
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1

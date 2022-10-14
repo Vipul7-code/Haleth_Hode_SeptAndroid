@@ -1,0 +1,111 @@
+
+LordEdwardreanim_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin
+  rotate: false
+  xy: 2, 67
+  size: 162, 187
+  orig: 162, 187
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 164, 30
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: true
+  xy: 144, 23
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 418, 177
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+lft shoe
+  rotate: false
+  xy: 279, 44
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: true
+  xy: 2, 10
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 97, 2
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 201, 40
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: false
+  xy: 279, 79
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+ryt shoe copy
+  rotate: false
+  xy: 97, 31
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: true
+  xy: 328, 166
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 166, 163
+  size: 160, 91
+  orig: 160, 91
+  offset: 0, 0
+  index: -1
+waist band
+  rotate: false
+  xy: 418, 138
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+waist cloth ryt
+  rotate: true
+  xy: 166, 60
+  size: 101, 111
+  orig: 101, 111
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 328, 223
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

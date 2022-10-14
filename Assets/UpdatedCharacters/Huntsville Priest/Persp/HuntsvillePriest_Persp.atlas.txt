@@ -1,0 +1,104 @@
+
+HuntsvillePriest_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin persp
+  rotate: false
+  xy: 2, 49
+  size: 163, 205
+  orig: 163, 205
+  offset: 0, 0
+  index: -1
+lft eye persp
+  rotate: false
+  xy: 120, 4
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+lft eyebrow persp
+  rotate: false
+  xy: 156, 26
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+lft shoe
+  rotate: false
+  xy: 167, 49
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+ryt shoe
+  rotate: false
+  xy: 167, 49
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 449, 177
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 288, 96
+  size: 52, 93
+  orig: 52, 93
+  offset: 0, 0
+  index: -1
+ryt eye persp
+  rotate: true
+  xy: 72, 2
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+ryt eyebrow persp
+  rotate: false
+  xy: 231, 67
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 288, 150
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 167, 90
+  size: 119, 164
+  orig: 119, 164
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: true
+  xy: 383, 101
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 2, 2
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+waist belt piece
+  rotate: true
+  xy: 449, 151
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1

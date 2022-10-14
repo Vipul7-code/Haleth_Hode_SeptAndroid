@@ -1,0 +1,153 @@
+
+Priest_Persp.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back lower arm persp
+  rotate: true
+  xy: 876, 206
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+back shoe persp
+  rotate: false
+  xy: 586, 145
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+back upper arm persp
+  rotate: true
+  xy: 356, 91
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+eye pupil lft  persp
+  rotate: false
+  xy: 215, 71
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+eye pupil ryt persp
+  rotate: false
+  xy: 215, 71
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+eye socket lft persp
+  rotate: false
+  xy: 706, 158
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+eye socket ryt persp
+  rotate: true
+  xy: 441, 97
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+front ear persp
+  rotate: false
+  xy: 748, 158
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+front lower arm persp
+  rotate: true
+  xy: 946, 201
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+front shoe persp
+  rotate: false
+  xy: 645, 171
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+front upper arm persp
+  rotate: true
+  xy: 706, 199
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+hairs persp
+  rotate: false
+  xy: 171, 93
+  size: 183, 161
+  orig: 183, 161
+  offset: 0, 0
+  index: -1
+head skin persp
+  rotate: false
+  xy: 2, 68
+  size: 167, 186
+  orig: 167, 186
+  offset: 0, 0
+  index: -1
+left eyebrow persp
+  rotate: false
+  xy: 171, 68
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+mouth line persp
+  rotate: false
+  xy: 645, 156
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+pelvis persp
+  rotate: false
+  xy: 486, 153
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+rope persp
+  rotate: false
+  xy: 792, 204
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+ryt eyebrow persp
+  rotate: false
+  xy: 157, 49
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+scarf persp
+  rotate: false
+  xy: 2, 2
+  size: 153, 64
+  orig: 153, 64
+  offset: 0, 0
+  index: -1
+torso persp
+  rotate: false
+  xy: 356, 151
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 486, 223
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Brigand_LeaderRochester_Back.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head  back
+  rotate: false
+  xy: 2, 111
+  size: 170, 198
+  orig: 170, 198
+  offset: 0, 0
+  index: -1
+lft leg  back
+  rotate: false
+  xy: 421, 233
+  size: 71, 157
+  orig: 71, 157
+  offset: 0, 0
+  index: -1
+lft lwr arm   back
+  rotate: true
+  xy: 276, 180
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+lft upr arm  back
+  rotate: true
+  xy: 2, 9
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+pelvis  back
+  rotate: false
+  xy: 276, 92
+  size: 155, 86
+  orig: 155, 86
+  offset: 0, 0
+  index: -1
+quiver persp
+  rotate: false
+  xy: 276, 274
+  size: 143, 116
+  orig: 143, 116
+  offset: 0, 0
+  index: -1
+ryt leg back
+  rotate: false
+  xy: 433, 74
+  size: 71, 157
+  orig: 71, 157
+  offset: 0, 0
+  index: -1
+ryt lwr arm  back
+  rotate: false
+  xy: 174, 2
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+ryt upr arm  back
+  rotate: false
+  xy: 174, 141
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+sword copy 2
+  rotate: true
+  xy: 276, 392
+  size: 112, 208
+  orig: 112, 208
+  offset: 0, 0
+  index: -1
+torso back
+  rotate: false
+  xy: 2, 311
+  size: 272, 193
+  orig: 272, 193
+  offset: 0, 0
+  index: -1

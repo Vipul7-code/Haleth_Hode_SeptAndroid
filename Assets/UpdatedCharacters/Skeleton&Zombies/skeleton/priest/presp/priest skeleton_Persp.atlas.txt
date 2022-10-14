@@ -1,0 +1,83 @@
+
+priest skeleton_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head sleleton persp
+  rotate: false
+  xy: 2, 81
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+lft leg sleleton persp
+  rotate: true
+  xy: 354, 199
+  size: 55, 106
+  orig: 55, 106
+  offset: 0, 0
+  index: -1
+lwr lft arm sleleton persp
+  rotate: false
+  xy: 217, 4
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+lwr ryt arm sleleton persp
+  rotate: false
+  xy: 169, 2
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+mace skeleteon
+  rotate: false
+  xy: 2, 23
+  size: 165, 56
+  orig: 165, 56
+  offset: 0, 0
+  index: -1
+ryt leg sleleton persp
+  rotate: true
+  xy: 173, 76
+  size: 53, 104
+  orig: 53, 104
+  offset: 0, 0
+  index: -1
+torso sleleton persp
+  rotate: false
+  xy: 173, 131
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+uppr ryt arm sleleton persp
+  rotate: true
+  xy: 354, 134
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+upr lft arm sleleton persp
+  rotate: false
+  xy: 462, 167
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+wooden round shield
+  rotate: false
+  xy: 277, 155
+  size: 75, 99
+  orig: 75, 99
+  offset: 0, 0
+  index: -1
+wooden round shield strap
+  rotate: true
+  xy: 258, 29
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1

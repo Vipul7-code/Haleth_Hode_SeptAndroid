@@ -1,0 +1,118 @@
+
+TownPeople 2_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bucket
+  rotate: true
+  xy: 235, 56
+  size: 189, 221
+  orig: 189, 221
+  offset: 0, 0
+  index: -1
+Group 35
+  rotate: false
+  xy: 2, 44
+  size: 231, 201
+  orig: 231, 201
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: true
+  xy: 458, 58
+  size: 187, 192
+  orig: 187, 192
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 754, 207
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 235, 45
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 754, 118
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 2, 13
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 721, 80
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: true
+  xy: 71, 13
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 754, 167
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+ryt eyebrw copy
+  rotate: false
+  xy: 2, 2
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 840, 198
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: true
+  xy: 652, 76
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 128, 17
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: false
+  xy: 809, 190
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 652, 107
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1

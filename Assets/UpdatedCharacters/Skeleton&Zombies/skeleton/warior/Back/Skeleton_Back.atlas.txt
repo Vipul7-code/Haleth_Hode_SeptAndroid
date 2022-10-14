@@ -1,0 +1,83 @@
+
+Skeleton_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head sleleton back
+  rotate: false
+  xy: 2, 82
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+lft leg sleleton back
+  rotate: true
+  xy: 369, 145
+  size: 53, 107
+  orig: 53, 107
+  offset: 0, 0
+  index: -1
+lwr lft arm sleleton back
+  rotate: true
+  xy: 2, 2
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+lwr ryt arm sleleton back
+  rotate: true
+  xy: 80, 2
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+ryt leg sleleton back
+  rotate: true
+  xy: 369, 200
+  size: 52, 109
+  orig: 52, 109
+  offset: 0, 0
+  index: -1
+torso sleleton back
+  rotate: false
+  xy: 174, 101
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+upr lft arm sleleton back
+  rotate: false
+  xy: 292, 65
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+upr ryt arm sleleton back
+  rotate: true
+  xy: 356, 81
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 2, 49
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1
+wooden round shield
+  rotate: false
+  xy: 292, 153
+  size: 75, 99
+  orig: 75, 99
+  offset: 0, 0
+  index: -1
+wooden round shield strap
+  rotate: true
+  xy: 480, 207
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1

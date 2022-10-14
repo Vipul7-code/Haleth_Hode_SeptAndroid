@@ -1,0 +1,97 @@
+
+Acolyte_Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hood
+  rotate: false
+  xy: 387, 163
+  size: 158, 72
+  orig: 158, 72
+  offset: 0, 0
+  index: -1
+hair back
+  rotate: false
+  xy: 190, 73
+  size: 195, 162
+  orig: 195, 162
+  offset: 0, 0
+  index: -1
+head skin back
+  rotate: false
+  xy: 2, 52
+  size: 186, 183
+  orig: 186, 183
+  offset: 0, 0
+  index: -1
+left lower arm back
+  rotate: false
+  xy: 520, 98
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+left upper arm back
+  rotate: true
+  xy: 735, 182
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+lft shoe back
+  rotate: true
+  xy: 650, 165
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+pelvis back
+  rotate: false
+  xy: 547, 167
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+rope back
+  rotate: false
+  xy: 190, 59
+  size: 79, 12
+  orig: 79, 12
+  offset: 0, 0
+  index: -1
+ryt lower arm back copy
+  rotate: false
+  xy: 573, 102
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+ryt shoe back
+  rotate: true
+  xy: 921, 186
+  size: 49, 88
+  orig: 49, 88
+  offset: 0, 0
+  index: -1
+ryt upper arm back copy
+  rotate: true
+  xy: 828, 182
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+shoulder cloth back
+  rotate: false
+  xy: 2, 2
+  size: 170, 48
+  orig: 170, 48
+  offset: 0, 0
+  index: -1
+torso back
+  rotate: false
+  xy: 387, 65
+  size: 131, 96
+  orig: 131, 96
+  offset: 0, 0
+  index: -1

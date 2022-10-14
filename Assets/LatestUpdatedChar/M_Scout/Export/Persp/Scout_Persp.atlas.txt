@@ -1,0 +1,475 @@
+
+Scout_Persp.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: true
+  xy: 395, 290
+  size: 22, 138
+  orig: 22, 138
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: true
+  xy: 185, 168
+  size: 84, 153
+  orig: 84, 153
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 340, 120
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1391, 277
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1828, 350
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 1338, 276
+  size: 51, 82
+  orig: 51, 82
+  offset: 0, 0
+  index: -1
+Layer 80
+  rotate: false
+  xy: 200, 287
+  size: 193, 215
+  orig: 193, 215
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: true
+  xy: 1681, 403
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+back arm armor persp
+  rotate: false
+  xy: 516, 128
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+back leg armorpersp
+  rotate: true
+  xy: 1863, 420
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+back leg persp
+  rotate: true
+  xy: 1756, 352
+  size: 49, 70
+  orig: 49, 70
+  offset: 0, 0
+  index: -1
+back wrist band pesp
+  rotate: false
+  xy: 563, 192
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+back wrist band pesp copy
+  rotate: false
+  xy: 601, 202
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+back wrist band pesp copy 2
+  rotate: false
+  xy: 601, 167
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 1536, 358
+  size: 87, 26
+  orig: 87, 26
+  offset: 0, 0
+  index: -1
+belt persp
+  rotate: true
+  xy: 340, 178
+  size: 74, 39
+  orig: 74, 39
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 1681, 462
+  size: 40, 202
+  orig: 40, 202
+  offset: 0, 0
+  index: -1
+ear pesp
+  rotate: false
+  xy: 605, 129
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+eye pupil lft persp
+  rotate: false
+  xy: 111, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+eye pupil ryt persp
+  rotate: false
+  xy: 111, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+eye socket lft persp
+  rotate: false
+  xy: 1625, 250
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+eye socket ryt persp
+  rotate: false
+  xy: 561, 154
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+eyebrow lft persp
+  rotate: false
+  xy: 359, 254
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+eyebrow ryt persp
+  rotate: true
+  xy: 1596, 257
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+frnt wrist band pesp
+  rotate: true
+  xy: 1820, 300
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+frnt wrist band pesp copy
+  rotate: false
+  xy: 514, 194
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+frnt wrist band pesp copy 2
+  rotate: false
+  xy: 1625, 284
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+front  arm armor persp
+  rotate: false
+  xy: 516, 159
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+front leg armor persp
+  rotate: true
+  xy: 1607, 303
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+front leg persp
+  rotate: true
+  xy: 1527, 308
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+hairs persp
+  rotate: false
+  xy: 1360, 360
+  size: 174, 142
+  orig: 174, 142
+  offset: 0, 0
+  index: -1
+head skin persp
+  rotate: false
+  xy: 1021, 329
+  size: 153, 173
+  orig: 153, 173
+  offset: 0, 0
+  index: -1
+helmet persp
+  rotate: true
+  xy: 614, 315
+  size: 187, 206
+  orig: 187, 206
+  offset: 0, 0
+  index: -1
+leather belt
+  rotate: false
+  xy: 1681, 368
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+leather cap
+  rotate: false
+  xy: 1176, 361
+  size: 182, 141
+  orig: 182, 141
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 1286, 262
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 1443, 266
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+lft pelvis leather armor persp
+  rotate: true
+  xy: 559, 120
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+lft pelvis leather armor persp copy
+  rotate: true
+  xy: 1338, 242
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+lft pelvis padeed armor persp copy
+  rotate: false
+  xy: 600, 240
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: true
+  xy: 1520, 258
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+lower ryt arm
+  rotate: true
+  xy: 1681, 322
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+metal belt
+  rotate: false
+  xy: 535, 286
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+metal helmet
+  rotate: true
+  xy: 822, 318
+  size: 184, 197
+  orig: 184, 197
+  offset: 0, 0
+  index: -1
+metal helmet copy 3
+  rotate: true
+  xy: 395, 314
+  size: 188, 217
+  orig: 188, 217
+  offset: 0, 0
+  index: -1
+neck scarf  persp
+  rotate: false
+  xy: 1885, 421
+  size: 155, 81
+  orig: 155, 81
+  offset: 0, 0
+  index: -1
+quiver persp
+  rotate: false
+  xy: 1536, 386
+  size: 143, 116
+  orig: 143, 116
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 111, 22
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+ryt pelvis leather armor persp
+  rotate: false
+  xy: 448, 184
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+ryt pelvis leather armor persp copy
+  rotate: false
+  xy: 386, 128
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+ryt pelvis padeed armor persp copy
+  rotate: false
+  xy: 451, 134
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+shlder armor lft copy
+  rotate: false
+  xy: 1625, 319
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+shlder armor ryt
+  rotate: true
+  xy: 1753, 296
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+shlder armor ryt copy
+  rotate: true
+  xy: 399, 234
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+shlder armor ryt copy 2
+  rotate: true
+  xy: 466, 234
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+shlder armor ryt copy 3
+  rotate: true
+  xy: 533, 230
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+shlder armor ryt copy 4
+  rotate: true
+  xy: 381, 178
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+single side axe
+  rotate: true
+  xy: 185, 120
+  size: 46, 148
+  orig: 46, 148
+  offset: 0, 0
+  index: -1
+small round shield persp
+  rotate: false
+  xy: 35, 255
+  size: 163, 247
+  orig: 163, 247
+  offset: 0, 0
+  index: -1
+spear
+  rotate: false
+  xy: 2, 121
+  size: 31, 381
+  orig: 31, 381
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 35, 124
+  size: 129, 148
+  orig: 129, 148
+  offset: 0, 0
+  index: -1
+torso cloth persp
+  rotate: true
+  xy: 2, 5
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+torso leather armor persp1 copy 2
+  rotate: false
+  xy: 162, 17
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+torso leather armor persp1 copy 3
+  rotate: false
+  xy: 272, 17
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+torso padeed armor persp copy
+  rotate: false
+  xy: 1176, 258
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 1443, 309
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 200, 254
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

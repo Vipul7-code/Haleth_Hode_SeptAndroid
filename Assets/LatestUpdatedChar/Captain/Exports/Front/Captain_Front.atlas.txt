@@ -1,0 +1,111 @@
+
+Captain_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Face
+  rotate: false
+  xy: 2, 31
+  size: 174, 218
+  orig: 174, 218
+  offset: 0, 0
+  index: -1
+Left leg
+  rotate: false
+  xy: 352, 100
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+Right Leg
+  rotate: true
+  xy: 178, 2
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 285, 101
+  size: 65, 148
+  orig: 65, 148
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 178, 95
+  size: 105, 154
+  orig: 105, 154
+  offset: 0, 0
+  index: -1
+lft eye socket
+  rotate: false
+  xy: 49, 8
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: true
+  xy: 260, 48
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 121, 11
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+lwr lft hand copy
+  rotate: false
+  xy: 400, 172
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+lwr right hand
+  rotate: false
+  xy: 447, 172
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+ryt eye socket
+  rotate: false
+  xy: 85, 8
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 2, 10
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 144, 11
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+upr lft hand copy
+  rotate: true
+  xy: 178, 47
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+upr ryt hand
+  rotate: false
+  xy: 352, 169
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1

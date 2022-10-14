@@ -1,0 +1,76 @@
+
+NormalBear.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back arm (bear hug)
+  rotate: false
+  xy: 1651, 121
+  size: 170, 81
+  orig: 170, 81
+  offset: 0, 0
+  index: -1
+back first leg
+  rotate: true
+  xy: 625, 87
+  size: 115, 217
+  orig: 115, 217
+  offset: 0, 0
+  index: -1
+back second leg
+  rotate: true
+  xy: 1258, 102
+  size: 100, 191
+  orig: 100, 191
+  offset: 0, 0
+  index: -1
+dead normal bear
+  rotate: false
+  xy: 2, 31
+  size: 348, 171
+  orig: 348, 171
+  offset: 0, 0
+  index: -1
+frnt first leg
+  rotate: true
+  xy: 844, 93
+  size: 109, 219
+  orig: 109, 219
+  offset: 0, 0
+  index: -1
+frnt second leg
+  rotate: true
+  xy: 1451, 115
+  size: 87, 198
+  orig: 87, 198
+  offset: 0, 0
+  index: -1
+front arm (bear hug)
+  rotate: false
+  xy: 1065, 69
+  size: 191, 133
+  orig: 191, 133
+  offset: 0, 0
+  index: -1
+lower jaw
+  rotate: false
+  xy: 625, 2
+  size: 127, 83
+  orig: 127, 83
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 352, 34
+  size: 271, 168
+  orig: 271, 168
+  offset: 0, 0
+  index: -1
+upper jaw
+  rotate: false
+  xy: 1823, 91
+  size: 154, 111
+  orig: 154, 111
+  offset: 0, 0
+  index: -1

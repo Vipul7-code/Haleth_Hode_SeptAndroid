@@ -1,0 +1,83 @@
+
+brigand veteran_back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dblheaded axe
+  rotate: false
+  xy: 298, 97
+  size: 77, 152
+  orig: 77, 152
+  offset: 0, 0
+  index: -1
+head belt back BV
+  rotate: false
+  xy: 2, 2
+  size: 140, 42
+  orig: 140, 42
+  offset: 0, 0
+  index: -1
+head skin back BV
+  rotate: false
+  xy: 2, 46
+  size: 148, 203
+  orig: 148, 203
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 443, 134
+  size: 52, 115
+  orig: 52, 115
+  offset: 0, 0
+  index: -1
+lwr lft arm back BV
+  rotate: true
+  xy: 443, 92
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+lwr ryt arm back BV
+  rotate: false
+  xy: 269, 16
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 152, 30
+  size: 52, 115
+  orig: 52, 115
+  offset: 0, 0
+  index: -1
+shldr cloth back BV
+  rotate: true
+  xy: 377, 99
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: -1
+torso back BV
+  rotate: false
+  xy: 152, 84
+  size: 144, 165
+  orig: 144, 165
+  offset: 0, 0
+  index: -1
+upr lft arm back BV
+  rotate: false
+  xy: 311, 32
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+upr ryt arm back BV
+  rotate: false
+  xy: 356, 32
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1

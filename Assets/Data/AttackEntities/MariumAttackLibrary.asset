@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef310dd68ee1e64a85b005b709c484a, type: 3}
+  m_Name: MariumAttackLibrary
+  m_EditorClassIdentifier: 
+  AttackEntityLibrary:
+  - {fileID: 11400000, guid: 4f97bd93a2a4bd547b32843121372b2c, type: 2}
+  - {fileID: 11400000, guid: b19bf1ce3ba6f624db3340da9a373fcb, type: 2}
+  - {fileID: 11400000, guid: 612cf265f1ea2e341ab2e6385782d18b, type: 2}
+  - {fileID: 11400000, guid: 5edbf781c759692408ff25ca4b1ca297, type: 2}
+  - {fileID: 11400000, guid: 704ce8d5f965fbe40956eea27acafc98, type: 2}
+  - {fileID: 11400000, guid: b879d88b713014d4695c0bf072b87498, type: 2}
+  - {fileID: 11400000, guid: bf1b6e5e739a7fd44a5c7237fd6e8573, type: 2}

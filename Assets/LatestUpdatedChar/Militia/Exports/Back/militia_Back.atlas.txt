@@ -1,0 +1,76 @@
+
+militia_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cowl
+  rotate: false
+  xy: 2, 17
+  size: 211, 222
+  orig: 211, 222
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 215, 52
+  size: 44, 91
+  orig: 44, 91
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: false
+  xy: 308, 31
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 347, 37
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+neck cloth copy
+  rotate: false
+  xy: 335, 183
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 335, 104
+  size: 44, 91
+  orig: 44, 91
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 215, 98
+  size: 118, 141
+  orig: 118, 141
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: true
+  xy: 215, 2
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 428, 100
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 335, 150
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

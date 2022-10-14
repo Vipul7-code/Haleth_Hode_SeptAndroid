@@ -1,0 +1,83 @@
+
+militia_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arrow
+  rotate: true
+  xy: 2, 57
+  size: 22, 138
+  orig: 22, 138
+  offset: 0, 0
+  index: -1
+bow
+  rotate: true
+  xy: 173, 115
+  size: 40, 202
+  orig: 40, 202
+  offset: 0, 0
+  index: -1
+head sleleton persp
+  rotate: false
+  xy: 2, 81
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+lft leg sleleton persp
+  rotate: true
+  xy: 404, 199
+  size: 55, 106
+  orig: 55, 106
+  offset: 0, 0
+  index: -1
+lwr lft arm sleleton persp
+  rotate: false
+  xy: 411, 80
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+lwr ryt arm sleleton persp
+  rotate: false
+  xy: 363, 41
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+quiver
+  rotate: false
+  xy: 173, 157
+  size: 229, 97
+  orig: 229, 97
+  offset: 0, 0
+  index: -1
+ryt leg sleleton persp
+  rotate: true
+  xy: 2, 2
+  size: 53, 104
+  orig: 53, 104
+  offset: 0, 0
+  index: -1
+torso sleleton persp
+  rotate: true
+  xy: 173, 11
+  size: 102, 123
+  orig: 102, 123
+  offset: 0, 0
+  index: -1
+uppr ryt arm sleleton persp
+  rotate: false
+  xy: 298, 22
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+upr lft arm sleleton persp
+  rotate: true
+  xy: 404, 152
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1

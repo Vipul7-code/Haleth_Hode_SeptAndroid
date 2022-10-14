@@ -1,0 +1,83 @@
+
+MiniSpider.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abdomen  mini spider
+  rotate: true
+  xy: 2, 2
+  size: 122, 108
+  orig: 122, 108
+  offset: 0, 0
+  index: -1
+Eye1 mini spider
+  rotate: false
+  xy: 480, 41
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Eye2  mini spider
+  rotate: false
+  xy: 480, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Hand mini spider
+  rotate: false
+  xy: 420, 33
+  size: 58, 91
+  orig: 58, 91
+  offset: 0, 0
+  index: -1
+Leg 01  mini spider
+  rotate: true
+  xy: 293, 65
+  size: 59, 125
+  orig: 59, 125
+  offset: 0, 0
+  index: -1
+Leg 02  mini spider
+  rotate: false
+  xy: 201, 14
+  size: 90, 110
+  orig: 90, 110
+  offset: 0, 0
+  index: -1
+Teeth1  mini spider
+  rotate: true
+  xy: 480, 74
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+Teeth2  mini spider
+  rotate: false
+  xy: 480, 98
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+Tent1  mini spider
+  rotate: false
+  xy: 293, 11
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+Tent2  mini spider
+  rotate: true
+  xy: 345, 10
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+head  mini spider
+  rotate: true
+  xy: 112, 5
+  size: 119, 87
+  orig: 119, 87
+  offset: 0, 0
+  index: -1

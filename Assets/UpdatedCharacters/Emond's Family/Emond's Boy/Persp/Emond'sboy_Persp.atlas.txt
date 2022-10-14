@@ -1,0 +1,97 @@
+
+Emond'sboy_Persp.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hair emond boy p
+  rotate: false
+  xy: 133, 24
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+head skin emond boy p
+  rotate: true
+  xy: 2, 7
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+lft eye emond boy p
+  rotate: false
+  xy: 486, 100
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+lft eyebrows emond boy p
+  rotate: false
+  xy: 486, 80
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+lft leg emond boy p
+  rotate: false
+  xy: 371, 60
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+rytt leg emond boy p
+  rotate: false
+  xy: 371, 60
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+lwr lft arm emond boy p
+  rotate: false
+  xy: 431, 68
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+lwr ryt arm emond boy p
+  rotate: false
+  xy: 404, 66
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+ryt eye emond boy p
+  rotate: false
+  xy: 312, 16
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+ryt eyebrows emond boy p
+  rotate: false
+  xy: 133, 2
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+torso emond boy p
+  rotate: true
+  xy: 266, 44
+  size: 79, 103
+  orig: 79, 103
+  offset: 0, 0
+  index: -1
+upr lft arm emond boy p
+  rotate: true
+  xy: 266, 17
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+upr ryt arm emond boy p
+  rotate: false
+  xy: 459, 77
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1

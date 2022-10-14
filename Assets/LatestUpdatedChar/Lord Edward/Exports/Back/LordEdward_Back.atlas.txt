@@ -1,0 +1,97 @@
+
+LordEdward_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 40
+  size: 163, 196
+  orig: 163, 196
+  offset: 0, 0
+  index: -1
+l_arm_guard
+  rotate: false
+  xy: 280, 2
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+l_lower_arm
+  rotate: true
+  xy: 329, 191
+  size: 45, 107
+  orig: 45, 107
+  offset: 0, 0
+  index: -1
+l_shoe
+  rotate: false
+  xy: 338, 32
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+l_upper_arm
+  rotate: true
+  xy: 438, 193
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+lower_body
+  rotate: true
+  xy: 167, 41
+  size: 102, 111
+  orig: 102, 111
+  offset: 0, 0
+  index: -1
+r_arm_guard
+  rotate: false
+  xy: 280, 72
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+r_lower_arm
+  rotate: true
+  xy: 329, 145
+  size: 44, 106
+  orig: 44, 106
+  offset: 0, 0
+  index: -1
+r_shoe
+  rotate: false
+  xy: 338, 3
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+r_upper_arm
+  rotate: true
+  xy: 338, 61
+  size: 43, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 167, 145
+  size: 160, 91
+  orig: 160, 91
+  offset: 0, 0
+  index: -1
+waist_band
+  rotate: false
+  xy: 338, 106
+  size: 88, 37
+  orig: 88, 37
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 2, 7
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

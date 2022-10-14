@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef310dd68ee1e64a85b005b709c484a, type: 3}
+  m_Name: ScoutAttackLibrary
+  m_EditorClassIdentifier: 
+  AttackEntityLibrary:
+  - {fileID: 11400000, guid: eb2bd740564d7f14c821bdf408ab25a6, type: 2}
+  - {fileID: 11400000, guid: 53b5795112d303a4fbc60260f313bc05, type: 2}
+  - {fileID: 11400000, guid: eb2bd740564d7f14c821bdf408ab25a6, type: 2}
+  - {fileID: 11400000, guid: eb2bd740564d7f14c821bdf408ab25a6, type: 2}
+  - {fileID: 11400000, guid: 9bcc5ba7c67c189458b4e6726ca9170a, type: 2}
+  - {fileID: 11400000, guid: a9b54cae06e9d864fbe59e6f7690d010, type: 2}
+  - {fileID: 11400000, guid: eb2bd740564d7f14c821bdf408ab25a6, type: 2}
+  - {fileID: 11400000, guid: 530ebcc147e73ab47806ece65f4710c9, type: 2}
+  - {fileID: 11400000, guid: eb2bd740564d7f14c821bdf408ab25a6, type: 2}
+  - {fileID: 11400000, guid: eb2bd740564d7f14c821bdf408ab25a6, type: 2}
+  - {fileID: 11400000, guid: eb2bd740564d7f14c821bdf408ab25a6, type: 2}
+  - {fileID: 11400000, guid: eb2bd740564d7f14c821bdf408ab25a6, type: 2}

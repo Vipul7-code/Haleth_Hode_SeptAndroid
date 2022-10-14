@@ -1,0 +1,118 @@
+
+brigand_fornt.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head skin
+  rotate: false
+  xy: 164, 80
+  size: 136, 172
+  orig: 136, 172
+  offset: 0, 0
+  index: -1
+back hood cloth
+  rotate: false
+  xy: 302, 128
+  size: 149, 124
+  orig: 149, 124
+  offset: 0, 0
+  index: -1
+frnt Hood
+  rotate: false
+  xy: 2, 75
+  size: 160, 177
+  orig: 160, 177
+  offset: 0, 0
+  index: -1
+front axe  brigand
+  rotate: true
+  xy: 453, 127
+  size: 125, 131
+  orig: 125, 131
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 109, 47
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 2, 2
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 2, 25
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 770, 180
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+lwr ryt arm copy
+  rotate: false
+  xy: 808, 180
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 302, 88
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 770, 152
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 884, 231
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+ryt leg1
+  rotate: false
+  xy: 720, 147
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 586, 135
+  size: 132, 117
+  orig: 132, 117
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: true
+  xy: 383, 90
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+upr ryt arm copy
+  rotate: false
+  xy: 846, 193
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1

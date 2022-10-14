@@ -1,0 +1,125 @@
+
+Brigand_LeaderRochester_Front.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front face
+  rotate: true
+  xy: 276, 57
+  size: 170, 198
+  orig: 170, 198
+  offset: 0, 0
+  index: -1
+lft eye socket  front
+  rotate: false
+  xy: 276, 36
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+lft eyebrow front
+  rotate: false
+  xy: 2, 2
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+lft leg front
+  rotate: true
+  xy: 1296, 156
+  size: 71, 161
+  orig: 71, 161
+  offset: 0, 0
+  index: -1
+lft lwr arm front
+  rotate: true
+  xy: 1012, 123
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1
+lft upr arm front
+  rotate: true
+  xy: 686, 127
+  size: 100, 161
+  orig: 100, 161
+  offset: 0, 0
+  index: -1
+pelvis  front
+  rotate: false
+  xy: 1777, 168
+  size: 132, 59
+  orig: 132, 59
+  offset: 0, 0
+  index: -1
+ryt eye socket front
+  rotate: false
+  xy: 1296, 135
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+ryt eyebrow front
+  rotate: false
+  xy: 476, 83
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+ryt eyepupil front
+  rotate: false
+  xy: 1777, 153
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+ryt eyepupil front  copy
+  rotate: false
+  xy: 1911, 214
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+ryt leg front
+  rotate: true
+  xy: 1459, 156
+  size: 71, 161
+  orig: 71, 161
+  offset: 0, 0
+  index: -1
+ryt lwr arm front
+  rotate: true
+  xy: 1154, 123
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1
+ryt upr arm front
+  rotate: true
+  xy: 849, 127
+  size: 100, 161
+  orig: 100, 161
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 476, 115
+  size: 112, 208
+  orig: 112, 208
+  offset: 0, 0
+  index: -1
+torso  front
+  rotate: false
+  xy: 2, 34
+  size: 272, 193
+  orig: 272, 193
+  offset: 0, 0
+  index: -1
+waist cloth  front
+  rotate: false
+  xy: 1622, 153
+  size: 153, 74
+  orig: 153, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+LordEdward_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin
+  rotate: false
+  xy: 2, 51
+  size: 151, 190
+  orig: 151, 190
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 323, 12
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: true
+  xy: 472, 105
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 2, 2
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+lft shoe copy 2
+  rotate: false
+  xy: 90, 15
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+ryt shoe copy
+  rotate: false
+  xy: 90, 15
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+lft uppr arm
+  rotate: false
+  xy: 253, 10
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 358, 12
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: true
+  xy: 491, 200
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: false
+  xy: 423, 60
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+ryt lwr arm1
+  rotate: false
+  xy: 323, 42
+  size: 61, 93
+  orig: 61, 93
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: true
+  xy: 155, 37
+  size: 65, 96
+  orig: 65, 96
+  offset: 0, 0
+  index: -1
+ryt upr arm 1
+  rotate: false
+  xy: 408, 147
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 155, 137
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: -1
+waist belt
+  rotate: true
+  xy: 386, 46
+  size: 89, 35
+  orig: 89, 35
+  offset: 0, 0
+  index: -1
+waist cloth
+  rotate: true
+  xy: 298, 137
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 155, 104
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

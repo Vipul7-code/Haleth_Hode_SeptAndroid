@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0721fa99f62a5cc42b8d1dea46cf1c9b, type: 3}
+  m_Name: PriestShieldLibrary
+  m_EditorClassIdentifier: 
+  DefenceEntityLibrary:
+  - {fileID: 11400000, guid: 18941825f83f44d438aeb913d4333977, type: 2}
+  - {fileID: 11400000, guid: a036b4d79fc426e418c6221b00089405, type: 2}
+  - {fileID: 11400000, guid: 711402131ad38c54c89c39071de29ddd, type: 2}
+  - {fileID: 11400000, guid: 1aee76819363f464a93840c999fecfe4, type: 2}
+  - {fileID: 11400000, guid: 6c03024db5ecd2a4e9e95c627b6b36cf, type: 2}
+  - {fileID: 11400000, guid: 2f424eb44a2ed2646bc4d84fe9d6a931, type: 2}
+  - {fileID: 11400000, guid: c7ea80d20d499704a99c7eceae0c9822, type: 2}

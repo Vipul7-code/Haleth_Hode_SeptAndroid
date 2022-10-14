@@ -1,0 +1,90 @@
+
+farmer_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lft eye
+  rotate: false
+  xy: 472, 172
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+lft eye brw
+  rotate: false
+  xy: 326, 121
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+lft leg copy 2
+  rotate: false
+  xy: 375, 172
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: false
+  xy: 182, 2
+  size: 45, 100
+  orig: 45, 100
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 326, 151
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1
+persp head
+  rotate: false
+  xy: 2, 17
+  size: 178, 237
+  orig: 178, 237
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: true
+  xy: 375, 139
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: true
+  xy: 472, 210
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+ryt leg copy 3
+  rotate: false
+  xy: 229, 19
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 182, 104
+  size: 142, 150
+  orig: 142, 150
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: false
+  xy: 283, 27
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 425, 177
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1

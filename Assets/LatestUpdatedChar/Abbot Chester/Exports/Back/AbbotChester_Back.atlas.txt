@@ -1,0 +1,76 @@
+
+AbbotChester_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back body
+  rotate: false
+  xy: 198, 126
+  size: 176, 123
+  orig: 176, 123
+  offset: 0, 0
+  index: -1
+back head
+  rotate: false
+  xy: 2, 2
+  size: 194, 247
+  orig: 194, 247
+  offset: 0, 0
+  index: -1
+back pelvis
+  rotate: false
+  xy: 376, 157
+  size: 101, 92
+  orig: 101, 92
+  offset: 0, 0
+  index: -1
+lft lwr arm back copy
+  rotate: true
+  xy: 198, 15
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+lft shoes back
+  rotate: true
+  xy: 479, 217
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+lft upr arm back copy
+  rotate: false
+  xy: 380, 81
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+ryt lwr arm back
+  rotate: true
+  xy: 277, 15
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+ryt shoes back
+  rotate: true
+  xy: 479, 183
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+ryt upr arm back
+  rotate: false
+  xy: 430, 81
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 198, 67
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1

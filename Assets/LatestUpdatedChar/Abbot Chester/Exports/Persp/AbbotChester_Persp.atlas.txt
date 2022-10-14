@@ -1,0 +1,132 @@
+
+AbbotChester_Persp.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HueSaturation 1 copy
+  rotate: false
+  xy: 680, 109
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+Layer 93
+  rotate: false
+  xy: 424, 83
+  size: 135, 167
+  orig: 135, 167
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: true
+  xy: 728, 193
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+body pesrp
+  rotate: false
+  xy: 561, 130
+  size: 165, 120
+  orig: 165, 120
+  offset: 0, 0
+  index: -1
+head hood persp
+  rotate: true
+  xy: 2, 54
+  size: 196, 260
+  orig: 196, 260
+  offset: 0, 0
+  index: -1
+head persp
+  rotate: false
+  xy: 264, 63
+  size: 158, 187
+  orig: 158, 187
+  offset: 0, 0
+  index: -1
+l_ye
+  rotate: false
+  xy: 424, 63
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+left shoe persp
+  rotate: false
+  xy: 79, 15
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+lft eyebrow pesrp
+  rotate: false
+  xy: 124, 33
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+lft eyesocket pesrp
+  rotate: false
+  xy: 874, 164
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+lwr arm left persp
+  rotate: true
+  xy: 561, 83
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+lwr arm ryt persp
+  rotate: true
+  xy: 2, 2
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+pelvis persp
+  rotate: true
+  xy: 728, 97
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+ryt eyebrow pesrp
+  rotate: false
+  xy: 826, 99
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+ryt eyesocket pesrp
+  rotate: true
+  xy: 987, 207
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+ryt shoe persp
+  rotate: false
+  xy: 635, 91
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+upr arm left persp
+  rotate: false
+  xy: 826, 121
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+upr arm ryt persp
+  rotate: true
+  xy: 910, 202
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1

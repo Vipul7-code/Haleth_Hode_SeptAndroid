@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0721fa99f62a5cc42b8d1dea46cf1c9b, type: 3}
+  m_Name: ScoutShieldLibrary
+  m_EditorClassIdentifier: 
+  DefenceEntityLibrary:
+  - {fileID: 11400000, guid: 18941825f83f44d438aeb913d4333977, type: 2}
+  - {fileID: 11400000, guid: 6e30102409c164149a399e10d70410bd, type: 2}
+  - {fileID: 11400000, guid: 6314ffef8f7103245b948c4aa4a070fc, type: 2}
+  - {fileID: 11400000, guid: 18941825f83f44d438aeb913d4333977, type: 2}
+  - {fileID: 11400000, guid: f6ba6122a66d46247ac37d2ec43dd1c5, type: 2}
+  - {fileID: 11400000, guid: 5fde255cd1823f242a40c3959b196490, type: 2}
+  - {fileID: 11400000, guid: 18941825f83f44d438aeb913d4333977, type: 2}

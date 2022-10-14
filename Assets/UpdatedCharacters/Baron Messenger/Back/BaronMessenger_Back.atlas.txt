@@ -1,0 +1,83 @@
+
+BaronMessenger_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cape frnt copy 2
+  rotate: false
+  xy: 356, 111
+  size: 117, 142
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 184, 108
+  size: 170, 145
+  orig: 170, 145
+  offset: 0, 0
+  index: -1
+head copy
+  rotate: false
+  xy: 2, 62
+  size: 180, 191
+  orig: 180, 191
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 475, 179
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+lwr ryt arm copy
+  rotate: true
+  xy: 99, 31
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+neck cloth copy 2
+  rotate: false
+  xy: 2, 11
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 342, 61
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+ryt leg copy
+  rotate: false
+  xy: 342, 61
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 184, 5
+  size: 101, 156
+  orig: 101, 156
+  offset: 0, 0
+  index: -1
+upr ryrt arm
+  rotate: false
+  xy: 475, 123
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+upr ryrt arm copy
+  rotate: true
+  xy: 99, 2
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1

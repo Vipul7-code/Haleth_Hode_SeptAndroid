@@ -1,0 +1,90 @@
+
+Barghast_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Front_back lft leg front 
+  rotate: true
+  xy: 671, 181
+  size: 71, 170
+  orig: 71, 170
+  offset: 0, 0
+  index: -1
+Front_back ryt leg front 
+  rotate: true
+  xy: 671, 108
+  size: 71, 169
+  orig: 71, 169
+  offset: 0, 0
+  index: -1
+Front_front fur front 
+  rotate: true
+  xy: 342, 116
+  size: 136, 171
+  orig: 136, 171
+  offset: 0, 0
+  index: -1
+Front_front lft leg front 
+  rotate: true
+  xy: 843, 181
+  size: 71, 170
+  orig: 71, 170
+  offset: 0, 0
+  index: -1
+Front_front ryt leg front 
+  rotate: true
+  xy: 842, 108
+  size: 71, 169
+  orig: 71, 169
+  offset: 0, 0
+  index: -1
+Front_head skin front
+  rotate: false
+  xy: 174, 87
+  size: 166, 165
+  orig: 166, 165
+  offset: 0, 0
+  index: -1
+Front_jaw front 
+  rotate: false
+  xy: 2, 2
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+Front_lft eyebrow  front
+  rotate: false
+  xy: 54, 27
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Front_lft pupil front
+  rotate: false
+  xy: 174, 69
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Front_ryt eyebrow front
+  rotate: false
+  xy: 99, 27
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Front_stomach front 
+  rotate: false
+  xy: 2, 60
+  size: 170, 192
+  orig: 170, 192
+  offset: 0, 0
+  index: -1
+Front_tail front 
+  rotate: true
+  xy: 515, 130
+  size: 122, 154
+  orig: 122, 154
+  offset: 0, 0
+  index: -1

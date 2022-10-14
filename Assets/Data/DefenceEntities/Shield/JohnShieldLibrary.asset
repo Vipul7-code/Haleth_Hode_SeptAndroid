@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0721fa99f62a5cc42b8d1dea46cf1c9b, type: 3}
+  m_Name: JohnShieldLibrary
+  m_EditorClassIdentifier: 
+  DefenceEntityLibrary:
+  - {fileID: 11400000, guid: 18941825f83f44d438aeb913d4333977, type: 2}
+  - {fileID: 11400000, guid: 78a2bd036f7e5ad478db7a17823b41cb, type: 2}
+  - {fileID: 11400000, guid: 1f121919032123846afa1650b87d6c06, type: 2}
+  - {fileID: 11400000, guid: e9f475567196c8647b7c7e7470372ce0, type: 2}
+  - {fileID: 11400000, guid: 98078355b767ebe41a1b76ad151af29b, type: 2}
+  - {fileID: 11400000, guid: e42aa67b0f24ff041a5e33a1ffdb4118, type: 2}
+  - {fileID: 11400000, guid: 44089b9590c85b743b38c1f1e596ce10, type: 2}

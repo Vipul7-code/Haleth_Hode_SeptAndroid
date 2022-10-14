@@ -1,0 +1,146 @@
+
+S_Hunter_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Torso
+  rotate: true
+  xy: 515, 146
+  size: 108, 120
+  orig: 108, 120
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 207, 71
+  size: 186, 183
+  orig: 186, 183
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 44
+  size: 203, 210
+  orig: 203, 210
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 969, 219
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: false
+  xy: 822, 192
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 395, 95
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 161, 16
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: true
+  xy: 900, 218
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 207, 2
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 637, 151
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+quiver back
+  rotate: false
+  xy: 395, 136
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 335, 35
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 395, 72
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 822, 215
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 473, 106
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 727, 182
+  size: 72, 93
+  orig: 72, 93
+  offset: 0, 0
+  index: -1
+side pouch
+  rotate: false
+  xy: 637, 164
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: false
+  xy: 245, 8
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 290, 8
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 2, 11
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

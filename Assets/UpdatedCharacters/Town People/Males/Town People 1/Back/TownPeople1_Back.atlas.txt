@@ -1,0 +1,62 @@
+
+TownPeople1_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 46
+  size: 188, 202
+  orig: 188, 202
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 307, 162
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 407, 217
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: false
+  xy: 363, 181
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 192, 71
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+ryt lwr arm copy
+  rotate: true
+  xy: 72, 13
+  size: 31, 69
+  orig: 31, 69
+  offset: 0, 0
+  index: -1
+ryt upr arm copy
+  rotate: true
+  xy: 2, 2
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 192, 126
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1

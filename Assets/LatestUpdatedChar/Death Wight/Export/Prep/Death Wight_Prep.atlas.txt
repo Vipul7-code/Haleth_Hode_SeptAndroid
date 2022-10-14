@@ -1,0 +1,83 @@
+
+Death Wight_Prep.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mace
+  rotate: true
+  xy: 272, 80
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+body pesrp
+  rotate: false
+  xy: 482, 127
+  size: 170, 123
+  orig: 170, 123
+  offset: 0, 0
+  index: -1
+floating shadow persp
+  rotate: false
+  xy: 272, 139
+  size: 208, 111
+  orig: 210, 113
+  offset: 1, 1
+  index: -1
+head hood persp
+  rotate: true
+  xy: 2, 48
+  size: 202, 268
+  orig: 202, 268
+  offset: 0, 0
+  index: -1
+lft eye persp
+  rotate: false
+  xy: 454, 125
+  size: 13, 12
+  orig: 15, 14
+  offset: 1, 1
+  index: -1
+lft lwr arm  persp copy
+  rotate: true
+  xy: 2, 2
+  size: 44, 91
+  orig: 45, 91
+  offset: 0, 0
+  index: -1
+lft upr arm  persp copy
+  rotate: false
+  xy: 819, 172
+  size: 53, 78
+  orig: 53, 78
+  offset: 0, 0
+  index: -1
+lwr arm ryt persp
+  rotate: false
+  xy: 773, 159
+  size: 44, 91
+  orig: 45, 91
+  offset: 1, 0
+  index: -1
+pelvis persp
+  rotate: false
+  xy: 654, 129
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+ryt eye persp
+  rotate: false
+  xy: 272, 63
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+upr arm ryt persp
+  rotate: false
+  xy: 874, 172
+  size: 52, 78
+  orig: 53, 78
+  offset: 1, 0
+  index: -1

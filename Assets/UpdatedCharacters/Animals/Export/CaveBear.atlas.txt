@@ -1,0 +1,76 @@
+
+CaveBear.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back first leg
+  rotate: true
+  xy: 848, 94
+  size: 150, 259
+  orig: 150, 259
+  offset: 0, 0
+  index: -1
+back second leg
+  rotate: false
+  xy: 1368, 16
+  size: 143, 228
+  orig: 143, 228
+  offset: 0, 0
+  index: -1
+cave bear bear hug armback
+  rotate: false
+  xy: 848, 9
+  size: 171, 83
+  orig: 171, 83
+  offset: 0, 0
+  index: -1
+cave bear bear hug armfrnt
+  rotate: true
+  xy: 1640, 50
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+dead normal bear
+  rotate: false
+  xy: 2, 2
+  size: 483, 242
+  orig: 483, 242
+  offset: 0, 0
+  index: -1
+frnt first leg
+  rotate: true
+  xy: 1109, 94
+  size: 150, 257
+  orig: 150, 257
+  offset: 0, 0
+  index: -1
+frnt second leg
+  rotate: false
+  xy: 1513, 16
+  size: 125, 228
+  orig: 125, 228
+  offset: 0, 0
+  index: -1
+lower jaw
+  rotate: true
+  xy: 1909, 68
+  size: 176, 108
+  orig: 176, 108
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 487, 19
+  size: 359, 225
+  orig: 359, 225
+  offset: 0, 0
+  index: -1
+upper jaw
+  rotate: true
+  xy: 1780, 60
+  size: 184, 127
+  orig: 184, 127
+  offset: 0, 0
+  index: -1

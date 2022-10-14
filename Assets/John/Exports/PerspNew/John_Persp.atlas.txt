@@ -1,0 +1,370 @@
+
+John_Persp.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chainmail Helmet
+  rotate: false
+  xy: 251, 4
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: true
+  xy: 1168, 170
+  size: 84, 153
+  orig: 84, 153
+  offset: 0, 0
+  index: -1
+Layer 84
+  rotate: false
+  xy: 1514, 124
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+Layer 85
+  rotate: false
+  xy: 1740, 103
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Layer 86
+  rotate: false
+  xy: 1846, 131
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+Leather Helmet
+  rotate: false
+  xy: 802, 108
+  size: 188, 146
+  orig: 188, 146
+  offset: 0, 0
+  index: -1
+Metal Helmet
+  rotate: false
+  xy: 443, 51
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: -1
+eyebrow lft  persp
+  rotate: true
+  xy: 1139, 74
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+eyebrow ryt  persp
+  rotate: true
+  xy: 225, 13
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+hairstyle  persp
+  rotate: false
+  xy: 992, 114
+  size: 174, 140
+  orig: 174, 140
+  offset: 0, 0
+  index: -1
+head skin  persp
+  rotate: false
+  xy: 635, 65
+  size: 165, 189
+  orig: 165, 189
+  offset: 0, 0
+  index: -1
+leather belt persp
+  rotate: false
+  xy: 885, 73
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+lft eye pupil  persp
+  rotate: true
+  xy: 443, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+tyt eye pupil  persp
+  rotate: true
+  xy: 443, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+lft eye socket  persp
+  rotate: true
+  xy: 385, 223
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+lft leg  persp
+  rotate: true
+  xy: 743, 13
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+lft lwr arm  persp
+  rotate: true
+  xy: 1778, 143
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+lft pelvis armor padeed persp
+  rotate: false
+  xy: 2010, 168
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+lft pelvis armr chainmail perp
+  rotate: false
+  xy: 964, 60
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+lft pelvis armr leather perp
+  rotate: true
+  xy: 1046, 80
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+lft shldr armr chainmail perp
+  rotate: false
+  xy: 1836, 185
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+lft shldr armr leather perp
+  rotate: true
+  xy: 1168, 113
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+lft shldr armr padded perp
+  rotate: false
+  xy: 1894, 186
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+lft upr arm  persp
+  rotate: true
+  xy: 1671, 105
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+lft wrist armr chainmail perp
+  rotate: false
+  xy: 1166, 74
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+lft wrist armr leather perp
+  rotate: true
+  xy: 2010, 216
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+lft wrist armr padded perp
+  rotate: false
+  xy: 1236, 73
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+metal belt persp
+  rotate: false
+  xy: 1592, 130
+  size: 77, 19
+  orig: 77, 19
+  offset: 0, 0
+  index: -1
+padded  belt persp
+  rotate: false
+  xy: 1435, 116
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+pelvis  persp
+  rotate: false
+  xy: 802, 67
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+ryt ear  persp
+  rotate: true
+  xy: 1094, 80
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+ryt eye socket  persp
+  rotate: true
+  xy: 1205, 71
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+ryt leg  persp
+  rotate: false
+  xy: 1778, 183
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+ryt lwr arm  persp
+  rotate: true
+  xy: 152, 8
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+ryt pelvis  armor padeed persp
+  rotate: false
+  xy: 1373, 115
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+ryt pelvis armr chainmail perp
+  rotate: false
+  xy: 810, 16
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+ryt pelvis armr leather perp
+  rotate: false
+  xy: 1306, 115
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+ryt shldr armor chainmail persp
+  rotate: false
+  xy: 1952, 187
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+ryt shldr armor leather persp
+  rotate: true
+  xy: 1237, 112
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+ryt shldr armor padded persp
+  rotate: true
+  xy: 674, 7
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+ryt upr arm  persp
+  rotate: true
+  xy: 602, 2
+  size: 47, 70
+  orig: 47, 70
+  offset: 0, 0
+  index: -1
+ryt wrist  armor
+  rotate: false
+  xy: 998, 73
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+ryt wrist  armor chainmail persp
+  rotate: false
+  xy: 1774, 101
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+ryt wrist  armor leather
+  rotate: false
+  xy: 1896, 144
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+single side axe
+  rotate: true
+  xy: 2, 10
+  size: 46, 148
+  orig: 46, 148
+  offset: 0, 0
+  index: -1
+small round shield persp
+  rotate: true
+  xy: 2, 58
+  size: 163, 247
+  orig: 163, 247
+  offset: 0, 0
+  index: -1
+spear
+  rotate: true
+  xy: 2, 223
+  size: 31, 381
+  orig: 31, 381
+  offset: 0, 0
+  index: -1
+torso armor padeed persp
+  rotate: false
+  xy: 1439, 151
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+torso armr chainmail perp
+  rotate: false
+  xy: 1552, 151
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+torso armr leather perp
+  rotate: false
+  xy: 1665, 151
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+torso persp
+  rotate: false
+  xy: 1323, 166
+  size: 114, 88
+  orig: 114, 88
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 443, 18
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

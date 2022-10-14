@@ -1,0 +1,118 @@
+
+HuntsvilleInnkeeper_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Llft eye socket front
+  rotate: false
+  xy: 451, 63
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+beer mug front
+  rotate: false
+  xy: 329, 2
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+head skin front front
+  rotate: false
+  xy: 2, 31
+  size: 171, 223
+  orig: 171, 223
+  offset: 0, 0
+  index: -1
+lft eyebrow front
+  rotate: true
+  xy: 391, 114
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+lft leg front
+  rotate: true
+  xy: 418, 99
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+lft lwr arm front
+  rotate: true
+  xy: 175, 12
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+lft pupil front
+  rotate: false
+  xy: 56, 12
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+lft upr arm front
+  rotate: false
+  xy: 329, 68
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+pelvis front
+  rotate: false
+  xy: 329, 168
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+ryt eye socket front
+  rotate: false
+  xy: 451, 27
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+ryt eyebrow front
+  rotate: false
+  xy: 2, 4
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+ryt leg front
+  rotate: false
+  xy: 394, 31
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+ryt lwr arm front
+  rotate: true
+  xy: 245, 12
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+ryt pupil front
+  rotate: false
+  xy: 394, 12
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ryt upr arm front
+  rotate: false
+  xy: 435, 156
+  size: 60, 98
+  orig: 60, 98
+  offset: 0, 0
+  index: -1
+torso front
+  rotate: false
+  xy: 175, 63
+  size: 152, 191
+  orig: 152, 191
+  offset: 0, 0
+  index: -1

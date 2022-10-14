@@ -1,0 +1,83 @@
+
+Zombie_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin zombie frnt
+  rotate: false
+  xy: 2, 41
+  size: 187, 204
+  orig: 187, 204
+  offset: 0, 0
+  index: -1
+lft arm lwr zombie frnt
+  rotate: false
+  xy: 403, 177
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+lft arm upr zombie frnt
+  rotate: false
+  xy: 247, 83
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+lft eye zombie frnt
+  rotate: true
+  xy: 471, 204
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+lft leg zombie frnt
+  rotate: false
+  xy: 191, 65
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+pelvis zombie frnt
+  rotate: false
+  xy: 2, 12
+  size: 98, 27
+  orig: 98, 27
+  offset: 0, 0
+  index: -1
+ryt arm lwr zombie frnt
+  rotate: false
+  xy: 437, 177
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+ryt arm upr zombie frnt
+  rotate: false
+  xy: 362, 176
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+ryt eye zombie frnt
+  rotate: false
+  xy: 102, 2
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+ryt leg zombie frnt
+  rotate: false
+  xy: 306, 158
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+torso zombie frnt
+  rotate: false
+  xy: 191, 154
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1

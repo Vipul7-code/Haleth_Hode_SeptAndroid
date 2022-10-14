@@ -1,0 +1,328 @@
+
+F_Scout_Back.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt  back
+  rotate: false
+  xy: 2, 7
+  size: 59, 19
+  orig: 59, 19
+  offset: 0, 0
+  index: -1
+chainmail helmet back
+  rotate: false
+  xy: 2, 28
+  size: 222, 226
+  orig: 222, 226
+  offset: 0, 0
+  index: -1
+chainmail torso armor copy 4
+  rotate: false
+  xy: 1536, 121
+  size: 107, 133
+  orig: 107, 133
+  offset: 0, 0
+  index: -1
+guard armr
+  rotate: true
+  xy: 1779, 156
+  size: 98, 126
+  orig: 98, 126
+  offset: 0, 0
+  index: -1
+hair  back
+  rotate: false
+  xy: 941, 73
+  size: 183, 181
+  orig: 183, 181
+  offset: 0, 0
+  index: -1
+head  back  guard armr
+  rotate: true
+  xy: 717, 58
+  size: 196, 222
+  orig: 196, 222
+  offset: 0, 0
+  index: -1
+head skin  back
+  rotate: true
+  xy: 1126, 94
+  size: 160, 189
+  orig: 160, 189
+  offset: 0, 0
+  index: -1
+leather torso back
+  rotate: false
+  xy: 1317, 120
+  size: 107, 134
+  orig: 107, 134
+  offset: 0, 0
+  index: -1
+lft chainmail shldr armor
+  rotate: false
+  xy: 1395, 35
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+lft chainmail wristwrist armor
+  rotate: true
+  xy: 1306, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+lft ear  back
+  rotate: true
+  xy: 1317, 42
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+lft hand armr  back
+  rotate: false
+  xy: 741, 23
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+lft leather armor
+  rotate: true
+  xy: 1380, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+lft leather shldr armor
+  rotate: true
+  xy: 1154, 27
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+lft leg  back
+  rotate: true
+  xy: 1024, 30
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+lft leg armr  back
+  rotate: true
+  xy: 1400, 72
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+lft leg back  guard armr
+  rotate: true
+  xy: 1317, 73
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+lft lwr arm  back
+  rotate: true
+  xy: 415, 4
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+lft lwr arm  back  guard armr
+  rotate: false
+  xy: 1084, 12
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+lft padded shldr armor
+  rotate: true
+  xy: 1192, 27
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+lft padded wrist armor
+  rotate: true
+  xy: 1416, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+lft upr arm  back
+  rotate: true
+  xy: 226, 13
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+lft upr arm  back  guard armr
+  rotate: true
+  xy: 593, 14
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+metal helmet back
+  rotate: true
+  xy: 469, 54
+  size: 200, 246
+  orig: 200, 246
+  offset: 0, 0
+  index: -1
+padded torso armor
+  rotate: false
+  xy: 1426, 121
+  size: 108, 133
+  orig: 108, 133
+  offset: 0, 0
+  index: -1
+pny tail  back
+  rotate: true
+  xy: 226, 47
+  size: 207, 241
+  orig: 207, 241
+  offset: 0, 0
+  index: -1
+quiver back
+  rotate: false
+  xy: 1645, 148
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+ryt chainmail shldr armor
+  rotate: false
+  xy: 707, 17
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+ryt chainmail wrist armor
+  rotate: true
+  xy: 1343, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+ryt ear  back
+  rotate: true
+  xy: 1356, 42
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+ryt hand armr  back
+  rotate: false
+  xy: 776, 23
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+ryt leather armor
+  rotate: true
+  xy: 811, 25
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+ryt leather shldr armor
+  rotate: true
+  xy: 1230, 27
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+ryt leg  back
+  rotate: true
+  xy: 474, 11
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+ryt leg armr back
+  rotate: false
+  xy: 63, 4
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+ryt leg back  guard armr
+  rotate: true
+  xy: 941, 26
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+ryt lwr arm  back
+  rotate: true
+  xy: 534, 11
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+ryt lwr arm back  guard armr
+  rotate: true
+  xy: 354, 13
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+ryt padded shldr armor
+  rotate: true
+  xy: 1268, 24
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+ryt upr arm  back
+  rotate: true
+  xy: 290, 13
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+ryt upr arm back  guard armr
+  rotate: true
+  xy: 650, 14
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+ryt wrist armor
+  rotate: false
+  xy: 1285, 58
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+shldr cloth  back
+  rotate: false
+  xy: 1645, 90
+  size: 125, 56
+  orig: 125, 56
+  offset: 0, 0
+  index: -1
+torso   back
+  rotate: true
+  xy: 1907, 158
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+waist wallet back  guard armr
+  rotate: false
+  xy: 1117, 25
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 1126, 61
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+Helena_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 2, 35
+  size: 215, 256
+  orig: 215, 256
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 319, 80
+  size: 37, 79
+  orig: 37, 79
+  offset: 0, 0
+  index: -1
+L_foot
+  rotate: false
+  xy: 463, 192
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+L_upperhand
+  rotate: true
+  xy: 463, 226
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 161, 6
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+Mace
+  rotate: false
+  xy: 260, 70
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 387, 171
+  size: 37, 79
+  orig: 37, 79
+  offset: 0, 0
+  index: -1
+R_foot
+  rotate: true
+  xy: 227, 4
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 358, 97
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+R_upperhand
+  rotate: true
+  xy: 260, 46
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 319, 161
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+braid1
+  rotate: false
+  xy: 426, 188
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+braid2
+  rotate: false
+  xy: 445, 188
+  size: 16, 62
+  orig: 16, 62
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 2, 2
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

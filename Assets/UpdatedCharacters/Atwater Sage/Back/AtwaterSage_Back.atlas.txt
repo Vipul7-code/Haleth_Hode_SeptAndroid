@@ -1,0 +1,62 @@
+
+AtwaterSage_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back head
+  rotate: false
+  xy: 2, 15
+  size: 182, 239
+  orig: 182, 239
+  offset: 0, 0
+  index: -1
+lft leg copy 2
+  rotate: false
+  xy: 378, 217
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+lwr arm lft
+  rotate: false
+  xy: 328, 177
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+lwr arm ryt
+  rotate: false
+  xy: 328, 98
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+ryt leg copy
+  rotate: false
+  xy: 378, 178
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 186, 82
+  size: 140, 172
+  orig: 140, 172
+  offset: 0, 0
+  index: -1
+upr arm lft
+  rotate: false
+  xy: 186, 2
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+upr arm ryt
+  rotate: false
+  xy: 238, 2
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1

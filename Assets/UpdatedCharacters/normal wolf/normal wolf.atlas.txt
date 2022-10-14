@@ -1,0 +1,97 @@
+
+normal wolf.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dead Wolf
+  rotate: false
+  xy: 2, 103
+  size: 393, 146
+  orig: 395, 148
+  offset: 1, 1
+  index: -1
+Ear1
+  rotate: false
+  xy: 797, 107
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+Ear2
+  rotate: false
+  xy: 969, 214
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: false
+  xy: 388, 19
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+Leg2
+  rotate: true
+  xy: 665, 72
+  size: 69, 130
+  orig: 69, 130
+  offset: 0, 0
+  index: -1
+Leg3
+  rotate: true
+  xy: 665, 143
+  size: 106, 160
+  orig: 106, 160
+  offset: 0, 0
+  index: -1
+Leg4
+  rotate: true
+  xy: 827, 107
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+Leg_1
+  rotate: true
+  xy: 154, 25
+  size: 76, 136
+  orig: 76, 136
+  offset: 0, 0
+  index: -1
+LowerJaw
+  rotate: false
+  xy: 292, 67
+  size: 94, 34
+  orig: 94, 34
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 2, 2
+  size: 99, 150
+  orig: 99, 150
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 397, 97
+  size: 266, 152
+  orig: 266, 152
+  offset: 0, 0
+  index: -1
+UpperJaw
+  rotate: false
+  xy: 827, 174
+  size: 140, 75
+  orig: 142, 77
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: true
+  xy: 797, 78
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1

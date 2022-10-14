@@ -1,0 +1,153 @@
+
+S_Scout_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Torso
+  rotate: false
+  xy: 348, 115
+  size: 121, 135
+  orig: 121, 135
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 471, 148
+  size: 102, 146
+  orig: 102, 146
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 177, 73
+  size: 169, 177
+  orig: 169, 177
+  offset: 0, 0
+  index: -1
+headskin
+  rotate: false
+  xy: 2, 73
+  size: 173, 177
+  orig: 173, 177
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 425, 84
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+lft eyeBall
+  rotate: false
+  xy: 471, 110
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: false
+  xy: 298, 51
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 835, 165
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: true
+  xy: 224, 33
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 348, 74
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+moustache
+  rotate: false
+  xy: 471, 133
+  size: 65, 13
+  orig: 65, 13
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 2, 2
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+neck cloth
+  rotate: false
+  xy: 2, 15
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+quiver back
+  rotate: false
+  xy: 619, 137
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 977, 221
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+ryt eyeBall
+  rotate: false
+  xy: 494, 110
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 977, 199
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 137, 27
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+side pouch
+  rotate: false
+  xy: 735, 149
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: false
+  xy: 929, 183
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 881, 182
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1

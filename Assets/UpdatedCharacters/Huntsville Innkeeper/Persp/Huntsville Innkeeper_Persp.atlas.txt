@@ -1,0 +1,118 @@
+
+Huntsville Innkeeper_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beer mug persp
+  rotate: true
+  xy: 343, 2
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+head skin persp
+  rotate: false
+  xy: 2, 23
+  size: 170, 228
+  orig: 170, 228
+  offset: 0, 0
+  index: -1
+lft eyebrow persp
+  rotate: true
+  xy: 2, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+lft eyesocket persp
+  rotate: true
+  xy: 475, 64
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+lft leg persp
+  rotate: true
+  xy: 409, 5
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+lft lwr arm persp
+  rotate: true
+  xy: 174, 12
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+lft pupil persp
+  rotate: false
+  xy: 327, 40
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+lft upr arm persp
+  rotate: false
+  xy: 343, 67
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+pelvis persp
+  rotate: false
+  xy: 343, 165
+  size: 106, 86
+  orig: 106, 86
+  offset: 0, 0
+  index: -1
+ryt eyebrow persp
+  rotate: true
+  xy: 475, 125
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+ryt eyesocket persp
+  rotate: false
+  xy: 475, 89
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+ryt leg persp
+  rotate: false
+  xy: 451, 179
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+ryt lwr arm persp
+  rotate: true
+  xy: 251, 2
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+ryt pupil persp
+  rotate: false
+  xy: 29, 4
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+ryt upr arm persp
+  rotate: false
+  xy: 412, 62
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+torso persp
+  rotate: false
+  xy: 174, 58
+  size: 167, 193
+  orig: 167, 193
+  offset: 0, 0
+  index: -1

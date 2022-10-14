@@ -1,0 +1,41 @@
+
+smoke moster.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blast
+  rotate: true
+  xy: 829, 267
+  size: 235, 183
+  orig: 235, 183
+  offset: 0, 0
+  index: -1
+lwr part 1
+  rotate: false
+  xy: 325, 288
+  size: 234, 214
+  orig: 234, 214
+  offset: 0, 0
+  index: -1
+lwr part 2
+  rotate: false
+  xy: 2, 2
+  size: 265, 197
+  orig: 265, 197
+  offset: 0, 0
+  index: -1
+lwr part 3
+  rotate: false
+  xy: 561, 328
+  size: 266, 174
+  orig: 266, 174
+  offset: 0, 0
+  index: -1
+upr part
+  rotate: false
+  xy: 2, 201
+  size: 321, 301
+  orig: 321, 301
+  offset: 0, 0
+  index: -1

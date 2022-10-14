@@ -1,0 +1,76 @@
+
+priest skeleton_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front shield
+  rotate: false
+  xy: 295, 142
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 69
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 366, 188
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+lowr lft arm copy
+  rotate: true
+  xy: 169, 2
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+lowr ryt arm
+  rotate: false
+  xy: 359, 55
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+mace skeleteon
+  rotate: false
+  xy: 2, 11
+  size: 165, 56
+  orig: 165, 56
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 366, 131
+  size: 55, 105
+  orig: 55, 105
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 176, 113
+  size: 117, 128
+  orig: 117, 128
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: true
+  xy: 176, 49
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 295, 49
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1

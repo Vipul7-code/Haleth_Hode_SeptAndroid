@@ -1,0 +1,132 @@
+
+brigand_persp.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hood part
+  rotate: false
+  xy: 171, 84
+  size: 164, 170
+  orig: 164, 170
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 337, 86
+  size: 128, 168
+  orig: 128, 168
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: true
+  xy: 568, 102
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: true
+  xy: 835, 177
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 657, 153
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 103, 11
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 766, 172
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 786, 213
+  size: 71, 41
+  orig: 71, 41
+  offset: 0, 0
+  index: -1
+persp hood
+  rotate: false
+  xy: 2, 79
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: true
+  xy: 139, 33
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 595, 124
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 595, 146
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+single head axe
+  rotate: false
+  xy: 657, 213
+  size: 127, 41
+  orig: 127, 41
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 467, 138
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: true
+  xy: 923, 217
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 859, 217
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+wooden round shield
+  rotate: true
+  xy: 2, 2
+  size: 75, 99
+  orig: 75, 99
+  offset: 0, 0
+  index: -1
+wooden round shield1
+  rotate: true
+  xy: 467, 69
+  size: 67, 99
+  orig: 67, 99
+  offset: 0, 0
+  index: -1

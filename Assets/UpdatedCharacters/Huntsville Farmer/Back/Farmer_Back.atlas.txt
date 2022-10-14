@@ -1,0 +1,62 @@
+
+Farmer_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 34
+  size: 182, 211
+  orig: 182, 211
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: true
+  xy: 186, 49
+  size: 44, 101
+  orig: 44, 101
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 341, 144
+  size: 44, 101
+  orig: 44, 101
+  offset: 0, 0
+  index: -1
+ryt leg copy
+  rotate: false
+  xy: 387, 164
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+ryt leg copy 4
+  rotate: false
+  xy: 440, 164
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 186, 95
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1
+upr lft arm copy
+  rotate: true
+  xy: 387, 117
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 186, 2
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1

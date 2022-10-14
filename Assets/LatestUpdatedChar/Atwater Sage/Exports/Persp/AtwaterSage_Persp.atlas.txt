@@ -1,0 +1,111 @@
+
+AtwaterSage_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin
+  rotate: true
+  xy: 2, 63
+  size: 183, 270
+  orig: 183, 270
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 403, 33
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: true
+  xy: 482, 155
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+lft foot
+  rotate: false
+  xy: 341, 33
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 169, 17
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+lft pupil copy
+  rotate: false
+  xy: 251, 41
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 251, 41
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: false
+  xy: 428, 86
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 428, 166
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 84, 15
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+ryt eye copy
+  rotate: true
+  xy: 443, 40
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+ryt foot
+  rotate: false
+  xy: 274, 28
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+ryteyebrow
+  rotate: true
+  xy: 482, 198
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 274, 75
+  size: 152, 171
+  orig: 152, 171
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 2, 2
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1

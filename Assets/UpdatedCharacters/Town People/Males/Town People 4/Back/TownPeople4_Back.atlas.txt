@@ -1,0 +1,69 @@
+
+TownPeople4_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 348, 228
+  size: 92, 19
+  orig: 92, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 53
+  size: 183, 194
+  orig: 183, 194
+  offset: 0, 0
+  index: -1
+lf leg
+  rotate: true
+  xy: 2, 2
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+lft arm upr
+  rotate: false
+  xy: 299, 175
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: true
+  xy: 348, 189
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+ryt arm upr copy 2
+  rotate: true
+  xy: 84, 4
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 187, 71
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+ryt upr arm copy
+  rotate: true
+  xy: 187, 32
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 187, 122
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1

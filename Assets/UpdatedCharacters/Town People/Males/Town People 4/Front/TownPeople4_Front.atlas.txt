@@ -1,0 +1,132 @@
+
+TownPeople4_Front.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bucket
+  rotate: false
+  xy: 2, 33
+  size: 189, 221
+  orig: 189, 221
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 370, 96
+  size: 99, 31
+  orig: 99, 31
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 193, 53
+  size: 175, 201
+  orig: 175, 201
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 695, 224
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: false
+  xy: 2, 14
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+lft leg copy
+  rotate: true
+  xy: 193, 2
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+lft lwr arm copy 2
+  rotate: true
+  xy: 482, 169
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: false
+  xy: 779, 236
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 779, 236
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+lft upr arm copy 2
+  rotate: true
+  xy: 370, 48
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 482, 136
+  size: 80, 31
+  orig: 80, 31
+  offset: 0, 0
+  index: -1
+ryt arm
+  rotate: true
+  xy: 482, 209
+  size: 45, 129
+  orig: 45, 129
+  offset: 0, 0
+  index: -1
+ryt eye copy
+  rotate: false
+  xy: 737, 224
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: true
+  xy: 442, 52
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 277, 2
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: true
+  xy: 613, 216
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: false
+  xy: 564, 137
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 370, 129
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1

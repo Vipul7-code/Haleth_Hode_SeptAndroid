@@ -1,0 +1,132 @@
+
+TownPeople1_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hair copy
+  rotate: false
+  xy: 208, 63
+  size: 141, 191
+  orig: 141, 191
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 2, 21
+  size: 204, 233
+  orig: 204, 233
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 351, 30
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+lft eye closed f1
+  rotate: true
+  xy: 395, 28
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: true
+  xy: 486, 186
+  size: 39, 10
+  orig: 39, 10
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 208, 30
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+lft pupil
+  rotate: true
+  xy: 208, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+lft shoe
+  rotate: false
+  xy: 486, 227
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: false
+  xy: 421, 80
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 453, 185
+  size: 31, 69
+  orig: 31, 69
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: false
+  xy: 351, 144
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: true
+  xy: 450, 76
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+ryt eye closed f1
+  rotate: true
+  xy: 453, 133
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: false
+  xy: 2, 9
+  size: 47, 10
+  orig: 47, 10
+  offset: 0, 0
+  index: -1
+ryt pupil
+  rotate: false
+  xy: 280, 5
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+ryt shoe
+  rotate: false
+  xy: 487, 102
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 351, 67
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+uppr lft arm
+  rotate: true
+  xy: 280, 34
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1

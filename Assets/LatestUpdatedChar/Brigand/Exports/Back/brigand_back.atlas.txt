@@ -1,0 +1,83 @@
+
+brigand_back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back axe brigand
+  rotate: false
+  xy: 164, 110
+  size: 124, 132
+  orig: 124, 132
+  offset: 0, 0
+  index: -1
+back shield brigand
+  rotate: true
+  xy: 164, 15
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 65
+  size: 160, 177
+  orig: 160, 177
+  offset: 0, 0
+  index: -1
+lft leg1
+  rotate: true
+  xy: 2, 15
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: false
+  xy: 474, 176
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: false
+  xy: 474, 108
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+pelvis1
+  rotate: true
+  xy: 262, 34
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+ryt leg2
+  rotate: false
+  xy: 424, 137
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+torso1
+  rotate: false
+  xy: 290, 126
+  size: 132, 116
+  orig: 132, 116
+  offset: 0, 0
+  index: -1
+upr lft  arm copy
+  rotate: false
+  xy: 109, 2
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 299, 63
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1

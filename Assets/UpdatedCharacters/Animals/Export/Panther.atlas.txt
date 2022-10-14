@@ -1,0 +1,69 @@
+
+Panther.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back frnt leg panther
+  rotate: true
+  xy: 172, 2
+  size: 93, 162
+  orig: 93, 162
+  offset: 0, 0
+  index: -1
+bck bck leg panther
+  rotate: true
+  xy: 822, 74
+  size: 85, 167
+  orig: 85, 167
+  offset: 0, 0
+  index: -1
+bk frnt leg panther
+  rotate: true
+  xy: 822, 161
+  size: 91, 168
+  orig: 91, 168
+  offset: 0, 0
+  index: -1
+dead panther (merged)
+  rotate: false
+  xy: 2, 97
+  size: 386, 155
+  orig: 386, 155
+  offset: 0, 0
+  index: -1
+frnt frnt leg panther
+  rotate: true
+  xy: 2, 3
+  size: 92, 168
+  orig: 92, 168
+  offset: 0, 0
+  index: -1
+lwr jaw panther
+  rotate: false
+  xy: 512, 67
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+tail panther
+  rotate: true
+  xy: 660, 136
+  size: 116, 160
+  orig: 116, 160
+  offset: 0, 0
+  index: -1
+torso panther
+  rotate: false
+  xy: 390, 120
+  size: 268, 132
+  orig: 268, 132
+  offset: 0, 0
+  index: -1
+upr jaw panther
+  rotate: false
+  xy: 390, 31
+  size: 120, 87
+  orig: 120, 87
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0721fa99f62a5cc42b8d1dea46cf1c9b, type: 3}
+  m_Name: MariumArmourLibrary
+  m_EditorClassIdentifier: 
+  DefenceEntityLibrary:
+  - {fileID: 11400000, guid: 205c4327a286e6e47976053d917e32f5, type: 2}
+  - {fileID: 11400000, guid: ed00617d779d9724db0e6e12e1419c95, type: 2}
+  - {fileID: 11400000, guid: d7a12a67ee144b4449e0c364ef2e5bdb, type: 2}
+  - {fileID: 11400000, guid: 0cff8c83ef031a348ad1385fe370c69d, type: 2}
+  - {fileID: 11400000, guid: 73660367d80ab7141a287a20cb6dc45b, type: 2}

@@ -1,0 +1,62 @@
+
+Emondsgirl_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body emond gl b
+  rotate: false
+  xy: 213, 134
+  size: 66, 117
+  orig: 66, 117
+  offset: 0, 0
+  index: -1
+head emond gl b
+  rotate: false
+  xy: 2, 56
+  size: 209, 195
+  orig: 209, 195
+  offset: 0, 0
+  index: -1
+lft foot emond gl b
+  rotate: false
+  xy: 213, 59
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+lwr lft arm emond gl b
+  rotate: false
+  xy: 2, 2
+  size: 18, 52
+  orig: 18, 52
+  offset: 0, 0
+  index: -1
+lwr ryt arm emond gl b
+  rotate: false
+  xy: 213, 80
+  size: 18, 52
+  orig: 18, 52
+  offset: 0, 0
+  index: -1
+ryt foot emond gl b
+  rotate: false
+  xy: 233, 113
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+upr lft arm emond gl b
+  rotate: false
+  xy: 281, 211
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+upr ryt arm emond gl b
+  rotate: false
+  xy: 22, 14
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1

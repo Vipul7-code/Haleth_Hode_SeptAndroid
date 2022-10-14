@@ -1,0 +1,97 @@
+
+emondsgl_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back hair emond gl f
+  rotate: false
+  xy: 213, 137
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+body emond gl f
+  rotate: true
+  xy: 2, 29
+  size: 66, 117
+  orig: 66, 117
+  offset: 0, 0
+  index: -1
+head skin emond gl f
+  rotate: false
+  xy: 2, 97
+  size: 209, 153
+  orig: 209, 153
+  offset: 0, 0
+  index: -1
+lft eye emond gl f
+  rotate: false
+  xy: 2, 2
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+lft eyebrw emond gl f
+  rotate: false
+  xy: 213, 106
+  size: 33, 9
+  orig: 33, 9
+  offset: 0, 0
+  index: -1
+lft foot emond gl f
+  rotate: false
+  xy: 121, 45
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+lwr lft arm emond gl f
+  rotate: true
+  xy: 213, 117
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+lwr ryt arm emond gl f
+  rotate: false
+  xy: 329, 200
+  size: 18, 50
+  orig: 18, 50
+  offset: 0, 0
+  index: -1
+ryt  eyebrw emond gl f
+  rotate: false
+  xy: 265, 126
+  size: 33, 9
+  orig: 33, 9
+  offset: 0, 0
+  index: -1
+ryt eye emond gl f
+  rotate: false
+  xy: 121, 70
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+ryt foot emond gl f
+  rotate: false
+  xy: 161, 72
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+upr lft arm emond gl f
+  rotate: false
+  xy: 349, 210
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+upr ryt arm emond gl f
+  rotate: true
+  xy: 42, 7
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1

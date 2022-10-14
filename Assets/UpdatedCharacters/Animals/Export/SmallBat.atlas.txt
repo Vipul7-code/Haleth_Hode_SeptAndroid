@@ -1,0 +1,104 @@
+
+SmallBat.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abdomen
+  rotate: true
+  xy: 1567, 108
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+BoneBL
+  rotate: true
+  xy: 1453, 205
+  size: 48, 190
+  orig: 48, 190
+  offset: 0, 0
+  index: -1
+Death Pose
+  rotate: false
+  xy: 2, 116
+  size: 403, 137
+  orig: 403, 137
+  offset: 0, 0
+  index: -1
+LBone
+  rotate: false
+  xy: 1144, 136
+  size: 171, 117
+  orig: 171, 117
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: true
+  xy: 895, 26
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+Left wing
+  rotate: false
+  xy: 407, 33
+  size: 260, 220
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+RBone
+  rotate: false
+  xy: 1317, 133
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: true
+  xy: 999, 34
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+RWing
+  rotate: false
+  xy: 669, 45
+  size: 224, 208
+  orig: 224, 208
+  offset: 0, 0
+  index: -1
+WingBL
+  rotate: true
+  xy: 895, 92
+  size: 161, 247
+  orig: 161, 247
+  offset: 0, 0
+  index: -1
+WingBR
+  rotate: true
+  xy: 2, 2
+  size: 112, 232
+  orig: 112, 232
+  offset: 0, 0
+  index: -1
+boneBR
+  rotate: true
+  xy: 236, 41
+  size: 73, 149
+  orig: 73, 149
+  offset: 0, 0
+  index: -1
+lower jaw
+  rotate: false
+  xy: 1144, 99
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+upper_jaw
+  rotate: false
+  xy: 1453, 106
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1

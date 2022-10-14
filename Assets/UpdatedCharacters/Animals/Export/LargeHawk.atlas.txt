@@ -1,0 +1,97 @@
+
+LargeHawk.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back down wings
+  rotate: false
+  xy: 536, 25
+  size: 174, 229
+  orig: 174, 229
+  offset: 0, 0
+  index: -1
+back leg
+  rotate: false
+  xy: 1408, 163
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+back leg thumb
+  rotate: false
+  xy: 1146, 117
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+back wings
+  rotate: true
+  xy: 295, 23
+  size: 231, 239
+  orig: 231, 239
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1146, 142
+  size: 160, 112
+  orig: 160, 112
+  offset: 0, 0
+  index: -1
+frnt down wings
+  rotate: true
+  xy: 712, 113
+  size: 141, 245
+  orig: 141, 245
+  offset: 0, 0
+  index: -1
+frnt leg
+  rotate: false
+  xy: 1308, 150
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+frnt leg thumb
+  rotate: false
+  xy: 2, 22
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+frnt wing
+  rotate: false
+  xy: 2, 56
+  size: 291, 198
+  orig: 291, 198
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 712, 49
+  size: 118, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+lwr beak
+  rotate: true
+  xy: 752, 2
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+tail wings
+  rotate: false
+  xy: 959, 114
+  size: 185, 140
+  orig: 185, 140
+  offset: 0, 0
+  index: -1
+upr beak
+  rotate: true
+  xy: 712, 2
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1

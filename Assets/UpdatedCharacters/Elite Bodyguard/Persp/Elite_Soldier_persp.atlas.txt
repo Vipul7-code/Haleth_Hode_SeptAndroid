@@ -1,0 +1,90 @@
+
+Elite_Soldier_persp.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 494, 154
+  size: 139, 79
+  orig: 139, 79
+  offset: 0, 0
+  index: -1
+Belt waist
+  rotate: false
+  xy: 762, 198
+  size: 103, 35
+  orig: 103, 35
+  offset: 0, 0
+  index: -1
+Helmet
+  rotate: false
+  xy: 2, 2
+  size: 189, 231
+  orig: 189, 231
+  offset: 0, 0
+  index: -1
+Left Leg
+  rotate: false
+  xy: 274, 18
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Right Leg
+  rotate: true
+  xy: 413, 91
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: true
+  xy: 332, 144
+  size: 89, 160
+  orig: 89, 160
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: false
+  xy: 635, 158
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+Troso
+  rotate: false
+  xy: 193, 76
+  size: 137, 157
+  orig: 137, 157
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 762, 157
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: true
+  xy: 193, 12
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+ryt lwr arm
+  rotate: true
+  xy: 867, 193
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+ryt upr arm
+  rotate: true
+  xy: 332, 80
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1

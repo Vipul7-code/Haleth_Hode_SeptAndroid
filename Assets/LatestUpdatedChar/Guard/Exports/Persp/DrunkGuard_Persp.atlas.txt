@@ -1,0 +1,153 @@
+
+DrunkGuard_Persp.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 598, 63
+  size: 87, 26
+  orig: 87, 26
+  offset: 0, 0
+  index: -1
+helmet and armor
+  rotate: false
+  xy: 2, 31
+  size: 435, 223
+  orig: 435, 223
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: true
+  xy: 872, 8
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+lft eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 439, 6
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+lft lwr arm
+  rotate: true
+  xy: 744, 31
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+lft upr arm
+  rotate: true
+  xy: 622, 13
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+lower ryt arm
+  rotate: false
+  xy: 698, 2
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 688, 74
+  size: 180, 200
+  orig: 180, 200
+  offset: 0, 0
+  index: -1
+mustache copy
+  rotate: false
+  xy: 744, 5
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+pelvis copy
+  rotate: false
+  xy: 822, 46
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+pupil copy 2
+  rotate: false
+  xy: 38, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+pupil copy 3
+  rotate: false
+  xy: 944, 34
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 822, 8
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+ryt eyebrow
+  rotate: true
+  xy: 992, 59
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 890, 55
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+small round shield persp
+  rotate: true
+  xy: 439, 91
+  size: 163, 247
+  orig: 163, 247
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 890, 106
+  size: 129, 148
+  orig: 129, 148
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 538, 7
+  size: 49, 82
+  orig: 49, 82
+  offset: 0, 0
+  index: -1
+waist wallet
+  rotate: false
+  xy: 907, 19
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 439, 58
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1

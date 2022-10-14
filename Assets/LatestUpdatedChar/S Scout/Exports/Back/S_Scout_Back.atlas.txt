@@ -1,0 +1,97 @@
+
+S_Scout_Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cape
+  rotate: true
+  xy: 631, 152
+  size: 102, 146
+  orig: 102, 146
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 67
+  size: 173, 187
+  orig: 173, 187
+  offset: 0, 0
+  index: -1
+head skin
+  rotate: false
+  xy: 177, 74
+  size: 173, 180
+  orig: 173, 180
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: true
+  xy: 177, 28
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+lwr lft arm
+  rotate: false
+  xy: 137, 2
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 268, 34
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+neck cloth
+  rotate: false
+  xy: 2, 9
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+quiver
+  rotate: false
+  xy: 352, 123
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: true
+  xy: 352, 77
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+side pouch
+  rotate: false
+  xy: 779, 153
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+torso
+  rotate: true
+  xy: 489, 137
+  size: 117, 140
+  orig: 117, 140
+  offset: 0, 0
+  index: -1
+upr lft arm
+  rotate: false
+  xy: 879, 178
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: false
+  xy: 928, 179
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1

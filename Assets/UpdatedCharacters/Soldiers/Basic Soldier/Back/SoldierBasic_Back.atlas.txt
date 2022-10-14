@@ -1,0 +1,104 @@
+
+SoldierBasic_Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mace
+  rotate: true
+  xy: 198, 16
+  size: 57, 180
+  orig: 57, 180
+  offset: 0, 0
+  index: -1
+Spear
+  rotate: true
+  xy: 2, 223
+  size: 31, 399
+  orig: 31, 399
+  offset: 0, 0
+  index: -1
+Warrior Sword
+  rotate: false
+  xy: 403, 223
+  size: 157, 31
+  orig: 157, 31
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 2, 2
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 19
+  size: 194, 202
+  orig: 194, 202
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 198, 75
+  size: 196, 146
+  orig: 196, 146
+  offset: 0, 0
+  index: -1
+lft leg
+  rotate: false
+  xy: 506, 138
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+lwr lft arm copy
+  rotate: true
+  xy: 787, 218
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+lwr ryt arm
+  rotate: true
+  xy: 851, 218
+  size: 36, 61
+  orig: 36, 62
+  offset: 0, 1
+  index: -1
+ryt leg
+  rotate: true
+  xy: 562, 213
+  size: 41, 83
+  orig: 41, 83
+  offset: 0, 0
+  index: -1
+side pouch
+  rotate: false
+  xy: 506, 107
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 396, 91
+  size: 108, 130
+  orig: 108, 130
+  offset: 0, 0
+  index: -1
+upr lftt arm copy
+  rotate: true
+  xy: 647, 209
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+upr ryt arm
+  rotate: true
+  xy: 717, 209
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1

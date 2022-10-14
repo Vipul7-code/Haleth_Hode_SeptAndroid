@@ -1,0 +1,55 @@
+
+monk_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head2
+  rotate: false
+  xy: 2, 64
+  size: 176, 185
+  orig: 176, 185
+  offset: 0, 0
+  index: -1
+lft arm
+  rotate: false
+  xy: 313, 125
+  size: 60, 124
+  orig: 60, 124
+  offset: 0, 0
+  index: -1
+lft foot copy
+  rotate: false
+  xy: 313, 83
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+ryt foot1
+  rotate: false
+  xy: 313, 83
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+ryt arm copy 2
+  rotate: false
+  xy: 375, 125
+  size: 60, 124
+  orig: 60, 124
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: false
+  xy: 2, 2
+  size: 152, 60
+  orig: 152, 60
+  offset: 0, 0
+  index: -1
+torso2
+  rotate: false
+  xy: 180, 71
+  size: 131, 178
+  orig: 131, 178
+  offset: 0, 0
+  index: -1

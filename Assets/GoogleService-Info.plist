@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>737322276501-u662gpeevvdjjhd295plnuligfug6540.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.737322276501-u662gpeevvdjjhd295plnuligfug6540</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1HnxfbVM1NWFB2rR47gJZNwPI7Jz-fLA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>737322276501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.meros.halethhode</string>
+	<key>PROJECT_ID</key>
+	<string>haleth-hode</string>
+	<key>STORAGE_BUCKET</key>
+	<string>haleth-hode.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:737322276501:ios:fd70178e54e2b237</string>
+	<key>DATABASE_URL</key>
+	<string>https://haleth-hode.firebaseio.com</string>
+</dict>
+</plist>

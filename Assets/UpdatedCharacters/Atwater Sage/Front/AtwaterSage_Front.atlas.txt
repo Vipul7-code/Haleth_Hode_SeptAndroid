@@ -1,0 +1,111 @@
+
+AtwaterSage_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+headskin
+  rotate: true
+  xy: 2, 70
+  size: 184, 270
+  orig: 184, 270
+  offset: 0, 0
+  index: -1
+lft arm lower copy
+  rotate: false
+  xy: 416, 88
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+lft arm upr copy
+  rotate: true
+  xy: 2, 9
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+lft eye copy
+  rotate: false
+  xy: 402, 37
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 90, 2
+  size: 87, 23
+  orig: 87, 23
+  offset: 0, 0
+  index: -1
+lft foot copy
+  rotate: false
+  xy: 274, 37
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+lft pupil copy 2
+  rotate: false
+  xy: 477, 181
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ryt pupil copy 3
+  rotate: false
+  xy: 477, 181
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+mustache
+  rotate: false
+  xy: 90, 27
+  size: 97, 41
+  orig: 97, 41
+  offset: 0, 0
+  index: -1
+ryt arm lower
+  rotate: true
+  xy: 189, 16
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+ryt arm upr
+  rotate: false
+  xy: 416, 168
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: true
+  xy: 449, 41
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: true
+  xy: 477, 203
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+ryt foot copy 2
+  rotate: false
+  xy: 338, 37
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 274, 82
+  size: 140, 172
+  orig: 140, 172
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+HuntsvilleInnkeeper_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back face
+  rotate: false
+  xy: 2, 31
+  size: 171, 223
+  orig: 171, 223
+  offset: 0, 0
+  index: -1
+back lft leg copy 2
+  rotate: false
+  xy: 329, 103
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+back pelvis
+  rotate: false
+  xy: 329, 168
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+back ryt leg copy
+  rotate: true
+  xy: 386, 105
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+back torso
+  rotate: false
+  xy: 175, 64
+  size: 152, 190
+  orig: 152, 190
+  offset: 0, 0
+  index: -1
+lwr left back arm
+  rotate: true
+  xy: 435, 209
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+lwr ryt back arm copy
+  rotate: true
+  xy: 435, 162
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+upr left back arm
+  rotate: true
+  xy: 175, 2
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1
+upr ryt back arm copy
+  rotate: true
+  xy: 280, 2
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1

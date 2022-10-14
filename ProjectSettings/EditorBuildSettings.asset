@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/World Map.unity
+    guid: a24edac90ce714b41bf5e03bdff0e32e
+  - enabled: 1
+    path: Assets/Scenes/AtwaterChurch.unity
+    guid: a08e672a6a3fa8c4daa00a1e72595f71
+  - enabled: 1
+    path: Assets/Scenes/Wagon Carvan.unity
+    guid: 621cf455a3243984c94a972c515d0ea8
+  - enabled: 1
+    path: Assets/Scenes/Second Soldier Campsite.unity
+    guid: 52c49a2e6450bb844806acc95fff7499
+  - enabled: 1
+    path: Assets/Scenes/Atwater Village.unity
+    guid: f38e023fd2ab12d45a8fa235465e1549
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: 9a707b2cd808cc946834362930f23248
+  - enabled: 1
+    path: Assets/Scenes/Death Wight Village.unity
+    guid: e23a96a0567d2aa4c9a38dea4a2a2d8e
+  - enabled: 1
+    path: Assets/Scenes/Barghest Trail to Dungeon.unity
+    guid: a3b5450e3bdeedb4f91c785e1d07ac66
+  - enabled: 1
+    path: Assets/Scenes/Brigand Trail to Dungeon.unity
+    guid: a959e873eb67694409ac31b0d29b270b
+  - enabled: 1
+    path: Assets/Scenes/Huntington Caved-In Tunnel Entrance Interior.unity
+    guid: 2ef39b0f1c7a9c54d9458096568d3b20
+  - enabled: 1
+    path: Assets/Scenes/AtwaterMerchantShop.unity
+    guid: 1975d047f6e71ff46b4f6f9d11dd6ae2
+  - enabled: 1
+    path: Assets/Scenes/Battle Scene_Death Wight Lair.unity
+    guid: 374cec19af13132439f0ea92672c34f1
+  - enabled: 1
+    path: Assets/Scenes/Battle Scene_Brigand Lair.unity
+    guid: 635a23087d73db04c8d6188c122bf7b0
+  - enabled: 1
+    path: Assets/Scenes/Battle Scene_Barghest  Lair.unity
+    guid: 0dfb4cf9857c584489b60f0fd416b409
+  - enabled: 1
+    path: Assets/Scenes/BattleScene_Cave.unity
+    guid: 8e77ec1fa3699b447b9c0d2ef0c20b5b
+  - enabled: 1
+    path: Assets/Scenes/DeathWight Trail to Dungeon.unity
+    guid: ffb02d6f814b25242bc5a4ca94e3ecb0
+  - enabled: 1
+    path: Assets/Scenes/Huntsville_Inn.unity
+    guid: a9e99598d0c952941a89d3cf272d8d43
+  - enabled: 1
+    path: Assets/Scenes/Brigand Village.unity
+    guid: cc150ecf95560414f9b8e9fb9370c909
+  - enabled: 1
+    path: Assets/Scenes/Barghest Lair-Dungeon.unity
+    guid: b2dc6a0d3cbd1ee428d939a4a94054f6
+  - enabled: 1
+    path: Assets/Scenes/Huntsville Chruch_int.unity
+    guid: 47ee0e13416543a4dbef630208b99181
+  - enabled: 1
+    path: Assets/Scenes/Brigand Lair.unity
+    guid: f08fab5213fce0e43b2f696300675098
+  - enabled: 1
+    path: Assets/Scenes/Monastery_ext.unity
+    guid: e38601fb7ef0b84448a5fa871926ba52
+  - enabled: 1
+    path: Assets/Scenes/Caravan.unity
+    guid: 56550b54d3d2f824fb27acbe916ab3fc
+  - enabled: 1
+    path: Assets/Scenes/Petrols.unity
+    guid: 47ae1623fd48f65439f91beec8d2646f
+  - enabled: 1
+    path: Assets/Scenes/Battle Scene_Castle.unity
+    guid: 696fc81dc61d6254c9bd09e88e4b09ee
+  - enabled: 1
+    path: Assets/Scenes/Monk Campsite.unity
+    guid: f19159da191882c4cb252e1de43355ac
+  - enabled: 1
+    path: Assets/Scenes/Berghest_MerchantShop_Potions.unity
+    guid: d4acb39ba3bc3a94b8ac3f794fc7fec5
+  - enabled: 1
+    path: Assets/Scenes/Death WIght Lair.unity
+    guid: acc0ec4f2d4e3ef4cbfe91ec045ab38d
+  - enabled: 1
+    path: Assets/Scenes/Motte and Baley Castle.unity
+    guid: 160cec15c1f370e468efa9a28bc8a5f0
+  - enabled: 1
+    path: Assets/Scenes/Huntsville_Damaged.unity
+    guid: 128ce7edfae9ad8458326cedbf8bc274
+  - enabled: 1
+    path: Assets/Scenes/Monastery1stFloor_int.unity
+    guid: e12a57a03d00db54996cb79a94b0aca6
+  - enabled: 1
+    path: Assets/Scenes/Armour_Huntington.unity
+    guid: 5fab037a6f363bc4b8fa30548117b14f
+  - enabled: 1
+    path: Assets/Scenes/Battle Scene_CobbleStone.unity
+    guid: 0429adb0d273e614cb0d585f85b635b0
+  - enabled: 1
+    path: Assets/Scenes/Sacred Place Exterior_New.unity
+    guid: 91e720ea6e854ee42b46bef1ba14c8e9
+  - enabled: 1
+    path: Assets/Scenes/Farm House Interior.unity
+    guid: 6b5bd5813a24f774e862ac59315d7ca7
+  - enabled: 1
+    path: Assets/Scenes/Huntington Castle Interior.unity
+    guid: c878b090644c66045a67b7266a5ed058
+  - enabled: 1
+    path: Assets/Scenes/Blacksmith Shop_int_Huntsville.unity
+    guid: 83f6d16674afb8f45870547de2f52258
+  - enabled: 1
+    path: Assets/Scenes/Huntigton Castle Throne Room.unity
+    guid: f259eb0ec786e4647b8b4d02754b8440
+  - enabled: 1
+    path: Assets/Scenes/Monastery2ndFloor_int.unity
+    guid: 4d84d9f6d3f33e54b9d3b4f0ec83930f
+  - enabled: 1
+    path: Assets/Scenes/Sacred Place Interior.unity
+    guid: f0cc581ed3a6b9f4fb99858e2c4bd2ce
+  - enabled: 1
+    path: Assets/Scenes/Barghest Village.unity
+    guid: a854ba1d773f6b54d8d3d53b6f2733fe
+  - enabled: 1
+    path: Assets/Scenes/Huntsville.unity
+    guid: 3f653e8813d4bba4299c5db280795251
+  - enabled: 1
+    path: Assets/Scenes/Huntsville_Mayor_Int.unity
+    guid: 28482704ca7bae04582e92620983e436
+  - enabled: 1
+    path: Assets/Scenes/Huntington_Inn_second.unity
+    guid: 59e1181b5fe6272428ec0f8f801f7641
+  - enabled: 1
+    path: Assets/Scenes/Huntsville_Well_Dungeon.unity
+    guid: 59f118e7e30300a42babf87855dc23b0
+  - enabled: 1
+    path: Assets/Scenes/Soldier Campsite.unity
+    guid: f7c5ea953d84be9458d514dbe36a630a
+  - enabled: 1
+    path: Assets/Scenes/Huntington_Inn_1stFloor.unity
+    guid: 24a87adaec0aeb443bd9ed916e90a544
+  - enabled: 1
+    path: Assets/Scenes/Huntington Town_Alley Scenes.unity
+    guid: e7f398e278ad7f94f911c52c0870b8dc
+  - enabled: 1
+    path: Assets/Scenes/Huntington Chruch_int.unity
+    guid: ea1733e7ffb09454881842d2ee910778
+  - enabled: 1
+    path: Assets/Scenes/Huntsville_MerchantShop_Int.unity
+    guid: 81d950d70db3f6e428dca8fb06b12efe
+  - enabled: 1
+    path: Assets/Scenes/Huntington Castle Escape Tunnel.unity
+    guid: ef27c18010de0b648afeea2d5dc8dc14
+  - enabled: 1
+    path: Assets/Scenes/MerchantShop_Int_Huntington.unity
+    guid: 54b2802fbe2c51245a0639eee1649ff0
+  - enabled: 1
+    path: Assets/Scenes/Huntsville_Intro Scene.unity
+    guid: 713fd96051f17794c953240d1c4276fd
+  - enabled: 1
+    path: Assets/Scenes/Huntsville_Inn_1stFloor.unity
+    guid: 7bdbea33cf5ea2e4589ce45eef1a8c79
+  - enabled: 1
+    path: Assets/Scenes/Motte and Baley Battle Scene.unity
+    guid: b038e6c86cb0bee48ab093e06afc9cbc
+  m_configObjects: {}

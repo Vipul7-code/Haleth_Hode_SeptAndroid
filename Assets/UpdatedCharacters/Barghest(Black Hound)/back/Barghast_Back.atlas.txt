@@ -1,0 +1,34 @@
+
+Barghast_Back.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back legs back
+  rotate: true
+  xy: 348, 116
+  size: 135, 227
+  orig: 135, 227
+  offset: 0, 0
+  index: -1
+front legs back
+  rotate: false
+  xy: 2, 2
+  size: 165, 249
+  orig: 165, 249
+  offset: 0, 0
+  index: -1
+head back
+  rotate: false
+  xy: 169, 44
+  size: 177, 207
+  orig: 177, 207
+  offset: 0, 0
+  index: -1
+tail back
+  rotate: true
+  xy: 577, 126
+  size: 125, 191
+  orig: 125, 191
+  offset: 0, 0
+  index: -1

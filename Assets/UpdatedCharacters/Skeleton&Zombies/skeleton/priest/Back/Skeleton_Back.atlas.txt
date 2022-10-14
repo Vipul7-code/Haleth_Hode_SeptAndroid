@@ -1,0 +1,83 @@
+
+Skeleton_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head sleleton back
+  rotate: false
+  xy: 2, 60
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+lft leg sleleton back
+  rotate: true
+  xy: 369, 123
+  size: 53, 107
+  orig: 53, 107
+  offset: 0, 0
+  index: -1
+lwr lft arm sleleton back
+  rotate: false
+  xy: 444, 45
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+lwr ryt arm sleleton back
+  rotate: true
+  xy: 174, 32
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+mace skeleteon
+  rotate: false
+  xy: 2, 2
+  size: 165, 56
+  orig: 165, 56
+  offset: 0, 0
+  index: -1
+ryt leg sleleton back
+  rotate: true
+  xy: 369, 178
+  size: 52, 109
+  orig: 52, 109
+  offset: 0, 0
+  index: -1
+torso sleleton back
+  rotate: false
+  xy: 174, 79
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+upr lft arm sleleton back
+  rotate: false
+  xy: 292, 43
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+upr ryt arm sleleton back
+  rotate: true
+  xy: 356, 59
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+wooden round shield
+  rotate: false
+  xy: 292, 131
+  size: 75, 99
+  orig: 75, 99
+  offset: 0, 0
+  index: -1
+wooden round shield strap
+  rotate: true
+  xy: 480, 185
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1

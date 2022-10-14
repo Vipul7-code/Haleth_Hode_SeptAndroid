@@ -1,0 +1,90 @@
+
+farmer_Front.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head skin
+  rotate: false
+  xy: 2, 18
+  size: 182, 230
+  orig: 182, 230
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 469, 127
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: false
+  xy: 291, 68
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+lwr lft arm copy 2
+  rotate: true
+  xy: 186, 49
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1
+lwr ryt arm copy
+  rotate: false
+  xy: 341, 145
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 265, 11
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 341, 115
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+ryt leg
+  rotate: false
+  xy: 390, 165
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+ryt leg copy
+  rotate: false
+  xy: 446, 165
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 186, 98
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1
+upr lft arm copy 2
+  rotate: true
+  xy: 186, 2
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+upr ryt arm copy
+  rotate: true
+  xy: 390, 118
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+monk_Persp.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 2, 58
+  size: 158, 183
+  orig: 158, 183
+  offset: 0, 0
+  index: -1
+lft arm copy 2
+  rotate: false
+  xy: 292, 121
+  size: 63, 120
+  orig: 63, 120
+  offset: 0, 0
+  index: -1
+lft eye
+  rotate: false
+  xy: 412, 118
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+lft eyebrw
+  rotate: true
+  xy: 144, 18
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+lft foot
+  rotate: true
+  xy: 412, 155
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+lft pupil copy
+  rotate: false
+  xy: 292, 62
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+lft pupil copy 2
+  rotate: false
+  xy: 292, 62
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ryt arm
+  rotate: false
+  xy: 357, 126
+  size: 53, 115
+  orig: 53, 115
+  offset: 0, 0
+  index: -1
+ryt eye
+  rotate: false
+  xy: 412, 204
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+ryt eyebrw
+  rotate: false
+  xy: 459, 212
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+ryt foot
+  rotate: false
+  xy: 292, 85
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: false
+  xy: 2, 2
+  size: 140, 54
+  orig: 140, 54
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 162, 69
+  size: 128, 172
+  orig: 128, 172
+  offset: 0, 0
+  index: -1

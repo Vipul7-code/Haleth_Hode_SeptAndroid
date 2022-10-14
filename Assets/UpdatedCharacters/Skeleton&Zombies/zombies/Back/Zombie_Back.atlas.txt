@@ -1,0 +1,69 @@
+
+Zombie_Back.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head zombie back
+  rotate: false
+  xy: 2, 40
+  size: 188, 202
+  orig: 188, 202
+  offset: 0, 0
+  index: -1
+hips zombie back
+  rotate: false
+  xy: 2, 2
+  size: 95, 36
+  orig: 95, 36
+  offset: 0, 0
+  index: -1
+lft arm upr zombie back
+  rotate: false
+  xy: 247, 69
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+lft leg zombie back
+  rotate: false
+  xy: 307, 156
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+lft lwr arm zombie back
+  rotate: false
+  xy: 404, 174
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+ryt arm upr zombie back
+  rotate: false
+  xy: 363, 173
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+ryt leg zombie back
+  rotate: false
+  xy: 192, 49
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+ryt lwr arm zombie back
+  rotate: true
+  xy: 99, 7
+  size: 31, 69
+  orig: 31, 69
+  offset: 0, 0
+  index: -1
+torso2  zombie back
+  rotate: false
+  xy: 192, 140
+  size: 113, 102
+  orig: 113, 102
+  offset: 0, 0
+  index: -1

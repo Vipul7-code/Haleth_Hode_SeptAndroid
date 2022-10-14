@@ -1,0 +1,90 @@
+
+DireWolf.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dead DireWolf
+  rotate: false
+  xy: 2, 43
+  size: 488, 210
+  orig: 490, 212
+  offset: 1, 1
+  index: -1
+Ear1 Direwolf
+  rotate: true
+  xy: 798, 82
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+Ear2 Direwolf
+  rotate: false
+  xy: 2, 2
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Leg2 Direwolf
+  rotate: true
+  xy: 1575, 180
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+Leg3 Direwolf
+  rotate: true
+  xy: 1090, 141
+  size: 112, 175
+  orig: 112, 175
+  offset: 0, 0
+  index: -1
+Leg4 Direwolf
+  rotate: true
+  xy: 1720, 184
+  size: 69, 137
+  orig: 69, 137
+  offset: 0, 0
+  index: -1
+Leg_1 Direwolf
+  rotate: true
+  xy: 1434, 172
+  size: 81, 139
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+Tail Direwolf
+  rotate: true
+  xy: 1267, 151
+  size: 102, 165
+  orig: 105, 165
+  offset: 3, 0
+  index: -1
+Torso Direwolf
+  rotate: false
+  xy: 798, 101
+  size: 290, 152
+  orig: 290, 152
+  offset: 0, 0
+  index: -1
+UpperJaw Direwolf
+  rotate: false
+  xy: 492, 79
+  size: 304, 174
+  orig: 304, 174
+  offset: 0, 0
+  index: -1
+eyes Direwolf
+  rotate: false
+  xy: 492, 57
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+lowerjaw Direwolf
+  rotate: false
+  xy: 1859, 201
+  size: 117, 52
+  orig: 117, 52
+  offset: 0, 0
+  index: -1
