@@ -1267,7 +1267,7 @@ public class UIManager : MonoBehaviour
                 Globals.avatarState.Level = 12;  //11 1 15 5
                 db.UpdateRecord<SelectedAvatar>(avatarState);
                 Globals.currentObjective = "TheDeathWeight";  // Monastery Sacred Place  Soldier Campsite Atwater Village   Motte and Bailey Castle  Brigand Village  // Huntington  //BarghestVillage TheDeathWeight
-                activeScene = CurrentScene.TheDeathWeightDengeon;
+                activeScene = CurrentScene.TheDeathWeight;
                 Globals.afterPromotion = true;
                 Globals.isLightening = true;
                 Globals.noOfCompanions = 1; //1
