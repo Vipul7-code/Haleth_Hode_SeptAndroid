@@ -164,7 +164,7 @@ public class ArmourForMarium : MonoBehaviour
             }
             else if(Globals.inventoryMarium.WeaponAttack == "Spear")
             {
-                //ShowUpgrade(B_weapon, spear1, "spear");
+                ShowUpgrade(B_weapon, spear1, "spear");
                 ShowUpgrade(R_weapon, spear2, "spear");
             }
             else if (Globals.inventoryMarium.WeaponAttack == "shortBow" || Globals.inventoryMarium.WeaponAttack == "longBow")

@@ -5419,7 +5419,6 @@ MonoBehaviour:
   stairsSound: {fileID: 0}
   bgSound: {fileID: 0}
   giantSound: {fileID: 0}
-  quitBtn: {fileID: 0}
 --- !u!1 &497551206
 GameObject:
   m_ObjectHideFlags: 0
@@ -9843,7 +9842,7 @@ PrefabInstance:
       objectReference: {fileID: 120481407}
     - target: {fileID: 1525620080, guid: 88cc66b561be41b4ca91701fe2a6c1f3, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 520294962734009031, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
@@ -9863,7 +9862,7 @@ PrefabInstance:
     - target: {fileID: 520294962861142391, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 4
+      value: 3.9999695
       objectReference: {fileID: 0}
     - target: {fileID: 520294963014729913, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
@@ -9988,7 +9987,7 @@ PrefabInstance:
     - target: {fileID: 520294964307267941, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -11.400024
+      value: -11.40004
       objectReference: {fileID: 0}
     - target: {fileID: 520294964353701884, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
@@ -9998,7 +9997,7 @@ PrefabInstance:
     - target: {fileID: 520294964547564180, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -11.399887
+      value: -11.399902
       objectReference: {fileID: 0}
     - target: {fileID: 520294964568184857, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
@@ -10153,7 +10152,7 @@ PrefabInstance:
     - target: {fileID: 1577108599762124379, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1577108600027271334, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
@@ -22841,7 +22840,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1736788779}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.46, y: -5.96, z: 0}
+  m_LocalPosition: {x: -6.46, y: -5.52, z: 0}
   m_LocalScale: {x: 23.119255, y: 1.5918013, z: 0.92764}
   m_Children: []
   m_Father: {fileID: 2007483637}
@@ -30644,6 +30643,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0.6000061
+      objectReference: {fileID: 0}
+    - target: {fileID: 6192420120340035864, guid: 87dd96ea6b5f65a45a1f0d8c66bad943,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -4.100052
       objectReference: {fileID: 0}
     - target: {fileID: 6192420120340035864, guid: 87dd96ea6b5f65a45a1f0d8c66bad943,
         type: 3}
