@@ -139,7 +139,16 @@ public class ArmourForJohn : MonoBehaviour
             else
             {
                 if (this.name == "perR" || this.name == "perL")
-                    ShowUpgrade(shield, smallShield, "small round shield persp");
+                    //ShowUpgrade(shield, smallShield, "small round shield persp");
+
+                    foreach (Slot item in slots)
+                    {
+                        if (item.ToString().Contains("Shield"))
+                        {
+                            item.Attachment = null;
+                            item.A = 0f;
+                        }
+                    }
             }
             if (Globals.inventoryJohn.WeaponAttack == "Dragger" || Globals.inventoryJohn.WeaponAttack == "ShortSword" || Globals.inventoryJohn.WeaponAttack == "longSword")
             {
@@ -188,7 +197,7 @@ public class ArmourForJohn : MonoBehaviour
                     SetSkin("Chainmail Armor");
             }
             else
-                SetSkin("Padded Armor");
+                SetSkin("Normal");
         }
     }
     public void ShowUpgrade(string slot, string attachment, string skinName)

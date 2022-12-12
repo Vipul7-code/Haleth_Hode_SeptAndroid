@@ -114,7 +114,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   skeletonDataAsset: {fileID: 11400000, guid: 4b3bbdd5fd3162847aebe1c0e24977ff, type: 2}
-  initialSkinName: 
+  initialSkinName: Normal
   initialFlipX: 0
   initialFlipY: 0
   separatorSlotNames: []
@@ -1616,6 +1616,8 @@ MonoBehaviour:
   bandageProperty: 0
   alchemy: 0
   swordSlash: 0
+  lighteningBoltDeathWight: 0
+  darkMagicReanimated: 0
   arrow: {fileID: 0}
   parent: {fileID: 0}
 --- !u!114 &2043857346275847070

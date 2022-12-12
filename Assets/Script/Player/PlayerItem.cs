@@ -57,7 +57,6 @@ public class PlayerItem : MonoBehaviour
                     playerInfo.armour = 3;
                 else if (Globals.inventoryProtagnist.BrigadineArmor == 1)
                 {
-                    Debug.Log("brigadine armor.........");
                     playerInfo.armour = 4;
                 }
 
@@ -392,7 +391,7 @@ public class PlayerItem : MonoBehaviour
         {
             Debug.Log("enemy armour defence........" + enemy.armorDefence);
             health += enemy.armorDefence;
-            if (totalHealth > health)
+            if (totalHealth >= health)//totalHealth > health
             {
                 totalHealth -= (int)totalWeaponDamage;
                 result = (totalHealth - health) / totalHealth;
@@ -460,17 +459,19 @@ public class PlayerItem : MonoBehaviour
         else if (player.name == "DeathWeight(Clone)3" && Globals.aiSpeacialEffect && Globals.isBarghest)
         {
             Debug.Log("inside death weight :: " + enemy.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount);
-            //if (enemy.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount <= 0.2)
-            //{
-            //    enemy.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount = 0f;
-            //}
-            //else
-            //    enemy.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount = 0.2f;
-            Debug.Log("inside death weight :: " + enemy.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount);
-            player.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount += player.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount * 20 / 100;
+            if (enemy.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount <= 0.2)
+            {
+                enemy.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount = 0f;
+            }
+            else
+                enemy.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount = 0.2f;
+
+            player.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount += player.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount * 35 / 100;//20
             player.GetComponent<EntityGroup>().specialAttack = 1;
+
+
             Globals.aiSpeacialEffect = false;
-            player.health += player.health * 20 / 100;
+            player.health += player.health * 35 / 100;//20
             Debug.Log("inside death weight after :: " + player.health);
             Globals.healthDrainAttack = true;
         }

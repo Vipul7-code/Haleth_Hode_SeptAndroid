@@ -164,8 +164,17 @@ public class ArmourForMarium : MonoBehaviour
             }
             else if(Globals.inventoryMarium.WeaponAttack == "Spear")
             {
-                ShowUpgrade(B_weapon, spear1, "spear");
+                //ShowUpgrade(B_weapon, spear1, "spear");
                 ShowUpgrade(R_weapon, spear2, "spear");
+                Debug.Log("spear----------------------------");
+                foreach (Slot item in slots)
+                {
+                    if (item.ToString().Contains("R_weapon"))
+                    {
+                        item.Attachment = null;
+                        item.A = 0f;
+                    }
+                }
             }
             else if (Globals.inventoryMarium.WeaponAttack == "shortBow" || Globals.inventoryMarium.WeaponAttack == "longBow")
             {
@@ -181,20 +190,20 @@ public class ArmourForMarium : MonoBehaviour
             }
             else
             {
-                //if (this.name == "perR" || this.name == "perL")
-                //{
-                //    wName = "R_Weapon";
-                //    ShowUpgrade(Arrow, bow, "Arrow");
-                //}
-                //else if (this.name == "Mariam_Persp")
-                //{
-                //    wName = "R_Weapon";
-                //    ShowUpgrade1(Arrow, bow, "Arrow");
-                //}
-                //else if (this.name == "front" || this.name == "Mariam_Front")
-                //    wName = "B_Weapon";
-                //else if (this.name == "Back" || this.name == "Mariam_Back")
-                //    wName = "Weapon";
+                if (this.name == "perR" || this.name == "perL")
+                {
+                    wName = "R_Weapon";
+                    ShowUpgrade(Arrow, bow, "Arrow");
+                }
+                else if (this.name == "Mariam_Persp")
+                {
+                    wName = "R_Weapon";
+                    ShowUpgrade1(Arrow, bow, "Arrow");
+                }
+                else if (this.name == "front" || this.name == "Mariam_Front")
+                    wName = "B_Weapon";
+                else if (this.name == "Back" || this.name == "Mariam_Back")
+                    wName = "Weapon";
                 foreach (Slot item in slots)
                 {
                     if (item.ToString().Contains("B_Weapon"))
@@ -219,8 +228,10 @@ public class ArmourForMarium : MonoBehaviour
                     SetSkin("Padded Armor");
             }
             else
-                SetSkin("Padded Armor");
+                SetSkin("Normal");
+
         }
+
     }
     public void ShowUpgrade(string slot, string attachment, string skinName)
     {

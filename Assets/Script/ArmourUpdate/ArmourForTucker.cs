@@ -71,7 +71,8 @@ public class ArmourForTucker : MonoBehaviour
                     SetSkin("Padded Armor");
             }
             else
-                SetSkin("Padded Armor");
+                SetSkin("Normal");
+
             if (Globals.inventoryTucker.Helmet == "LeatherHelmet")
             {
                 if (this.name == "Back")
@@ -132,6 +133,12 @@ public class ArmourForTucker : MonoBehaviour
             }
             else
             {
+                Debug.Log("Default weapon Mace");
+
+                //ShowUpgrade(B_weapon, hammer, "Hammer2");
+                //ShowUpgrade(R_weapon, hammer1, "Hammer");
+
+
                 ShowUpgrade(B_weapon, mace, "Mace2");
                 ShowUpgrade(R_weapon, mace1, "Mace");
             }

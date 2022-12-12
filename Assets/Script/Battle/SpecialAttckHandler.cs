@@ -29,11 +29,12 @@ public class SpecialAttckHandler : MonoBehaviour
                 else
                     EnableButtons(false, false, false, false, false, true);
 
-                if (Globals.activeScene == Globals.CurrentScene.TheDeathWeight && battlePlayer.tag == "Player" && Globals.isBarghest && battlePlayer.GetComponent<EntityGroup>().lighteningBolt == 0 && Globals.battleManager.waveCount == 1)
+                if (Globals.activeScene == Globals.CurrentScene.TheDeathWeight && battlePlayer.tag == "Player" && Globals.isBarghest && battlePlayer.GetComponent<EntityGroup>().lighteningBolt == 0 && Globals.battleManager.waveCount == 2)
                 {
-                    Debug.Log("here lightning bolt true ya false...........");
+                    Debug.Log("here lightning bolt true ya false........... wave count TheDeathWeight " + Globals.battleManager.waveCount);
 
-                    if(battlePlayer.GetComponent<EntityGroup>().lighteningBoltDeathWight == 1)
+
+                    if (battlePlayer.GetComponent<EntityGroup>().lighteningBoltDeathWight == 1)
                     {
                         Debug.Log("lightning bolt true");
                         lightningBolt.interactable = true;
@@ -67,9 +68,10 @@ public class SpecialAttckHandler : MonoBehaviour
                     EnableButtons(false, false, false, false, false, true);
 
 
-                if (Globals.activeScene == Globals.CurrentScene.TheDeathWeight && battlePlayer.tag == "Player" && Globals.isBarghest && battlePlayer.GetComponent<EntityGroup>().lighteningBolt == 0 && Globals.battleManager.waveCount == 1)
+                if (Globals.activeScene == Globals.CurrentScene.TheDeathWeight && battlePlayer.tag == "Player" && Globals.isBarghest && battlePlayer.GetComponent<EntityGroup>().lighteningBolt == 0 && Globals.battleManager.waveCount == 2)
                 {
-                    Debug.Log("here lightning bolt true ya false...........");
+                    Debug.Log("here lightning bolt true ya false........... wave count TheDeathWeight " + Globals.battleManager.waveCount);
+
 
                     if (battlePlayer.GetComponent<EntityGroup>().lighteningBoltDeathWight == 1)
                     {
@@ -96,9 +98,9 @@ public class SpecialAttckHandler : MonoBehaviour
                     EnableButtons(false, false, false, false, false, true);
 
 
-                if (Globals.activeScene == Globals.CurrentScene.TheDeathWeight && battlePlayer.tag == "Player" && Globals.isBarghest && battlePlayer.GetComponent<EntityGroup>().lighteningBolt == 0 && Globals.battleManager.waveCount == 1)
+                if (Globals.activeScene == Globals.CurrentScene.TheDeathWeight && battlePlayer.tag == "Player" && Globals.isBarghest && battlePlayer.GetComponent<EntityGroup>().lighteningBolt == 0 && Globals.battleManager.waveCount == 2)
                 {
-                    Debug.Log("here lightning bolt true ya false...........");
+                    Debug.Log("here lightning bolt true ya false........... wave count TheDeathWeight " + Globals.battleManager.waveCount);
 
                     if (battlePlayer.GetComponent<EntityGroup>().lighteningBoltDeathWight == 1)
                     {

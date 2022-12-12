@@ -7,6 +7,7 @@ using UnityEngine.Timeline;
 using UnityEngine.UI;
 public class MotteAndBaileyCastle : MonoBehaviour
 {
+     GameObject inventory;
     public PlayerConfigurationLibrary playersLibrary;
     [HideInInspector]
     public GameObject character, lordAlfred, sargent,marium,john,tucker,soldier;
@@ -100,6 +101,9 @@ public class MotteAndBaileyCastle : MonoBehaviour
                 character = Instantiate(Globals.activePlayer, playerNewPos.position, Quaternion.identity);
                 playble.Play();
                 Globals.ActiveControls(character, false);
+                Debug.Log("Close quest true dialog 111 second part");
+                inventory = GameObject.Find("InventoryButton");
+                inventory.gameObject.SetActive(false);
             }
             else if (Globals.thirdFight)
             {
@@ -251,7 +255,8 @@ public class MotteAndBaileyCastle : MonoBehaviour
                         return;
                     lordAlfred = Instantiate(alf, lordAlfredNewPos.position, Quaternion.identity);
                     Globals.ActiveFaces(lordAlfred, false, false, true, false);
-                   // Globals.ActiveControls(character, true);
+                    Debug.Log("Active controller");
+                    //Globals.ActiveControls(character, true);
                 }
             }
             else
@@ -266,6 +271,9 @@ public class MotteAndBaileyCastle : MonoBehaviour
                 Debug.Log("part 1 battle............");
                 playble.transform.parent.gameObject.SetActive(true);
             }
+            Debug.Log("Close quest true dialog 777");
+            inventory = GameObject.Find("InventoryButton");
+            //inventory.gameObject.SetActive(true);
         }
         Globals.globalChar = character;
     }
@@ -383,6 +391,9 @@ public class MotteAndBaileyCastle : MonoBehaviour
                 else if (Globals.avatarState.AvatarName == "PriestFemale")
                     playble.playableAsset = Resources.Load("Playables/Motte and Bailey/Acolyte/Acolyte_F_4") as TimelineAsset;
                 playble.Play();
+                Debug.Log("Close quest false");
+                inventory = GameObject.Find("InventoryButton");
+                inventory.gameObject.SetActive(false);
             }
             else
             {
@@ -413,6 +424,12 @@ public class MotteAndBaileyCastle : MonoBehaviour
                     else if (Globals.avatarState.AvatarName == "PriestFemale")
                         playble.playableAsset = Resources.Load("Playables/Motte and Bailey/Acolyte/Acolyte_F_2") as TimelineAsset;
                     playble.Play();
+
+                    Debug.Log("Close quest false");
+                    inventory = GameObject.Find("InventoryButton");
+                    inventory.gameObject.SetActive(false);
+                    //Globals.ActiveControls(character, true);    
+
                 }
             }
         }
@@ -423,12 +440,15 @@ public class MotteAndBaileyCastle : MonoBehaviour
                 Debug.Log("............................................5");
                 foreach (var v in soldeirs)
                 {
+                    Debug.Log("if !=5");
                     Globals.ActiveFaces(v, false, false, true, false);
+
                 }
             }
             if(Globals.isPart1Battle && !Globals.isMotteyRetreat && !Globals.isRetreate && !Globals.isShieldWall)
             Globals.ActiveFaces(lordAlfred, false, false, true, false);
         }
+        Debug.Log("ENd of playable tout");
         Globals.ActiveControls(character, false);
         Globals.beforeMottey = false;
     }
@@ -494,6 +514,7 @@ public class MotteAndBaileyCastle : MonoBehaviour
                         newPlayble.transform.GetChild(0).GetComponent<PlayableDirector>().Play();
                         character.SetActive(false);
                         Globals.isSpecial = true;
+                        
                     }
                     else if (dialogCount == 10 && Globals.first)
                     {

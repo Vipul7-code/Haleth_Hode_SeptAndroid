@@ -789,7 +789,7 @@ public class BattleManager : MonoBehaviour
                     else
                     {
                         Debug.Log("generate death wight..........");
-                        BossEnemy(item, enemy, 330, 125, 9, 115, 215); //h:330
+                        BossEnemy(item, enemy, 350, 175, 9, 120, 145); //h:330 d;145
                     }
 
                     enemy.transform.localScale = new Vector3(0.7f, 0.7f, 1);
@@ -1347,7 +1347,6 @@ public class BattleManager : MonoBehaviour
         {
             if (Globals.isLightening && isLightning && activePlayer.tag == "Player" && (Globals.inventoryProtagnist.AttackWeapon == "MagicSword" || Globals.inventoryProtagnist.AttackWeapon == "Magic Bow") && TargetObject.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount < 0.2)
             {
-                Debug.Log("lord edward reanimated ::  die with lightining bolt ");
                 entity.bar.GetComponent<Image>().fillAmount = 0;
                 activePlayer.GetComponent<EntityGroup>().lighteningBolt = 1;
                 isLightning = false;
@@ -1368,42 +1367,39 @@ public class BattleManager : MonoBehaviour
 
             if (TargetObject.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount >= 0.5)
             {
-                Debug.Log("if 22");
+                Debug.Log("TargetObject.name______________________");
                 result = 0.1f;
                 entity.bar.GetComponent<Image>().fillAmount -= 0.1f;
                 //Debug.Log("if");
-                //if (Globals.isLightening && activePlayer.tag == "Player" && (Globals.inventoryProtagnist.AttackWeapon == "MagicSword" || Globals.inventoryProtagnist.AttackWeapon == "Magic Bow"))
-                //{
-                //    Debug.Log("if 11");
-                //    entity.bar.GetComponent<Image>().fillAmount = 0;
-                //    activePlayer.GetComponent<EntityGroup>().lighteningBolt = 1;
-                //    isLightning = false;
-                //}
-                //else
-                //{
-                //    Debug.Log("if 22");
-                //    result = 0.1f;
-                //}
+                if (Globals.isLightening && activePlayer.tag == "Player" && (Globals.inventoryProtagnist.AttackWeapon == "MagicSword" || Globals.inventoryProtagnist.AttackWeapon == "Magic Bow"))
+                {
+                    Debug.Log("if 11 >= 0.5 ");
+                    entity.bar.GetComponent<Image>().fillAmount -= 0.3f;
+                    activePlayer.GetComponent<EntityGroup>().lighteningBolt = 1;
+                    isLightning = false;
+                }
+                else
+                {
+                    Debug.Log("if 22");
+                    result = 0.1f;
+                }
             }
             else if (TargetObject.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount < 0.5f)
             {
-                Debug.Log("else");
-                if (animPlayer.tag == "Player" || animPlayer.tag == "Companion")
+                if (Globals.isLightening && activePlayer.tag == "Player" && isLightning)// && (Globals.inventoryProtagnist.AttackWeapon == "MagicSword" || Globals.inventoryProtagnist.AttackWeapon == "Magic Bow"))
                 {
-                    activePlayer.GetComponent<EntityGroup>().lighteningBoltDeathWight = 1;
-                }
-                if (Globals.isLightening && isLightning && activePlayer.tag == "Player" && (Globals.inventoryProtagnist.AttackWeapon == "MagicSword" || Globals.inventoryProtagnist.AttackWeapon == "Magic Bow"))
-                {
-                    Debug.Log("Death Wight ::  die with lightining bolt ");
-                    entity.bar.GetComponent<Image>().fillAmount = 0;
+                    Debug.Log("inside lighting bolt 1 if < 0.5f");
+                    entity.bar.GetComponent<Image>().fillAmount -= 0.3f;
                     activePlayer.GetComponent<EntityGroup>().lighteningBolt = 1;
                     isLightning = false;
                 }
                 else if (TargetObject.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount <= 0.2)
                 {
-                    // entity.bar.GetComponent<Image>().fillAmount = 
-                    missAttack.gameObject.SetActive(true);
-                    dealthWightMiss = true;
+                    Debug.Log("inside 2 <=0.2 if");
+
+                    //missAttack.gameObject.SetActive(true);
+                    entity.bar.GetComponent<Image>().fillAmount -= 0.1f;
+                    //dealthWightMiss = true;
 
                 }
                 else
@@ -1446,6 +1442,7 @@ public class BattleManager : MonoBehaviour
             //  Debug.Log("target name::" + TargetObject.name + "  bool::" + Globals.isBarghest);
             if (TargetObject.name == "DeathWeight(Clone)3" && Globals.isBarghest)
             {
+                Debug.Log("inside empyt if  DeathWeight(Clone)3");
                 //if (entity.bar.GetComponent<Image>().fillAmount >= 0.65f)
                 //{
                 //    entity.bar.GetComponent<Image>().fillAmount -= 0.1f;
@@ -1699,7 +1696,7 @@ public class BattleManager : MonoBehaviour
                             else if ((v.name == "DeathWeight(Clone)0" || v.name == "DeathWeight(Clone)1" || v.name == "DeathWeight(Clone)2" || v.name == "DeathWeight(Clone)3"))
                             {
                                 Debug.Log("barghest value :: " + Globals.isBarghest);
-                                Debug.Log("Helloooo :: " + Globals.deathWightNumber);
+                                Debug.Log("deathWightNumber :: " + Globals.deathWightNumber);
                                 if (Globals.isBarghest)
                                 {
                                     randomChance = 1f;
@@ -2471,7 +2468,7 @@ public class BattleManager : MonoBehaviour
             pos1 = new Vector3((pos1.x + 2), character.transform.position.y, 0);
             enemy = Instantiate(item.playerItemPrefab, pos1, Quaternion.identity);
             enemy.transform.localScale = new Vector3(0.7f, 0.7f, 0);
-            BossEnemy(item, enemy, 340, 200, 10, 150, 20); //h: 340 a:200 preValue= 440 , 260
+            BossEnemy(item, enemy, 340, 200, 10, 140, 20); //h: 340 d:200 preValue= 440 , 260, a:150
             enemy.GetComponent<EntityGroup>().originalPos = enemy.transform.localPosition;
             enemy.InitializePlayerItem(item);
         }
@@ -2751,7 +2748,7 @@ public class BattleManager : MonoBehaviour
                         else
                         {
                             Debug.Log("2222222222222");
-                            child.GetComponent<Animator>().SetTrigger("Death2");
+                            child.GetComponent<Animator>().SetTrigger("Death");
                         }
                     }
                     else

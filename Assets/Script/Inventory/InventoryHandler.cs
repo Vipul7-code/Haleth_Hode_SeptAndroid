@@ -7867,7 +7867,7 @@ void WeaponForJohnCharacter()
     }
     void InventorySetupForCompanion()
     {
-        Debug.Log("is character :: "+isCharacter+" is weapon :: "+isWeapon + " is shield :: "+isShield+" is armour :: "+isArmor + " is helmet :: "+ isHelmet);
+        
         if (isCharacter)
             FindObjectOfType<DataInInventory>().SetImage();
         if (isWeapon)

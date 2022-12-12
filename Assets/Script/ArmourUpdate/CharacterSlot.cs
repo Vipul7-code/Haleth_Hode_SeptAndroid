@@ -250,7 +250,7 @@ public class CharacterSlot : MonoBehaviour
                 }
                 else if (Globals.inventoryProtagnist.AttackWeapon == "Spear")
                 {
-                    ShowUpgrade(weapon, hammer, "Hammer2");
+                   // ShowUpgrade(weapon, hammer, "Hammer2");
                     ShowUpgrade(R_weapon, spear, "spear");
                 }
                 else if (Globals.inventoryProtagnist.AttackWeapon == "Mace")

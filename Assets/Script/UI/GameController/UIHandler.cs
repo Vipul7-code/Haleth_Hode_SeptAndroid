@@ -36,7 +36,7 @@ public class UIHandler : MonoBehaviour
     }
     public void ClickOnButton(string btn_name)
     {
-        Debug.Log("click........................");
+        Debug.Log("click........................"+btn_name);
         switch (btn_name)
         {
             case "Pause":

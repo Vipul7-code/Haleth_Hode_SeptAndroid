@@ -246,7 +246,6 @@ MonoBehaviour:
   axe1: single side axe
   hammer1: Hammer
   spear: spear
-  none: 
   shield: Shield
   smallShield: Small Round Shield
   mediumShield: 
@@ -458,7 +457,6 @@ MonoBehaviour:
   axe1: 
   hammer1: 
   spear: 
-  none: 
   shield: 
   smallShield: 
   mediumShield: 
@@ -923,13 +921,12 @@ MonoBehaviour:
   axe1: single side axe
   hammer1: Hammer
   spear: spear
-  none: 
   shield: Shield
   smallShield: Small Round Shield
   mediumShield: 
   bow: L_Weapon
   bow1: bow
-  Arrow: Arrow
+  Arrow: 
   arrow: Arrow
 --- !u!1 &4264833793478907568
 GameObject:
@@ -1096,7 +1093,6 @@ MonoBehaviour:
   axe1: 
   hammer1: 
   spear: 
-  none: 
   shield: 
   smallShield: 
   mediumShield: 

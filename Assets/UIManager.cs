@@ -86,6 +86,7 @@ public class UIManager : MonoBehaviour
     {
         if((atWaterCount==0 ||atWaterCount==1 || atWaterCount == 2 || atWaterCount == 3 || atWaterCount == 4 || atWaterCount == 5) && currentObjective== "RandomAttack")
         {
+            Debug.Log("At water RandomAttack" + atWaterCount);
             SettingOfCaravan();
             PetrolsSetting();
         }
@@ -109,6 +110,7 @@ public class UIManager : MonoBehaviour
     {
         if (Globals.caravanName.Count != 0)
         {
+            Debug.Log("set UI iCOns Caravan1");
             foreach (var v in Globals.caravanName)
             {
                 if (v == "Caravan1")
@@ -138,6 +140,7 @@ public class UIManager : MonoBehaviour
     {
         if (Globals.petrolsName.Count != 0)
         {
+            Debug.Log("set UI Petrol true");
             foreach (var v in Globals.petrolsName)
             {
                 if (v == "Petrol1")
@@ -244,6 +247,7 @@ public class UIManager : MonoBehaviour
     }
     void AtwaterPetrols(bool pet1,bool pet2,bool pet3)
     {
+        Debug.Log("enable collider at petrol");
         Globals.uiManager.atwaterpetrol1.SetActive(pet1);
         Globals.uiManager.atwaterpetrol2.SetActive(pet2);
         Globals.uiManager.atwaterPetrol3.SetActive(pet3);
@@ -782,7 +786,7 @@ public class UIManager : MonoBehaviour
         SetPetrolCarvanValue();
         if(Globals.activeScene == CurrentScene.RandomAttack)
         {
-            Debug.Log("here....... random");
+            Debug.Log("here....... random petrols");
             activeRandom = CurrentRandom.petrols;
         }
         Globals.secondVisit = Globals.avatarState.secondVisit;
@@ -1263,16 +1267,14 @@ public class UIManager : MonoBehaviour
                 Bag.SetActive(true);
                 questLog.SetActive(true);
                 Globals.levelManager.SpawnPlayer(prefabObject);            
-                Globals.avatarState.TotalXp = 8500; // 19870  320 41990 6760
-                Globals.avatarState.Level = 12;  //11 1 15 5
+                Globals.avatarState.TotalXp = 300; // 19870  300 41990 6760
+                Globals.avatarState.Level = 1;  //11 1 15 5
                 db.UpdateRecord<SelectedAvatar>(avatarState);
-                Globals.currentObjective = "TheDeathWeight";  // Monastery Sacred Place  Soldier Campsite Atwater Village   Motte and Bailey Castle  Brigand Village  // Huntington  //BarghestVillage TheDeathWeight
-                activeScene = CurrentScene.TheDeathWeight;
-                Globals.afterPromotion = true;
-                Globals.isLightening = true;
-                Globals.noOfCompanions = 1; //1
-               // Globals.soldierCampsiteVisit = 1;
-                //Globals.againVisit = 1;
+                Globals.currentObjective = "BarghestVillage";  // Monastery Sacred Place  Soldier Campsite Atwater Village   Motte and Bailey Castle  Brigand Village  // Huntington  //BarghestVillage TheDeathWeight
+                activeScene = CurrentScene.BarghestVillage;
+                Globals.afterPromotion = false;
+                Globals.isLightening = false;
+                Globals.noOfCompanions = 1; 
                 Debug.Log("load level.........."+ currentObjective);
                 Time.timeScale = 1;
                 FogOfWar(soldierCampsite);

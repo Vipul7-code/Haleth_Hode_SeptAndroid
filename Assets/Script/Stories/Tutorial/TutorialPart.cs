@@ -393,7 +393,7 @@ public class TutorialPart : MonoBehaviour
         }
         else if (Globals.conversationCount == 5)
         {
-            Globals.objectiveScene = "Huntsville_Damaged";//Huntsville_Mayor_Int
+            Globals.objectiveScene = "Huntsville_Mayor_Int";//Huntsville_Mayor_Int
             if (currentScene.name == "Huntsville_Inn_1stFloor" || currentScene.name == "Huntsville_Damaged")
                 SpawnPlayer();
         }

@@ -6,6 +6,8 @@ using Google;
 using System.Threading.Tasks;
 using Firebase.Auth;
 using Proyecto26;
+using Firebase.Extensions;
+
 public class GameCenterHandler : MonoBehaviour
 {
     // Start is called before the first frame update
@@ -86,7 +88,7 @@ public class GameCenterHandler : MonoBehaviour
     public void OnGoogleLogin()
     {
         GoogleSignIn.Configuration = configuration;
-        GoogleSignIn.DefaultInstance.SignIn().ContinueWith(
+        GoogleSignIn.DefaultInstance.SignIn().ContinueWithOnMainThread(
           OnAuthenticationFinished);
     }
     internal void OnAuthenticationFinished(Task<GoogleSignInUser> task)
