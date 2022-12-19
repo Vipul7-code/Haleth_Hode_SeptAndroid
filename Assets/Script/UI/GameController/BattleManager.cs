@@ -983,10 +983,10 @@ public class BattleManager : MonoBehaviour
                         if (item.playerItemPrefab.name == "AbbotChesterEnemy")
                         {
                             Debug.Log("abott chester enemy...............");
-                            BossEnemy(item, enemy, 1500, 350, 15, 135, 180);//350,270   h: 950 d:180 a: 200
+                            BossEnemy(item, enemy, 950, 180, 15, 135, 180);//350,270   h: 950 d:180 a: 200
                         }
                         else
-                            BossEnemy(item, enemy, 1000, 350, 14, 135, 180);//350,270   h: 950 d:180 a: 200
+                            BossEnemy(item, enemy, 950, 180, 14, 135, 180);//350,270   h: 950 d:180 a: 200
                     }
                     else
                         BossEnemy(item, enemy, 500, 300, 14, 105, 155); //h:320  a:355 d: 290
@@ -1023,24 +1023,43 @@ public class BattleManager : MonoBehaviour
                     enemy = Instantiate(item.playerItemPrefab, pos1, Quaternion.identity);
                     if (Globals.secondFight)
                     {
+                        Debug.Log("Second fight first if ");
                         if (waveCount == 0)
+                        {
+                            Debug.Log("first Wave of IF Second");
                             BossEnemy(item, enemy, 410, 250, 14, 150, 135); //h:310 d:180
+                        }
                         else if (item.playerItemPrefab.name == "LordEdwardReeve Variant")
                         {
                             Debug.Log("lord edward variant...............");
-                            BossEnemy(item, enemy, 1800, 400, 15, 135, 175);
+                            BossEnemy(item, enemy, 1000, 185, 15, 125, 145);
                         }
                         else
-                            BossEnemy(item, enemy, 610, 200, 14, 125, 135); //h:460 d:250
+                        {
+                            Debug.Log("Second fight first else");
+                            BossEnemy(item, enemy, 540, 150, 14, 125, 135); //h:460 d:250 610
+                        }
                     }
                     else
                     {
+                        Debug.Log("else if second");
+
                         if (waveCount == 0 || waveCount == 1)
-                            BossEnemy(item, enemy, 600, 180, 14, 150, 135); //310
+                        {
+
+                            Debug.Log("first Wave of esle");
+                            BossEnemy(item, enemy, 530, 140, 14, 140, 125); //600
+                        }
                         else if (waveCount == 2)
-                            BossEnemy(item, enemy, 610, 180, 14, 150, 135);
+                        {
+                            Debug.Log("Wave 2 else");
+                            BossEnemy(item, enemy, 540, 150, 14, 150, 135);
+                        }
                         else
-                            BossEnemy(item, enemy, 1400, 300, 14, 150, 155); // h:380 d: 230 // lord edward  //1000
+                        {
+                            Debug.Log("elseof second else");
+                            BossEnemy(item, enemy, 1000, 185, 14, 150, 145); // h:380 d: 230 // lord edward  //1000
+                        }
                     }
                     enemy.transform.localScale = new Vector3(0.7f, 0.7f, 1);
                     enemy.GetComponent<EntityGroup>().originalPos = pos1;
@@ -1347,14 +1366,14 @@ public class BattleManager : MonoBehaviour
         {
             if (Globals.isLightening && isLightning && activePlayer.tag == "Player" && (Globals.inventoryProtagnist.AttackWeapon == "MagicSword" || Globals.inventoryProtagnist.AttackWeapon == "Magic Bow") && TargetObject.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount < 0.2)
             {
-                entity.bar.GetComponent<Image>().fillAmount = 0;
+                entity.bar.GetComponent<Image>().fillAmount -= 0.3f;
                 activePlayer.GetComponent<EntityGroup>().lighteningBolt = 1;
                 isLightning = false;
             }
             else if (TargetObject.GetComponent<EntityGroup>().bar.GetComponent<Image>().fillAmount < 0.2)
             {
                 Debug.Log("no damage ");
-                result = 0f;
+                result = 0.1f;
             }
             else
             {

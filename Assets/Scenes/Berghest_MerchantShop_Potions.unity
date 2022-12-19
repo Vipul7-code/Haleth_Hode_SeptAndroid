@@ -3430,7 +3430,7 @@ PrefabInstance:
     - target: {fileID: 520294962804320102, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -1.6000977
+      value: -1.6001587
       objectReference: {fileID: 0}
     - target: {fileID: 520294962861142391, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
@@ -3480,6 +3480,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: cd861976353625e45b801eb0849633c4,
         type: 3}
+    - target: {fileID: 520294963614880225, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -5.6002197
+      objectReference: {fileID: 0}
     - target: {fileID: 520294963651270282, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
       propertyPath: m_IsActive
@@ -3550,7 +3555,7 @@ PrefabInstance:
     - target: {fileID: 520294964307267941, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -11.400024
+      value: -11.400055
       objectReference: {fileID: 0}
     - target: {fileID: 520294964353701884, guid: 88cc66b561be41b4ca91701fe2a6c1f3,
         type: 3}
@@ -7671,7 +7676,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
-  offset: {x: 0, y: 0}
+  offset: {x: 0, y: 4.28}
   damp: 5
   StartNow: 0
 --- !u!1 &1683451615

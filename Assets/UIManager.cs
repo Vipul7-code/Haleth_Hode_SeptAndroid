@@ -1270,8 +1270,8 @@ public class UIManager : MonoBehaviour
                 Globals.avatarState.TotalXp = 300; // 19870  300 41990 6760
                 Globals.avatarState.Level = 1;  //11 1 15 5
                 db.UpdateRecord<SelectedAvatar>(avatarState);
-                Globals.currentObjective = "BarghestVillage";  // Monastery Sacred Place  Soldier Campsite Atwater Village   Motte and Bailey Castle  Brigand Village  // Huntington  //BarghestVillage TheDeathWeight
-                activeScene = CurrentScene.BarghestVillage;
+                Globals.currentObjective = "Soldier Campsite";  // Monastery Sacred Place  Soldier Campsite Atwater Village   Motte and Bailey Castle  Brigand Village  // Huntington  //BarghestVillage TheDeathWeight
+                activeScene = CurrentScene.SoldierCampsite;
                 Globals.afterPromotion = false;
                 Globals.isLightening = false;
                 Globals.noOfCompanions = 1; 
